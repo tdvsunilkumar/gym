@@ -1,0 +1,1 @@
+[10-Oct-2022 23:13:13 UTC] PHP Warning:  rename(/home/powerfi1/public_html/gym/logs/error.log,/home/powerfi1/public_html/gym/logs/error.log.1665443593) [<a href='http://php.net/function.rename'>function.rename</a>]: No such file or directory in /home/powerfi1/public_html/gym/vendor/cakephp/cakephp/src/Log/Engine/FileLog.php on line 199

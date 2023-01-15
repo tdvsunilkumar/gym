@@ -1,0 +1,3264 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gym Master\n"
+"POT-Creation-Date: 2016-12-07 11:06+0530\n"
+"PO-Revision-Date: 2016-12-07 11:08+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:42
+#: Template/Membership/view_activity.ctp:50
+msgid "Add Activity"
+msgstr "Přidat Activity"
+
+#: Controller/ActivityController.php:69
+#: Controller/GymDailyWorkoutController.php:90
+#: Controller/GymDailyWorkoutController.php:191
+#: Controller/GymDailyWorkoutController.php:263
+#: Controller/GymMemberController.php:127
+#: Controller/GymMemberController.php:262
+#: Controller/MembershipPaymentController.php:199
+#: Controller/MembershipPaymentController.php:321
+msgid "Success! Record Saved Successfully."
+msgstr "Úspěch! Záznam úspěšně uloženy."
+
+#: Controller/ActivityController.php:80 Controller/GymGroupController.php:74
+#: Controller/GymReservationController.php:75
+msgid "Success! Record Deleted Successfully"
+msgstr "Úspěch! Záznam úspěšně smazána"
+
+#: Controller/ActivityController.php:88
+msgid "Edit Activity"
+msgstr "editovat aktivita"
+
+#: Controller/ActivityController.php:131
+#: Controller/GymAccountantController.php:80
+#: Controller/GymDailyWorkoutController.php:214
+#: Controller/GymDailyWorkoutController.php:351
+#: Controller/MembershipPaymentController.php:155
+#: Controller/MembershipPaymentController.php:244
+#: Controller/MembershipPaymentController.php:347
+#: Controller/StaffMembersController.php:92
+msgid "Success! Record Updated Successfully."
+msgstr "Úspěch! Záznam aktualizace úspěšně."
+
+#: Controller/AdminProfileController.php:52
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "Úspěch! opět rekordní Uloženo Successfully.Please přihlášení vidět změny."
+
+#: Controller/ClassScheduleController.php:41
+#: Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "Přidat plán třídy"
+
+#: Controller/ClassScheduleController.php:77
+#: Controller/GymReservationController.php:31
+#: Controller/GymReservationController.php:63
+#: Controller/MembershipController.php:61
+msgid "Success! Record Saved Successfully"
+msgstr "Úspěch! Záznam úspěšně uloženy"
+
+#: Controller/ClassScheduleController.php:80
+#: Controller/MembershipController.php:139
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "Chyba! Došlo k chybě při aktualizaci, Please try again later."
+
+#: Controller/ClassScheduleController.php:89
+msgid "Edit Class Schedule"
+msgstr "Upravit plán Class"
+
+#: Controller/ClassScheduleController.php:137
+#: Controller/GymGroupController.php:61 Controller/MembershipController.php:136
+msgid "Success! Record Updated Successfully"
+msgstr "Úspěch! Záznam Aktualizovaný Úspěšně"
+
+#: Controller/ClassScheduleController.php:147
+#: Controller/StaffMembersController.php:115
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "Úspěch! Zaměstnanec úspěšně smazána."
+
+#: Controller/Component/GYMFunctionComponent.php:259
+#: Template/GymMember/view_member.ctp:140
+msgid "Weight Report"
+msgstr "hmotnost Zpráva"
+
+#: Controller/Component/GYMFunctionComponent.php:260
+#: Controller/Component/GYMFunctionComponent.php:266
+#: Controller/Component/GYMFunctionComponent.php:272
+#: Controller/Component/GYMFunctionComponent.php:278
+#: Controller/Component/GYMFunctionComponent.php:284
+#: Controller/Component/GYMFunctionComponent.php:290
+#: Controller/Component/GYMFunctionComponent.php:296
+#: Template/GymMember/view_attendance.ctp:51
+msgid "Day"
+msgstr "Den"
+
+#: Controller/Component/GYMFunctionComponent.php:265
+#: Template/GymMember/view_member.ctp:190
+msgid "Thigh Report"
+msgstr "stehenní Zpráva"
+
+#: Controller/Component/GYMFunctionComponent.php:271
+#: Template/GymMember/view_member.ctp:240
+msgid "Height Report"
+msgstr "výška Zpráva"
+
+#: Controller/Component/GYMFunctionComponent.php:277
+#: Template/GymMember/view_member.ctp:264
+msgid "Chest Report"
+msgstr "Zpráva o hruď"
+
+#: Controller/Component/GYMFunctionComponent.php:283
+#: Template/GymMember/view_member.ctp:164
+msgid "Waist Report"
+msgstr "pas Zpráva"
+
+#: Controller/Component/GYMFunctionComponent.php:289
+#: Template/GymMember/view_member.ctp:214
+msgid "Arms Report"
+msgstr "Zpráva o zbrojní"
+
+#: Controller/Component/GYMFunctionComponent.php:295
+#: Template/GymMember/view_member.ctp:290
+msgid "Fat Report"
+msgstr "Fat Zpráva"
+
+#: Controller/Component/GYMFunctionComponent.php:378
+msgid "Not Paid"
+msgstr "nezaplaceno"
+
+#: Controller/Component/GYMFunctionComponent.php:380
+msgid "Partially Paid"
+msgstr "částečně hrazena"
+
+#: Controller/Component/GYMFunctionComponent.php:579
+msgid "Membership Reminder Alert!"
+msgstr "Členství Připomenutí Alert!"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "January"
+msgstr "Leden"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "February"
+msgstr "Únor"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "March"
+msgstr "Březen"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "April"
+msgstr "Duben"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "May"
+msgstr "Květen"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "June"
+msgstr "Červen"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "July"
+msgstr "Červenec"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "August"
+msgstr "Srpen"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "September"
+msgstr "Září"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "October"
+msgstr "Říjen"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "November"
+msgstr "Listopad"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "December"
+msgstr "Prosinec"
+
+#: Controller/Component/GYMFunctionComponent.php:617
+msgid "You are not authorized to access that location."
+msgstr "Nemáte oprávnění pro přístup k umístění."
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:57
+#: Template/Dashboard/dashboard.ctp:212
+#: Template/GymAttendance/attendance.ctp:61
+#: Template/GymMember/add_member.ctp:350 Template/GymNotice/add_notice.ctp:44
+#: Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:153
+#: Template/Reports/attendance_report.ctp:58
+msgid "Class"
+msgstr "Třída"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:57
+#: Template/GymAttendance/attendance.ctp:68
+#: Template/GymAttendance/staff_attendance.ctp:53
+msgid "Present"
+msgstr "{0}-{/0} {1}          {/1} {0}Přítomnost{/0}"
+
+#: Controller/DashboardController.php:106
+#: Controller/DashboardController.php:133 Controller/ReportsController.php:57
+#: Template/GymAttendance/attendance.ctp:70
+#: Template/GymAttendance/staff_attendance.ctp:55
+msgid "Absent"
+msgstr "nepřítomný"
+
+#: Controller/DashboardController.php:133
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:84
+#: Template/Dashboard/dashboard.ctp:69 Template/Dashboard/dashboard.ctp:266
+#: Template/Dashboard/member_dashboard.ctp:67
+#: Template/Dashboard/staff_acc_dashboard.ctp:67
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24
+#: Template/GymAccessright/access_right.ctp:31
+#: Template/GymMember/view_member.ctp:117 Template/GymNotice/add_notice.ctp:38
+#: Template/StaffMembers/add_staff.ctp:37
+#: Template/StaffMembers/staff_list.ctp:38
+msgid "Staff Member"
+msgstr "Zaměstnanec"
+
+#: Controller/GeneralSettingController.php:56
+#: Controller/GeneralSettingController.php:77
+msgid "Success! Settings Saved Successfully."
+msgstr "Úspěch! Nastavení úspěšně uloženy."
+
+#: Controller/GymAccessrightController.php:247
+msgid "Success! Settings Saved successfully."
+msgstr "Úspěch! Nastavení úspěšně uloženo."
+
+#: Controller/GymAccountantController.php:23
+#: Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "Přidat Accountant"
+
+#: Controller/GymAccountantController.php:39
+#: Controller/GymNoticeController.php:62 Controller/GymProductController.php:25
+#: Controller/GymStoreController.php:35
+#: Controller/StaffMembersController.php:44
+msgid "Success! Record Successfully Saved."
+msgstr "Úspěch! Záznam byl úspěšně uložen."
+
+#: Controller/GymAccountantController.php:60
+msgid "Edit Accountant"
+msgstr "Úpravy účetní"
+
+#: Controller/GymAccountantController.php:103
+#: Controller/MembershipPaymentController.php:359
+msgid "Success! Accountant Deleted Successfully."
+msgstr "Úspěch! Účetní úspěšně smazána."
+
+#: Controller/GymAjaxController.php:25
+msgid "Add/Remove Category"
+msgstr "Přidat / Odebrat Kategorie"
+
+#: Controller/GymAjaxController.php:30
+msgid "enter category name"
+msgstr "zadejte název kategorie"
+
+#: Controller/GymAjaxController.php:33 Controller/GymAjaxController.php:121
+#: Template/Activity/add_activity.ctp:41 Template/Membership/add.ctp:83
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "Přidat kategorii"
+
+#: Controller/GymAjaxController.php:42 Controller/GymAjaxController.php:214
+#: Controller/GymAjaxController.php:295
+msgid "Category"
+msgstr "Kategorie"
+
+#: Controller/GymAjaxController.php:43 Controller/GymAjaxController.php:131
+#: Controller/GymAjaxController.php:215 Controller/GymAjaxController.php:296
+#: Controller/GymAjaxController.php:376 Controller/GymAjaxController.php:454
+#: Controller/GymAjaxController.php:551 Controller/GymAjaxController.php:886
+#: Controller/GymAjaxController.php:992 Template/Activity/activity_list.ctp:55
+#: Template/Activity/activity_list.ctp:79
+#: Template/ClassSchedule/add_class.ctp:117
+#: Template/ClassSchedule/class_list.ctp:66
+#: Template/ClassSchedule/class_list.ctp:94
+#: Template/GymAccountant/accountant_list.ctp:57
+#: Template/GymAccountant/accountant_list.ctp:87
+#: Template/GymAssignWorkout/workout_log.ctp:55
+#: Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59
+#: Template/GymDailyWorkout/workout_list.ctp:85
+#: Template/GymGroup/group_list.ctp:47 Template/GymGroup/group_list.ctp:78
+#: Template/GymMember/member_list.ctp:72 Template/GymMember/member_list.ctp:120
+#: Template/GymNotice/notice_list.ctp:45 Template/GymNotice/notice_list.ctp:74
+#: Template/GymNutrition/nutrition_list.ctp:55
+#: Template/GymNutrition/nutrition_list.ctp:78
+#: Template/GymProduct/product_list.ctp:55
+#: Template/GymProduct/product_list.ctp:78
+#: Template/GymReservation/reservation_list.ctp:63
+#: Template/GymReservation/reservation_list.ctp:91
+#: Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:61
+#: Template/Membership/membership_list.ctp:58
+#: Template/Membership/membership_list.ctp:99
+#: Template/Membership/view_activity.ctp:63
+#: Template/Membership/view_activity.ctp:87
+#: Template/MembershipPayment/expense_list.ctp:42
+#: Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42
+#: Template/MembershipPayment/income_list.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102
+#: Template/StaffMembers/staff_list.ctp:59
+#: Template/StaffMembers/staff_list.ctp:89
+msgid "Action"
+msgstr "Akce"
+
+#: Controller/GymAjaxController.php:53 Controller/GymAjaxController.php:79
+#: Controller/GymAjaxController.php:141 Controller/GymAjaxController.php:168
+#: Controller/GymAjaxController.php:227 Controller/GymAjaxController.php:253
+#: Controller/GymAjaxController.php:308 Controller/GymAjaxController.php:336
+#: Controller/GymAjaxController.php:388 Controller/GymAjaxController.php:414
+#: Controller/GymAjaxController.php:466 Controller/GymAjaxController.php:492
+#: Controller/GymAjaxController.php:563 Controller/GymAjaxController.php:590
+#: Controller/GymAjaxController.php:1004 Controller/GymAjaxController.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:39
+#: Template/GymMessage/view_message.ctp:47
+#: Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:68 Template/GymStore/sell_record.ctp:51
+#: Template/MembershipPayment/add_expense.ctp:62
+#: Template/MembershipPayment/add_expense.ctp:84
+#: Template/MembershipPayment/add_income.ctp:73
+#: Template/MembershipPayment/add_income.ctp:95
+msgid "Delete"
+msgstr "Smazat"
+
+#: Controller/GymAjaxController.php:63 Controller/GymAjaxController.php:151
+#: Controller/GymAjaxController.php:238 Controller/GymAjaxController.php:319
+#: Controller/GymAjaxController.php:399 Controller/GymAjaxController.php:477
+#: Controller/GymAjaxController.php:574 Controller/GymAjaxController.php:917
+#: Controller/GymAjaxController.php:1015 Controller/GymAjaxController.php:1080
+#: Controller/GymAjaxController.php:1132 Controller/GymAjaxController.php:1284
+#: Controller/GymAjaxController.php:1420 Controller/GymAjaxController.php:1466
+msgid "Close"
+msgstr "Zavřít"
+
+#: Controller/GymAjaxController.php:104
+msgid "Add/Remove Instalment Plan"
+msgstr "Přidat / Odebrat splátky plán"
+
+#: Controller/GymAjaxController.php:109
+msgid "Enter Duration Number"
+msgstr "Vstup do duration Number"
+
+#: Controller/GymAjaxController.php:113
+msgid "Select Duration"
+msgstr "Vybrat Trvání"
+
+#: Controller/GymAjaxController.php:114
+#: Template/ClassSchedule/add_class.ctp:117
+msgid "Days"
+msgstr "Dny"
+
+#: Controller/GymAjaxController.php:115
+msgid "Week"
+msgstr "Týden"
+
+#: Controller/GymAjaxController.php:116 Template/Dashboard/dashboard.ctp:160
+#: Template/Reports/payment_report.ctp:33
+msgid "Month"
+msgstr "měsíční"
+
+#: Controller/GymAjaxController.php:117
+msgid "Year"
+msgstr "Rok"
+
+#: Controller/GymAjaxController.php:130
+msgid "Plan"
+msgstr "Plán"
+
+#: Controller/GymAjaxController.php:197
+msgid "Add/Remove Role"
+msgstr "Přidat / Odebrat roli"
+
+#: Controller/GymAjaxController.php:202
+msgid "Enter Role"
+msgstr "vstoupit do role"
+
+#: Controller/GymAjaxController.php:205 Controller/GymAjaxController.php:286
+msgid "Add Role"
+msgstr "Přidat funkci"
+
+#: Controller/GymAjaxController.php:230 Controller/GymAjaxController.php:311
+#: Controller/GymAjaxController.php:1007
+msgid "No roles added"
+msgstr "přidána žádná role"
+
+#: Controller/GymAjaxController.php:278
+msgid "Add/Remove Specialization"
+msgstr "Přidat / Odebrat specializace"
+
+#: Controller/GymAjaxController.php:283
+msgid "Enter Specialization"
+msgstr "Vstup do specializace"
+
+#: Controller/GymAjaxController.php:358
+msgid "Add/Remove Interest"
+msgstr "Přidat / Odebrat Zájem"
+
+#: Controller/GymAjaxController.php:363
+msgid "Enter Interest"
+msgstr "zadejte zájem"
+
+#: Controller/GymAjaxController.php:366
+msgid "Add Interest"
+msgstr "Přidat Zájem"
+
+#: Controller/GymAjaxController.php:375
+msgid "Interest"
+msgstr "5               ÚROK"
+
+#: Controller/GymAjaxController.php:391 Controller/GymAjaxController.php:469
+#: Controller/GymAjaxController.php:566
+msgid "No record added yet"
+msgstr "Zatím žádný záznam z přidané"
+
+#: Controller/GymAjaxController.php:436
+msgid "Add/Remove Source"
+msgstr "Přidat / Odebrat zdroj"
+
+#: Controller/GymAjaxController.php:441
+msgid "Enter Source"
+msgstr "Vstup do Zdroj"
+
+#: Controller/GymAjaxController.php:444
+msgid "Add Source"
+msgstr "Přidat zdroj"
+
+#: Controller/GymAjaxController.php:453
+msgid "Source List"
+msgstr "· Seznam dodavatelů"
+
+#: Controller/GymAjaxController.php:533
+msgid "Add/Remove Levels"
+msgstr "Přidat / Odebrat Úrovně"
+
+#: Controller/GymAjaxController.php:538
+msgid "Enter Level"
+msgstr "Vstup do úrovně"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController.php:726
+#: Template/GymAssignWorkout/assign_workout.ctp:78
+msgid "Add Level"
+msgstr "Přidat úroveň"
+
+#: Controller/GymAjaxController.php:550
+msgid "Levels"
+msgstr "úroveň."
+
+#: Controller/GymAjaxController.php:673 Controller/GymAjaxController.php:750
+#: Template/Activity/activity_list.ctp:36 Template/Activity/add_activity.ctp:21
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96
+#: Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:151
+#: Template/GymAssignWorkout/assign_workout.ctp:175
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:63
+#: Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "Činnosti"
+
+#: Controller/GymAjaxController.php:674 Controller/GymAjaxController.php:686
+#: Controller/GymAjaxController.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:176
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:64
+#: Template/GymAssignWorkout/print_workout.ctp:61
+msgid "Sets"
+msgstr "soupravy"
+
+#: Controller/GymAjaxController.php:675 Controller/GymAjaxController.php:687
+#: Controller/GymAjaxController.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:177
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:65
+#: Template/GymAssignWorkout/print_workout.ctp:62
+msgid "Reps"
+msgstr "opakování"
+
+#: Controller/GymAjaxController.php:676 Controller/GymAjaxController.php:753
+#: Template/GymAssignWorkout/assign_workout.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66
+#: Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr "10,9 kg)"
+
+#: Controller/GymAjaxController.php:677 Controller/GymAjaxController.php:754
+#: Template/GymAssignWorkout/assign_workout.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67
+#: Template/GymAssignWorkout/print_workout.ctp:64
+msgid "Rest Time"
+msgstr "Čas odpočink"
+
+#: Controller/GymAjaxController.php:688
+msgid "Kg"
+msgstr "10,9 kg)"
+
+#: Controller/GymAjaxController.php:689
+msgid "Min"
+msgstr "Min"
+
+#: Controller/GymAjaxController.php:693
+msgid "Your Workout"
+msgstr "tréninku"
+
+#: Controller/GymAjaxController.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "Žádné cvičení určen pro today.You lze přidat data z níže."
+
+#: Controller/GymAjaxController.php:710
+#: Template/GymAssignWorkout/assign_workout.ctp:71
+msgid "Level"
+msgstr "Úroveň"
+
+#: Controller/GymAjaxController.php:713
+#: Template/GymAssignWorkout/assign_workout.ctp:74
+msgid "Select Level"
+msgstr "Vybrat úroveň"
+
+#: Controller/GymAjaxController.php:736
+msgid "Category List"
+msgstr "Seznam kategorií"
+
+#: Controller/GymAjaxController.php:874
+msgid "Edit/Delete Measurement"
+msgstr "Upravit / Smazat Měření"
+
+#: Controller/GymAjaxController.php:882
+msgid "Image"
+msgstr "Obrázek"
+
+#: Controller/GymAjaxController.php:883
+msgid "Measurement"
+msgstr "{0} {/0} {1}Výměra{/1}"
+
+#: Controller/GymAjaxController.php:884
+#: Template/GymDailyWorkout/add_measurment.ctp:62
+msgid "Result"
+msgstr "A výsledek?"
+
+#: Controller/GymAjaxController.php:885
+msgid "Record Date"
+msgstr "Record Date"
+
+#: Controller/GymAjaxController.php:908
+msgid "No Data Found."
+msgstr "Nenalezena žádná data."
+
+#: Controller/GymAjaxController.php:974
+msgid "Add/Remove Event Place"
+msgstr "Přidat / Odebrat srazu Místo"
+
+#: Controller/GymAjaxController.php:979
+msgid "Enter Place Name"
+msgstr "Zadejte název místa"
+
+#: Controller/GymAjaxController.php:982
+msgid "Add Place"
+msgstr "Přidat místo"
+
+#: Controller/GymAjaxController.php:991
+msgid "Place Name"
+msgstr "místo Jméno"
+
+#: Controller/GymAjaxController.php:1059
+msgid "Group Members"
+msgstr "Členové skupiny"
+
+#: Controller/GymAjaxController.php:1074
+msgid "No Members Assigned Yet."
+msgstr "Žádní členové účelově Přesto."
+
+#: Controller/GymAjaxController.php:1093 Controller/GymAjaxController.php:1127
+msgid "Add Payment"
+msgstr "Přidat platbu"
+
+#: Controller/GymAjaxController.php:1101
+#: Template/MembershipPayment/payment_list.ctp:52
+#: Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "zaplacená částka"
+
+#: Controller/GymAjaxController.php:1110
+msgid "Payment By"
+msgstr "platba By"
+
+#: Controller/GymAjaxController.php:1116
+msgid "Paypal"
+msgstr "paypal"
+
+#: Controller/GymAjaxController.php:1119
+msgid "Cash"
+msgstr "V hotovosti"
+
+#: Controller/GymAjaxController.php:1120
+msgid "Cheque"
+msgstr "Kontrola"
+
+#: Controller/GymAjaxController.php:1121
+msgid "Bank Transfer"
+msgstr "Bankovní převod"
+
+#: Controller/GymAjaxController.php:1166 Controller/GymAjaxController.php:1315
+msgid "Invoice"
+msgstr "Faktura"
+
+#: Controller/GymAjaxController.php:1179 Controller/GymAjaxController.php:1328
+#: Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "Datum vydání"
+
+#: Controller/GymAjaxController.php:1180 Controller/GymAjaxController.php:1329
+#: Template/GymAttendance/attendance.ctp:77
+#: Template/GymAttendance/attendance.ctp:80
+#: Template/GymAttendance/staff_attendance.ctp:62
+#: Template/GymAttendance/staff_attendance.ctp:65
+#: Template/GymMember/member_list.ctp:73 Template/GymMember/member_list.ctp:121
+#: Template/GymMember/view_member.ctp:122
+#: Template/MembershipPayment/add_expense.ctp:33
+#: Template/MembershipPayment/add_income.ctp:44
+#: Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "Stav"
+
+#: Controller/GymAjaxController.php:1193 Controller/GymAjaxController.php:1342
+#: Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "Chcete-li platba"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController.php:1345
+#: Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "Bill"
+
+#: Controller/GymAjaxController.php:1227
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:51
+#: Template/Element/sidebar.ctp:33 Template/GymAccessright/access_right.ctp:61
+msgid "Membership Type"
+msgstr "Typ členství"
+
+#: Controller/GymAjaxController.php:1228
+msgid "Sign Up Fee"
+msgstr "Registrace poplatek"
+
+#: Controller/GymAjaxController.php:1229
+msgid "Membership Fee"
+msgstr "Členský poplatek"
+
+#: Controller/GymAjaxController.php:1230
+msgid "Total"
+msgstr "Celkem"
+
+#: Controller/GymAjaxController.php:1244
+#: Template/MembershipPayment/print_invoice.ctp:143
+msgid "Subtotal :"
+msgstr "Mezisoučet"
+
+#: Controller/GymAjaxController.php:1248
+msgid "Payment Made :"
+msgstr "Platba Made:"
+
+#: Controller/GymAjaxController.php:1252
+msgid "Due Amount  :"
+msgstr "Dlužná částka :"
+
+#: Controller/GymAjaxController.php:1260
+msgid "Payment History"
+msgstr "Historie plateb"
+
+#: Controller/GymAjaxController.php:1264 Controller/GymAjaxController.php:1383
+#: Template/GymAttendance/attendance.ctp:31
+#: Template/GymAttendance/attendance.ctp:62
+#: Template/GymAttendance/staff_attendance.ctp:26
+#: Template/GymDailyWorkout/view_workout.ctp:31
+#: Template/GymMember/view_attendance.ctp:50 Template/GymMessage/inbox.ctp:55
+#: Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:39
+#: Template/MembershipPayment/add_expense.ctp:42
+#: Template/MembershipPayment/add_income.ctp:53
+#: Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69
+#: Template/MembershipPayment/income_list.ctp:41
+#: Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:79
+msgid "Date"
+msgstr "Datum"
+
+#: Controller/GymAjaxController.php:1265 Template/GymMember/view_member.ctp:382
+#: Template/GymMember/view_member.ctp:410
+#: Template/GymSubscriptionHistory/index.ctp:41
+#: Template/GymSubscriptionHistory/index.ctp:69 Template/Membership/add.ctp:142
+#: Template/MembershipPayment/expense_list.ctp:40
+#: Template/MembershipPayment/expense_list.ctp:68
+#: Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68
+#: Template/MembershipPayment/payment_list.ctp:51
+#: Template/MembershipPayment/payment_list.ctp:96
+msgid "Amount"
+msgstr "Množství"
+
+#: Controller/GymAjaxController.php:1266
+msgid "Method"
+msgstr "Metoda"
+
+#: Controller/GymAjaxController.php:1378
+#: Template/MembershipPayment/print_invoice.ctp:74
+msgid "Invoice Entries"
+msgstr "Faktura Příspěvky"
+
+#: Controller/GymAjaxController.php:1384
+#: Template/MembershipPayment/print_invoice.ctp:80
+msgid "Entry"
+msgstr "Vstup"
+
+#: Controller/GymAjaxController.php:1385
+#: Template/MembershipPayment/print_invoice.ctp:81
+msgid "Price"
+msgstr "Cena"
+
+#: Controller/GymAjaxController.php:1386
+#: Template/AdminProfile/edit_profile.ctp:62
+#: Template/GymAccountant/add_accountant.ctp:114
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:248
+#: Template/GymMember/view_member.ctp:84
+#: Template/GymProfile/view_profile.ctp:64 Template/Installer/index.ctp:483
+#: Template/MemberRegistration/index.ctp:225
+#: Template/MembershipPayment/print_invoice.ctp:82
+#: Template/StaffMembers/add_staff.ctp:149 Template/Users/login.ctp:26
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: Controller/GymAjaxController.php:1409
+#: Template/MembershipPayment/print_invoice.ctp:165
+msgid "Grand Total :"
+msgstr "Celkový součet :"
+
+#: Controller/GymAjaxController.php:1418
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:55
+#: Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "Tisk"
+
+#: Controller/GymAjaxController.php:1435
+msgid "Notice Detail"
+msgstr "oznámení Detail"
+
+#: Controller/GymAjaxController.php:1440
+msgid "Notice Title "
+msgstr "oznámení Název "
+
+#: Controller/GymAjaxController.php:1445 Template/GymNotice/notice_list.ctp:42
+#: Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "oznámení Comment"
+
+#: Controller/GymAjaxController.php:1450 Template/GymNotice/add_notice.ctp:35
+#: Template/GymNotice/notice_list.ctp:43 Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "upozornění pro"
+
+#: Controller/GymAjaxController.php:1455
+#: Template/GymAssignWorkout/assign_workout.ctp:88
+#: Template/GymDailyWorkout/add_workout.ctp:120
+#: Template/GymMember/view_attendance.ctp:30
+#: Template/GymNotice/add_notice.ctp:53
+#: Template/GymNutrition/addnutrition_schedule.ctp:46
+msgid "Start Date"
+msgstr "Datum zahájení"
+
+#: Controller/GymAjaxController.php:1460
+msgid "End Date "
+msgstr "Datum ukončení "
+
+#: Controller/GymAssignWorkoutController.php:40
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:105
+#: Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:46
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25
+#: Template/GymAssignWorkout/workout_log.ctp:36
+#: Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "přiřazení cvičení"
+
+#: Controller/GymAssignWorkoutController.php:101
+#: Controller/GymAssignWorkoutController.php:272
+msgid "success! Record Saved Successfully."
+msgstr "úspěch! Záznam úspěšně uloženy."
+
+#: Controller/GymAssignWorkoutController.php:103
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "Chyba! Cvičení dny údaje nemohly saved.Please zkuste to znovu."
+
+#: Controller/GymAssignWorkoutController.php:108
+#: Controller/GymAssignWorkoutController.php:278
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "Chyba! Záznam nemohl saved.Please zkuste to znovu."
+
+#: Controller/GymAssignWorkoutController.php:196
+#: Template/GymDailyWorkout/view_workout.ctp:13
+msgid "View Workout"
+msgstr "Zobrazit cvičení"
+
+#: Controller/GymAssignWorkoutController.php:275
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "Chyba! Cvičení dnů Daya nemohl saved.Please zkuste to znovu."
+
+#: Controller/GymAssignWorkoutController.php:299
+#: Controller/GymMemberController.php:296
+#: Controller/MembershipPaymentController.php:256
+msgid "Success! Record Deleted Successfully."
+msgstr "Úspěch! Záznam úspěšně smazána."
+
+#: Controller/GymAttendanceController.php:78
+#: Controller/GymAttendanceController.php:142
+msgid "Success! Attendance Saved Successfully."
+msgstr "Úspěch! Účast úspěšně uloženy."
+
+#: Controller/GymAttendanceController.php:146
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "Chyba! Prosím, vyberte členské / zaměstnance-člena."
+
+#: Controller/GymDailyWorkoutController.php:42
+#: Template/GymDailyWorkout/add_measurment.ctp:26
+#: Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "Přidat trénink"
+
+#: Controller/GymDailyWorkoutController.php:234
+#: Template/GymDailyWorkout/add_workout.ctp:93
+#: Template/GymDailyWorkout/view_workout.ctp:19
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "Přidat Měření"
+
+#: Controller/GymDailyWorkoutController.php:328
+msgid "Edit Measurement"
+msgstr "editovat měření"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "Test E-mail"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:135
+msgid "Add Group"
+msgstr "Add Group"
+
+#: Controller/GymGroupController.php:35
+msgid "Success! Group Added Successfully."
+msgstr "Úspěch! Skupina úspěšně přidána."
+
+#: Controller/GymGroupController.php:42
+msgid "Edit Group"
+msgstr "Upravit skupinu"
+
+#: Controller/GymMemberController.php:56
+#: Template/GymAssignWorkout/assign_workout.ctp:67
+#: Template/GymDailyWorkout/add_workout.ctp:110
+#: Template/GymMember/member_list.ctp:55
+#: Template/GymNutrition/addnutrition_schedule.ctp:42
+msgid "Add Member"
+msgstr "Přidat člena"
+
+#: Controller/GymMemberController.php:178
+msgid "Edit Member"
+msgstr "editovat člen"
+
+#: Controller/GymMemberController.php:388
+msgid "Success! Member activated successfully."
+msgstr "Úspěch! Členské úspěšně aktivován."
+
+#: Controller/GymMessageController.php:145
+msgid "Success! Message Sent Successfully."
+msgstr "Úspěch! Zpráva odeslána úspěšně."
+
+#: Controller/GymMessageController.php:147
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "Chyba! Zpráva nemohla být odeslána, zkuste to znovu."
+
+#: Controller/GymMessageController.php:195
+msgid "Success! Message Deleted Successfully."
+msgstr "Úspěch! Zpráva úspěšně smazána."
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "Úspěch! Api Key Úspěšně uloženo."
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "Úspěch! Api Klíč byl úspěšně aktualizován."
+
+#: Controller/GymNewsletterController.php:92
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "Úspěch! Mail Synchronizace úspěšně za námi."
+
+#: Controller/GymNewsletterController.php:128
+msgid "Campaign Tests Not Sent!"
+msgstr "Testy kampaně nejsou odeslány!"
+
+#: Controller/GymNewsletterController.php:130
+msgid "Campaign Tests Sent!"
+msgstr "Testy kampaň odeslala!"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:28
+#: Controller/GymStoreController.php:39
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "Chyba! Záznam Ne Saved.Please zkuste to znovu."
+
+#: Controller/GymNoticeController.php:91 Controller/GymProductController.php:43
+#: Controller/GymStoreController.php:61
+msgid "Success! Record Successfully Updated."
+msgstr "Úspěch! Záznam byl úspěšně aktualizován."
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:46
+#: Controller/GymStoreController.php:64
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "Chyba! Záznam Ne Updated.Please zkuste to znovu."
+
+#: Controller/GymNoticeController.php:105 Controller/GymStoreController.php:75
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "Úspěch! Záznam Deleted úspěšně aktualizován."
+
+#: Controller/GymNutritionController.php:38
+#: Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "Přidat výživy plán"
+
+#: Controller/GymNutritionController.php:75
+#: Controller/GymNutritionController.php:215
+msgid "Success"
+msgstr "úspěch"
+
+#: Controller/GymNutritionController.php:79
+#: Controller/GymNutritionController.php:219
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "Chyba! Nutriční údaje nemohl saved.Please zkuste to znovu."
+
+#: Controller/GymNutritionController.php:83
+#: Controller/GymNutritionController.php:223
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "Chyba! Výživa plán nemohl saved.Please zkuste to znovu."
+
+#: Controller/GymNutritionController.php:170
+msgid "View Nutrition Schedule"
+msgstr "Pohled Výživa Plán"
+
+#: Controller/GymProfileController.php:26
+msgid ""
+"Error! New password and confirm password does not matched.Please try again."
+msgstr "Chyba! Nové heslo a potvrzení hesla není matched.Please zkuste to znovu."
+
+#: Controller/GymProfileController.php:33
+#: Controller/GymProfileController.php:57
+msgid "Success! Password Updated Successfully"
+msgstr "Úspěch! Heslo Aktualizovaný Úspěšně"
+
+#: Controller/GymProfileController.php:37
+msgid "Error! Current password is wrong.Please try again."
+msgstr "Chyba! Aktuální heslo je wrong.Please zkuste to znovu."
+
+#: Controller/GymProfileController.php:61
+msgid "Error! Email-id already exists.Please try again."
+msgstr "Chyba! E-id již exists.Please zkuste to znovu."
+
+#: Controller/MemberRegistrationController.php:98
+msgid "Registration completed successfully. Please Check email"
+msgstr "Registrace byla úspěšně dokončena. Prosím zkontrolujte e-mail"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:71
+#: Template/GymMember/add_member.ctp:345
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "Přidat členství"
+
+#: Controller/MembershipController.php:64
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "Chyba! Došlo k chybě při ukládání, Please try again later."
+
+#: Controller/MembershipController.php:91
+msgid "Edit Membership"
+msgstr "editovat Členství"
+
+#: Controller/MembershipController.php:183
+msgid "Success! Activity Successfully Assigned."
+msgstr "Úspěch! Aktivita úspěšně přiřazen."
+
+#: Controller/MembershipController.php:193
+msgid "Success! Activity Unassigned Successfully."
+msgstr "Úspěch! Aktivita Unassigned Úspěšně."
+
+#: Controller/MembershipPaymentController.php:63
+#: Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "Úspěch! Platba úspěšně přidána."
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "Úspěch! Platba Record úspěšně smazána."
+
+#: Controller/MembershipPaymentController.php:385
+#: Controller/MembershipPaymentController.php:406
+msgid "Success! Payment Successfully Completed."
+msgstr "Úspěch! Platba byla úspěšně dokončena."
+
+#: Controller/MembershipPaymentController.php:409
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "Paypal Platba IPN uložit nepodařilo DB."
+
+#: Controller/StaffMembersController.php:22
+#: Template/Activity/add_activity.ctp:60
+msgid "Add Staff Member"
+msgstr "Přidat zaměstnanec"
+
+#: Controller/StaffMembersController.php:65
+msgid "Edit Staff Member"
+msgstr "Editovat zaměstnanec"
+
+#: Controller/UsersController.php:48
+msgid "Sorry, Your account is expired."
+msgstr "Je nám líto, Váš účet vypršela."
+
+#: Controller/UsersController.php:58
+msgid "Error! Your account not activated yet!"
+msgstr "Chyba! Váš účet není aktivován ještě!"
+
+#: Controller/UsersController.php:98
+msgid "Invalid username or password, try again"
+msgstr "Neplatné uživatelské jméno nebo heslo, zkuste to znovu"
+
+#: View/Helper/GymHelper.php:233
+msgid "Not Taken"
+msgstr "neberou"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:80
+#: Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "Členové"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261
+msgid "Staff Members"
+msgstr "Počet členů služebního"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261
+msgid "Accountants"
+msgstr "Accountants"
+
+#: View/Helper/GymHelper.php:261
+msgid "Administrator"
+msgstr "Správce"
+
+#: View/Helper/GymHelper.php:476
+msgid "No data available in table"
+msgstr "k dispozici v tabulce žádné údaje"
+
+#: View/Helper/GymHelper.php:477
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "Ukazující _START_ na _END_ přihlášek _TOTAL_"
+
+#: View/Helper/GymHelper.php:478
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "Ukazovat 0 až 0 z 0 záznamů"
+
+#: View/Helper/GymHelper.php:479
+msgid "(filtered from _MAX_ total entries)"
+msgstr "(Filtrovaný z celkem záznamů _MAX_)"
+
+#: View/Helper/GymHelper.php:482
+msgid "Show _MENU_ entries"
+msgstr "Zobrazit položky _MENU_"
+
+#: View/Helper/GymHelper.php:483
+msgid "Loading..."
+msgstr "Nahrávání ..."
+
+#: View/Helper/GymHelper.php:484
+msgid "Processing..."
+msgstr "Zpracovává se..."
+
+#: View/Helper/GymHelper.php:485
+msgid "Search"
+msgstr "Hledat"
+
+#: View/Helper/GymHelper.php:486
+msgid "No matching records found"
+msgstr "Nebyly nalezeny žádné odpovídající záznamy"
+
+#: View/Helper/GymHelper.php:488
+msgid "First"
+msgstr "První"
+
+#: View/Helper/GymHelper.php:489
+msgid "Last"
+msgstr "Poslední"
+
+#: View/Helper/GymHelper.php:490
+msgid "Next"
+msgstr "Další"
+
+#: View/Helper/GymHelper.php:491
+msgid "Previous"
+msgstr "Předchozí"
+
+#: View/Helper/GymHelper.php:494
+msgid "activate to sort column ascending"
+msgstr "aktivovat třídit sloupce vzestupně"
+
+#: View/Helper/GymHelper.php:495
+msgid "activate to sort column descending"
+msgstr "aktivovat třídit sloupce sestupně"
+
+#: Template/Activity/activity_list.ctp:35 Template/Activity/add_activity.ctp:24
+msgid "Activity List"
+msgstr "Seznam činnost"
+
+#: Template/Activity/activity_list.ctp:52
+#: Template/Activity/activity_list.ctp:76
+#: Template/Membership/view_activity.ctp:60
+#: Template/Membership/view_activity.ctp:84
+msgid "Activity Name"
+msgstr "Jméno aktivita"
+
+#: Template/Activity/activity_list.ctp:53
+#: Template/Activity/activity_list.ctp:77
+#: Template/Membership/view_activity.ctp:61
+#: Template/Membership/view_activity.ctp:85
+msgid "Activity Category"
+msgstr "aktivita Kategorie"
+
+#: Template/Activity/activity_list.ctp:54
+#: Template/Activity/activity_list.ctp:78
+#: Template/Membership/view_activity.ctp:62
+#: Template/Membership/view_activity.ctp:86
+msgid "Activity Trainer"
+msgstr "Trenér činnost"
+
+#: Template/Activity/add_activity.ctp:34 Template/Activity/add_activity.ctp:37
+#: Template/Membership/add.ctp:80 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "Vyberte kategorii"
+
+#: Template/Activity/add_activity.ctp:45
+msgid "Activity Title"
+msgstr "aktivita Název"
+
+#: Template/Activity/add_activity.ctp:53
+msgid "Assign to Staff Member"
+msgstr "Přiřadit zaměstnanec"
+
+#: Template/Activity/add_activity.ctp:56
+#: Template/ClassSchedule/add_class.ctp:41
+#: Template/ClassSchedule/add_class.ctp:43
+#: Template/ClassSchedule/add_class.ctp:58
+#: Template/GymMember/add_member.ctp:273 Template/GymMember/add_member.ctp:275
+#: Template/GymMember/add_member.ctp:305
+msgid "Select Staff Member"
+msgstr "Vyberte zaměstnanec"
+
+#: Template/Activity/add_activity.ctp:64 Template/GymMember/add_member.ctp:342
+#: Template/MemberRegistration/index.ctp:267
+#: Template/MembershipPayment/generate_payment_invoice.ctp:70
+msgid "Select Membership"
+msgstr "Vybrat Členství"
+
+#: Template/Activity/add_activity.ctp:75
+msgid "Save Activity"
+msgstr "Uložit Aktivita"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "profil Nastavení"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "Administrátor"
+
+#: Template/AdminProfile/edit_profile.ctp:34
+#: Template/GymAccountant/add_accountant.ctp:32
+#: Template/GymMember/add_member.ctp:80
+#: Template/MemberRegistration/index.ctp:103
+#: Template/StaffMembers/add_staff.ctp:48
+msgid "Personal Information"
+msgstr "Osobní informace"
+
+#: Template/AdminProfile/edit_profile.ctp:39
+#: Template/GymAccountant/add_accountant.ctp:34
+#: Template/GymMember/add_member.ctp:91
+#: Template/MemberRegistration/index.ctp:114
+#: Template/StaffMembers/add_staff.ctp:50
+msgid "First Name"
+msgstr "Jméno"
+
+#: Template/AdminProfile/edit_profile.ctp:46
+#: Template/GymAccountant/add_accountant.ctp:48
+#: Template/GymMember/add_member.ctp:105
+#: Template/MemberRegistration/index.ctp:128
+#: Template/StaffMembers/add_staff.ctp:64
+msgid "Last Name"
+msgstr "Příjmení"
+
+#: Template/AdminProfile/edit_profile.ctp:53
+#: Template/GeneralSetting/save_setting.ctp:159
+#: Template/GymAccountant/add_accountant.ctp:105
+#: Template/GymDailyWorkout/workout_list.ctp:58
+#: Template/GymDailyWorkout/workout_list.ctp:84
+#: Template/GymMember/add_member.ctp:187 Template/GymMember/view_member.ctp:68
+#: Template/GymProfile/view_profile.ctp:140 Template/Installer/index.ctp:393
+#: Template/MemberRegistration/index.ctp:215
+#: Template/StaffMembers/add_staff.ctp:140
+msgid "Email"
+msgstr "E-mail"
+
+#: Template/AdminProfile/edit_profile.ctp:60
+#: Template/GymAccountant/add_accountant.ctp:112
+#: Template/GymMember/add_member.ctp:246
+#: Template/MemberRegistration/index.ctp:222
+#: Template/StaffMembers/add_staff.ctp:147
+msgid "Login Information"
+msgstr "přihlašovací údaje"
+
+#: Template/AdminProfile/edit_profile.ctp:69
+#: Template/GymAccountant/add_accountant.ctp:121
+#: Template/GymEmailSetting/index.ctp:40 Template/GymMember/add_member.ctp:255
+#: Template/Installer/index.ctp:491 Template/MemberRegistration/index.ctp:232
+#: Template/StaffMembers/add_staff.ctp:156 Template/Users/login.ctp:27
+msgid "Password"
+msgstr "Heslo"
+
+#: Template/AdminProfile/edit_profile.ctp:76
+#: Template/GymAccountant/add_accountant.ctp:128
+#: Template/GymDailyWorkout/add_measurment.ctp:74
+#: Template/GymMember/add_member.ctp:262
+#: Template/MemberRegistration/index.ctp:239
+#: Template/StaffMembers/add_staff.ctp:163
+msgid "Display Image"
+msgstr "Zobrazit obrázek"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "Uložit Podrobnosti"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:17
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:46
+#: Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:17
+#: Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "Nástenka"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56
+#: Template/Dashboard/dashboard.ctp:82
+#: Template/Dashboard/member_dashboard.ctp:80
+#: Template/Dashboard/staff_acc_dashboard.ctp:80
+#: Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:91
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28
+#: Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:130
+#: Template/MemberRegistration/index.ctp:160
+msgid "Group"
+msgstr "Skupina"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61
+#: Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "Třída & Nutrition Plán"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66
+#: Template/ClassSchedule/add_class.ctp:22
+#: Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48
+#: Template/GymAccessright/access_right.ctp:181
+msgid "Class Schedule"
+msgstr "Třídní rozvrh"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70
+#: Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:601
+#: Template/GymNutrition/addnutrition_schedule.ctp:22
+#: Template/GymNutrition/member_nutrition.ctp:19
+#: Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "výživa Plán"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76
+#: Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "Členské Vedení"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89
+#: Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:301
+#: Template/GymAccountant/accountant_list.ctp:37
+#: Template/GymAccountant/add_accountant.ctp:21
+#: Template/GymNotice/add_notice.ctp:38
+msgid "Accountant"
+msgstr "Účetní"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101
+#: Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:129
+msgid "Workout"
+msgstr "Cvičení"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109
+#: Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "denní cvičení"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116
+#: Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "Store & Products"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120
+#: Template/Element/sidebar.ctp:102
+#: Template/GymAccessright/access_right.ctp:420
+#: Template/GymStore/sell_product.ctp:45
+msgid "Product"
+msgstr "Produkt"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124
+#: Template/Element/sidebar.ctp:106
+#: Template/GymAccessright/access_right.ctp:450
+#: Template/GymStore/sell_product.ctp:20 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "Obchod"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131
+#: Template/Element/sidebar.ctp:113
+#: Template/GymAccessright/access_right.ctp:631
+#: Template/GymReservation/reservation_list.ctp:42
+msgid "Reservation"
+msgstr "Rezervace"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136
+#: Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:15
+#: Template/GymAttendance/staff_attendance.ctp:14
+#: Template/GymMember/view_attendance.ctp:52
+msgid "Attendance"
+msgstr "Účast:"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141
+#: Template/Dashboard/dashboard.ctp:168 Template/Dashboard/dashboard.ctp:183
+#: Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:42
+#: Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "Platba"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146
+#: Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "členství platby"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151
+#: Template/Element/sidebar.ctp:133
+#: Template/GymAccessright/access_right.ctp:361
+#: Template/MembershipPayment/add_income.ctp:19
+#: Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "Přícho"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156
+#: Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "Výdaje"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164
+#: Template/Dashboard/dashboard.ctp:95
+#: Template/Dashboard/member_dashboard.ctp:93
+#: Template/Dashboard/staff_acc_dashboard.ctp:93
+#: Template/Element/sidebar.ctp:146
+#: Template/GymAccessright/access_right.ctp:510
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10
+#: Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "Zpráva"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169
+#: Template/Element/sidebar.ctp:151
+#: Template/GymAccessright/access_right.ctp:480
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "Newsletter (e-mail s novinkami)"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174
+#: Template/Element/sidebar.ctp:156
+#: Template/GymAccessright/access_right.ctp:540
+#: Template/GymNotice/add_notice.ctp:18 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "Upozornění"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179
+#: Template/Element/sidebar.ctp:161
+#: Template/GymAccessright/access_right.ctp:570
+msgid "Report"
+msgstr "Zpráva"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "Nastavení e-mailu"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:189
+#: Template/Element/sidebar.ctp:166 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "Hlavní nastavení"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:194
+#: Template/Element/sidebar.ctp:171 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "přístup Pravá"
+
+#: Template/ClassSchedule/add_class.ctp:25
+#: Template/ClassSchedule/class_list.ctp:39
+#: Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "Seznam třída"
+
+#: Template/ClassSchedule/add_class.ctp:34
+#: Template/ClassSchedule/class_list.ctp:61
+#: Template/ClassSchedule/class_list.ctp:89
+msgid "Class Name"
+msgstr "Jméno třída"
+
+#: Template/ClassSchedule/add_class.ctp:49
+#: Template/ClassSchedule/add_class.ctp:64
+msgid "Add"
+msgstr "Přidat"
+
+#: Template/ClassSchedule/add_class.ctp:56
+msgid "Select Assistant Staff Member"
+msgstr "Vyberte Assistant zaměstnanec"
+
+#: Template/ClassSchedule/add_class.ctp:70
+#: Template/ClassSchedule/class_list.ctp:65
+#: Template/ClassSchedule/class_list.ctp:93
+msgid "Location"
+msgstr "Lokace"
+
+#: Template/ClassSchedule/add_class.ctp:77
+#: Template/GymAssignWorkout/assign_workout.ctp:108
+#: Template/GymNutrition/addnutrition_schedule.ctp:66
+msgid "Select Days"
+msgstr "Ve vybraných dnech"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Sunday"
+msgstr "Neděle"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Monday"
+msgstr "Pondělí"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Tuesday"
+msgstr "Úterý"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Wednesday"
+msgstr "Středa"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Thursday"
+msgstr "Čtvrtek"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Friday"
+msgstr "Pátek"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Saturday"
+msgstr "Sobota"
+
+#: Template/ClassSchedule/add_class.ctp:89
+#: Template/ClassSchedule/add_class.ctp:117
+#: Template/GymReservation/add_reservation.ctp:56
+#: Template/GymReservation/reservation_list.ctp:61
+#: Template/GymReservation/reservation_list.ctp:89
+msgid "Start Time"
+msgstr "Čas od"
+
+#: Template/ClassSchedule/add_class.ctp:91
+#: Template/ClassSchedule/add_class.ctp:104
+#: Template/GymReservation/add_reservation.ctp:58
+#: Template/GymReservation/add_reservation.ctp:71
+msgid "Select Time"
+msgstr "Select Time"
+
+#: Template/ClassSchedule/add_class.ctp:102
+#: Template/ClassSchedule/add_class.ctp:117
+#: Template/GymReservation/add_reservation.ctp:69
+msgid "End Time"
+msgstr "Čas ukončení"
+
+#: Template/ClassSchedule/add_class.ctp:113
+msgid "Add Time"
+msgstr "Přidat čas"
+
+#: Template/ClassSchedule/add_class.ctp:142
+#: Template/GymReservation/add_reservation.ctp:82
+msgid "Save Class"
+msgstr "Uložit Class"
+
+#: Template/ClassSchedule/class_list.ctp:46
+#: Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "třídit plány"
+
+#: Template/ClassSchedule/class_list.ctp:62
+#: Template/ClassSchedule/class_list.ctp:90
+msgid "Staff Name"
+msgstr "Zaměstnanci Jméno"
+
+#: Template/ClassSchedule/class_list.ctp:63
+#: Template/ClassSchedule/class_list.ctp:91
+msgid "Starting Time"
+msgstr "Doba startování"
+
+#: Template/ClassSchedule/class_list.ctp:64
+#: Template/ClassSchedule/class_list.ctp:92
+#: Template/GymReservation/reservation_list.ctp:62
+#: Template/GymReservation/reservation_list.ctp:90
+msgid "Ending Time"
+msgstr "Ending Time"
+
+#: Template/ClassSchedule/view_schedule.ctp:35
+#: Template/GymNotice/notice_list.ctp:60
+#: Template/GymProduct/product_list.ctp:67 Template/GymStore/sell_record.ctp:50
+msgid "Edit"
+msgstr "Upravit"
+
+#: Template/Dashboard/dashboard.ctp:57
+#: Template/Dashboard/member_dashboard.ctp:55
+#: Template/Dashboard/staff_acc_dashboard.ctp:55
+#: Template/GymAccessright/access_right.ctp:23
+#: Template/GymAccessright/access_right.ctp:121
+#: Template/GymDailyWorkout/add_measurment.ctp:43
+#: Template/GymMember/add_member.ctp:69 Template/GymMember/add_member.ctp:332
+#: Template/GymMember/member_list.ctp:49
+#: Template/GymMember/view_attendance.ctp:16
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:38
+#: Template/GymStore/sell_product.ctp:31
+#: Template/MembershipPayment/add_income.ctp:31
+#: Template/MembershipPayment/generate_payment_invoice.ctp:56
+msgid "Member"
+msgstr "Č"
+
+#: Template/Dashboard/dashboard.ctp:105
+#: Template/Dashboard/member_dashboard.ctp:103
+#: Template/Dashboard/staff_acc_dashboard.ctp:103
+#: Template/GymMember/add_member.ctp:340
+#: Template/MemberRegistration/index.ctp:265 Template/Membership/add.ctp:56
+#: Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37
+#: Template/Membership/membership_list.ctp:43
+#: Template/Membership/view_activity.ctp:29
+#: Template/MembershipPayment/generate_payment_invoice.ctp:68
+msgid "Membership"
+msgstr "Členství"
+
+#: Template/Dashboard/dashboard.ctp:123
+#: Template/Dashboard/member_dashboard.ctp:121
+#: Template/Dashboard/staff_acc_dashboard.ctp:121
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "Seznam Group"
+
+#: Template/Dashboard/dashboard.ctp:151
+msgid "Payment by month"
+msgstr "Platba měsíc"
+
+#: Template/Dashboard/dashboard.ctp:189 Template/Dashboard/dashboard.ctp:244
+#: Template/Dashboard/dashboard.ctp:295
+#: Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/member_dashboard.ctp:182
+#: Template/Dashboard/member_dashboard.ctp:206
+#: Template/Dashboard/member_dashboard.ctp:230
+#: Template/Dashboard/member_dashboard.ctp:254
+#: Template/Dashboard/member_dashboard.ctp:278
+#: Template/Dashboard/member_dashboard.ctp:302
+#: Template/GymMember/view_member.ctp:149
+#: Template/GymMember/view_member.ctp:173
+#: Template/GymMember/view_member.ctp:199
+#: Template/GymMember/view_member.ctp:223
+#: Template/GymMember/view_member.ctp:249
+#: Template/GymMember/view_member.ctp:273
+#: Template/GymMember/view_member.ctp:299
+msgid "There is not enough data to generate report"
+msgstr "Není k dispozici dostatek údajů pro generování zprávy"
+
+#: Template/Dashboard/dashboard.ctp:206 Template/Dashboard/dashboard.ctp:237
+#: Template/Reports/attendance_report.ctp:52
+msgid "Member Attendance Report"
+msgstr "Členské Účast Zpráva"
+
+#: Template/Dashboard/dashboard.ctp:220
+#: Template/Reports/attendance_report.ctp:64
+#: Template/Reports/membership_report.ctp:35
+msgid "No of Member"
+msgstr "No of Člen"
+
+#: Template/Dashboard/dashboard.ctp:260
+msgid "Staff Attendance Report"
+msgstr "Personál Účast Zpráva"
+
+#: Template/Dashboard/dashboard.ctp:274
+msgid "Number of Staff Members"
+msgstr "Počet členů služebního"
+
+#: Template/Dashboard/dashboard.ctp:289
+#: Template/GymAttendance/attendance.ctp:21
+#: Template/GymAttendance/staff_attendance.ctp:13
+msgid "Staff Attendance"
+msgstr "personál Účast"
+
+#: Template/Dashboard/member_dashboard.ctp:149
+msgid "Weight Progress Report"
+msgstr "Hmotnost Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:173
+msgid "Waist  Progress Report"
+msgstr "Pas Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:197
+msgid "Thigh Progress Report"
+msgstr "Stehenní Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:221
+msgid "Arms Progress Report"
+msgstr "Arms Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:245
+msgid "Height Progress Report"
+msgstr "Výška Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:269
+msgid "Chest Progress Report"
+msgstr "Hrudník Zpráva o pokroku"
+
+#: Template/Dashboard/member_dashboard.ctp:293
+msgid "Fat Progress Report"
+msgstr "Fat Zpráva o pokroku"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "Verze"
+
+#: Template/Element/topbar.ctp:36
+msgid "Member since"
+msgstr "Členem od"
+
+#: Template/Element/topbar.ctp:43 Template/Element/topbar.ctp:49
+msgid "Profile"
+msgstr "Profil"
+
+#: Template/Element/topbar.ctp:53
+msgid "Sign out"
+msgstr "Odhlásit"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "Nastavení"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "Nastavení systému"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "Gym Name"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "Spuštění Rok"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "tělocvična Adresa"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "Office telefonní číslo"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:61
+msgid "Country"
+msgstr "Země"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "systém Language"
+
+#: Template/GeneralSetting/save_setting.ctp:108
+msgid "Set Language to RTL"
+msgstr "Nastavení jazyka k RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:110
+#: Template/GeneralSetting/save_setting.ctp:335
+#: Template/GeneralSetting/save_setting.ctp:342
+#: Template/GeneralSetting/save_setting.ctp:352
+#: Template/GeneralSetting/save_setting.ctp:382
+#: Template/GeneralSetting/save_setting.ctp:418
+msgid "Enable"
+msgstr "Umožnit"
+
+#: Template/GeneralSetting/save_setting.ctp:115
+msgid "Date Picker Language"
+msgstr "Nastavení jazyka k RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:166
+#: Template/Installer/index.ctp:401
+msgid "Date Formate"
+msgstr "Datum Formate"
+
+#: Template/GeneralSetting/save_setting.ctp:178
+#: Template/Installer/index.ctp:412
+msgid "Calendar Language"
+msgstr "Kalendář Language"
+
+#: Template/GeneralSetting/save_setting.ctp:251
+msgid "Gym Logo"
+msgstr "Gym Logo"
+
+#: Template/GeneralSetting/save_setting.ctp:267
+msgid "Cover Image"
+msgstr "Obrázek na obálce"
+
+#: Template/GeneralSetting/save_setting.ctp:278
+msgid "Measurement Units"
+msgstr "Jednotky měření"
+
+#: Template/GeneralSetting/save_setting.ctp:280
+#: Template/GymMember/add_member.ctp:197
+msgid "Weight"
+msgstr "Hmotnost"
+
+#: Template/GeneralSetting/save_setting.ctp:287
+#: Template/GymMember/add_member.ctp:204
+msgid "Height"
+msgstr "Výška"
+
+#: Template/GeneralSetting/save_setting.ctp:294
+#: Template/GymMember/add_member.ctp:211
+msgid "Chest"
+msgstr "Truhla"
+
+#: Template/GeneralSetting/save_setting.ctp:301
+#: Template/GymMember/add_member.ctp:218
+msgid "Waist"
+msgstr "Pás"
+
+#: Template/GeneralSetting/save_setting.ctp:308
+#: Template/GymMember/add_member.ctp:225
+msgid "Thing"
+msgstr "Věc"
+
+#: Template/GeneralSetting/save_setting.ctp:315
+#: Template/GymMember/add_member.ctp:232
+msgid "Arms"
+msgstr "Ruce"
+
+#: Template/GeneralSetting/save_setting.ctp:322
+#: Template/GymMember/add_member.ctp:239
+msgid "Fat"
+msgstr "tlustí."
+
+#: Template/GeneralSetting/save_setting.ctp:330
+msgid "Member Privacy Setting"
+msgstr "Členské Privacy Nastavení"
+
+#: Template/GeneralSetting/save_setting.ctp:332
+msgid "Member can view other member's details"
+msgstr "Člen může zobrazit podrobnosti jiný člen jeho"
+
+#: Template/GeneralSetting/save_setting.ctp:339
+msgid "Staff Member can view own trainee member's details"
+msgstr "Personál Člen může zobrazit podrobnosti vlastní TRAINEE člena"
+
+#: Template/GeneralSetting/save_setting.ctp:348
+msgid "Paypal Setting"
+msgstr "Nastavení paypal"
+
+#: Template/GeneralSetting/save_setting.ctp:350
+msgid "Enable Sandbox"
+msgstr "povolit Sandbox"
+
+#: Template/GeneralSetting/save_setting.ctp:357
+msgid "Paypal Email Id"
+msgstr "Paypal ID e-mailu"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+msgid "Select Currency"
+msgstr "Výběr měny"
+
+#: Template/GeneralSetting/save_setting.ctp:378
+msgid "Membership Alert Message Setting"
+msgstr "Nastavení členství Alert Message"
+
+#: Template/GeneralSetting/save_setting.ctp:380
+msgid "Enable Alert Mail"
+msgstr "Aktivovat Alert Mail"
+
+#: Template/GeneralSetting/save_setting.ctp:387
+msgid "Reminder Before Days"
+msgstr "Připomenutí Před dny"
+
+#: Template/GeneralSetting/save_setting.ctp:395
+msgid "Reminder Message"
+msgstr "Zpráva připomenutí"
+
+#: Template/GeneralSetting/save_setting.ctp:402
+msgid "ShortCodes For Notification Mail Message"
+msgstr "Shortcodes pro oznámení e-mailové zprávy"
+
+#: Template/GeneralSetting/save_setting.ctp:404
+#: Template/GymAssignWorkout/workout_log.ctp:53
+#: Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:79
+#: Template/GymAttendance/staff_attendance.ctp:64
+#: Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82
+#: Template/GymMember/member_list.ctp:66 Template/GymMember/member_list.ctp:114
+#: Template/GymNutrition/nutrition_list.ctp:53
+#: Template/GymNutrition/nutrition_list.ctp:76
+#: Template/GymStore/sell_record.ctp:36 Template/GymStore/sell_record.ctp:59
+#: Template/MembershipPayment/expense_list.ctp:67
+#: Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67
+#: Template/MembershipPayment/payment_list.ctp:50
+#: Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "Jméno člena"
+
+#: Template/GeneralSetting/save_setting.ctp:405 Template/Membership/add.ctp:71
+#: Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54
+#: Template/Membership/membership_list.ctp:95
+#: Template/Reports/membership_report.ctp:29
+msgid "Membership Name"
+msgstr "členství Jméno"
+
+#: Template/GeneralSetting/save_setting.ctp:406
+#: Template/GymMember/view_member.ctp:384
+#: Template/GymMember/view_member.ctp:412
+#: Template/GymSubscriptionHistory/index.ctp:43
+#: Template/GymSubscriptionHistory/index.ctp:71
+#: Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "Členství Datum zahájení"
+
+#: Template/GeneralSetting/save_setting.ctp:407
+#: Template/GymMember/view_member.ctp:385
+#: Template/GymMember/view_member.ctp:413
+#: Template/GymSubscriptionHistory/index.ctp:44
+#: Template/GymSubscriptionHistory/index.ctp:72
+#: Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "Datum ukončení členství"
+
+#: Template/GeneralSetting/save_setting.ctp:414
+msgid "Message Setting"
+msgstr "Nastavení Message"
+
+#: Template/GeneralSetting/save_setting.ctp:416
+msgid "Member can Message To other's"
+msgstr "Člen může zpráva s dalšími let"
+
+#: Template/GeneralSetting/save_setting.ctp:423
+msgid "Header & Footer Text"
+msgstr "Text záhlaví a zápatí"
+
+#: Template/GeneralSetting/save_setting.ctp:425
+msgid "Left Header Text"
+msgstr "Text Left Header"
+
+#: Template/GeneralSetting/save_setting.ctp:432
+msgid "Footer Text"
+msgstr "footer Text"
+
+#: Template/GeneralSetting/save_setting.ctp:440
+msgid "Save Settings"
+msgstr "Uložit nastavení"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "Přístup Nastavení Pravá"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "Nabídka"
+
+#: Template/GymAccessright/access_right.ctp:211
+msgid "Attendence"
+msgstr "Attendence"
+
+#: Template/GymAccessright/access_right.ctp:241
+msgid "Assigned Workouts"
+msgstr "Přidělené cvičení"
+
+#: Template/GymAccessright/access_right.ctp:271
+msgid "Workouts"
+msgstr "Tréninky"
+
+#: Template/GymAccessright/access_right.ctp:331
+#: Template/Reports/payment_report.ctp:41
+msgid "Fee Payment"
+msgstr "poplatek za platby"
+
+#: Template/GymAccessright/access_right.ctp:390
+#: Template/MembershipPayment/add_expense.ctp:14
+#: Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "Výdej"
+
+#: Template/GymAccessright/access_right.ctp:661
+msgid "Account"
+msgstr "Účet"
+
+#: Template/GymAccessright/access_right.ctp:692
+#: Template/GymMember/view_member.ctp:376
+#: Template/GymSubscriptionHistory/index.ctp:30
+#: Template/GymSubscriptionHistory/index.ctp:31
+msgid "Subscription History"
+msgstr "Historie předplatného"
+
+#: Template/GymAccessright/access_right.ctp:722
+#: Template/GymDailyWorkout/add_workout.ctp:143
+#: Template/GymEmailSetting/index.ctp:46 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNotice/add_notice.ctp:74
+#: Template/GymNutrition/addnutrition_schedule.ctp:122
+#: Template/GymProduct/add_product.ctp:41
+#: Template/GymProfile/view_profile.ctp:89
+#: Template/GymProfile/view_profile.ctp:147
+#: Template/GymStore/sell_product.ctp:66
+msgid "Save"
+msgstr "Uložit"
+
+#: Template/GymAccountant/accountant_list.ctp:36
+#: Template/GymAccountant/add_accountant.ctp:24
+msgid "Accountant List"
+msgstr "Seznam účetní"
+
+#: Template/GymAccountant/accountant_list.ctp:53
+#: Template/GymAccountant/accountant_list.ctp:83
+#: Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76
+#: Template/GymAttendance/attendance.ctp:78
+#: Template/GymAttendance/staff_attendance.ctp:63
+#: Template/GymDailyWorkout/workout_list.ctp:55
+#: Template/GymDailyWorkout/workout_list.ctp:81
+#: Template/GymGroup/group_list.ctp:44 Template/GymGroup/group_list.ctp:75
+#: Template/GymMember/member_list.ctp:65 Template/GymMember/member_list.ctp:113
+#: Template/GymMember/view_member.ctp:314
+#: Template/Membership/membership_list.ctp:53
+#: Template/Membership/membership_list.ctp:94
+#: Template/StaffMembers/staff_list.ctp:54
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Photo"
+msgstr "Fotografie"
+
+#: Template/GymAccountant/accountant_list.ctp:54
+#: Template/GymAccountant/accountant_list.ctp:84
+msgid "Accountant Name"
+msgstr "účetní Name"
+
+#: Template/GymAccountant/accountant_list.ctp:55
+#: Template/GymAccountant/accountant_list.ctp:85
+msgid "Accountant Email"
+msgstr "účetní Email"
+
+#: Template/GymAccountant/accountant_list.ctp:56
+#: Template/GymAccountant/accountant_list.ctp:86
+#: Template/GymProfile/view_profile.ctp:128
+#: Template/StaffMembers/staff_list.ctp:58
+#: Template/StaffMembers/staff_list.ctp:88
+msgid "Mobile No."
+msgstr "Mobile No."
+
+#: Template/GymAccountant/add_accountant.ctp:41
+#: Template/GymMember/add_member.ctp:98
+#: Template/MemberRegistration/index.ctp:121
+#: Template/StaffMembers/add_staff.ctp:57
+msgid "Middle Name"
+msgstr "Prostřední jméno"
+
+#: Template/GymAccountant/add_accountant.ctp:55
+#: Template/GymMember/add_member.ctp:112 Template/GymMember/view_member.ctp:80
+#: Template/MemberRegistration/index.ctp:135
+#: Template/StaffMembers/add_staff.ctp:71
+msgid "Gender"
+msgstr "Pohlaví"
+
+#: Template/GymAccountant/add_accountant.ctp:58
+#: Template/GymMember/add_member.ctp:115 Template/StaffMembers/add_staff.ctp:74
+msgid "Male"
+msgstr "muž"
+
+#: Template/GymAccountant/add_accountant.ctp:59
+#: Template/GymMember/add_member.ctp:116 Template/StaffMembers/add_staff.ctp:75
+msgid "Female"
+msgstr "žena"
+
+#: Template/GymAccountant/add_accountant.ctp:66
+#: Template/GymMember/add_member.ctp:123
+#: Template/GymProfile/view_profile.ctp:107
+#: Template/MemberRegistration/index.ctp:146
+#: Template/StaffMembers/add_staff.ctp:82
+msgid "Date of birth"
+msgstr "Datum narození:"
+
+#: Template/GymAccountant/add_accountant.ctp:72
+#: Template/GymMember/add_member.ctp:140
+#: Template/MemberRegistration/index.ctp:167
+#: Template/StaffMembers/add_staff.ctp:107
+msgid "Contact Information"
+msgstr "Kontaktní informace:"
+
+#: Template/GymAccountant/add_accountant.ctp:74
+#: Template/GymProfile/view_profile.ctp:114
+#: Template/StaffMembers/add_staff.ctp:109
+msgid "Home Town Address"
+msgstr "Home Town Address"
+
+#: Template/GymAccountant/add_accountant.ctp:81
+#: Template/GymMember/add_member.ctp:149
+#: Template/GymProfile/view_profile.ctp:122
+#: Template/MemberRegistration/index.ctp:177
+#: Template/StaffMembers/add_staff.ctp:116
+msgid "City"
+msgstr "Město"
+
+#: Template/GymAccountant/add_accountant.ctp:88
+#: Template/GymMember/add_member.ctp:170
+#: Template/MemberRegistration/index.ctp:198
+#: Template/StaffMembers/add_staff.ctp:123
+msgid "Mobile Number"
+msgstr "Mobilní telefon: +27 (0) 83 282 4666"
+
+#: Template/GymAccountant/add_accountant.ctp:98
+#: Template/GymMember/add_member.ctp:180
+#: Template/GymProfile/view_profile.ctp:134
+#: Template/MemberRegistration/index.ctp:208
+#: Template/StaffMembers/add_staff.ctp:133
+msgid "Phone"
+msgstr "Telefon"
+
+#: Template/GymAccountant/add_accountant.ctp:137
+msgid "Save Accountant"
+msgstr "Uložit Accountant"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:49
+msgid "Workout Logs"
+msgstr "Protokoly cvičení"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:59
+#: Template/GymDailyWorkout/add_measurment.ctp:46
+#: Template/GymDailyWorkout/add_workout.ctp:103
+#: Template/GymDailyWorkout/add_workout.ctp:106
+#: Template/GymNutrition/addnutrition_schedule.ctp:35
+#: Template/GymNutrition/addnutrition_schedule.ctp:38
+#: Template/GymStore/sell_product.ctp:34
+#: Template/MembershipPayment/add_income.ctp:33
+#: Template/MembershipPayment/add_income.ctp:48
+#: Template/MembershipPayment/generate_payment_invoice.ctp:63
+msgid "Select Member"
+msgstr "Vybrat člen"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:82
+#: Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:161
+#: Template/GymNutrition/member_nutrition.ctp:63
+#: Template/GymNutrition/print_nutrition.ctp:53
+msgid "Description"
+msgstr "Popis"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:96
+#: Template/GymMember/view_attendance.ctp:34
+#: Template/GymNotice/add_notice.ctp:60
+#: Template/GymNutrition/addnutrition_schedule.ctp:54
+#: Template/Reports/attendance_report.ctp:38
+msgid "End Date"
+msgstr "Datum ukončení"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "Vybrat cvičení aktivita přidat na vybrané dny"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "Krok 1 Přidat trénink"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "Krok 2 Save cvičení"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:137
+msgid "Save Workout"
+msgstr "Uložit cvičení"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:151
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:44
+msgid "Start From"
+msgstr "Začínat od"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:166
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:54
+#: Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:151
+#: Template/GymNutrition/member_nutrition.ctp:53
+#: Template/GymNutrition/print_nutrition.ctp:44
+msgid "TO"
+msgstr "Komu"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:172
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:60
+#: Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:157
+#: Template/GymNutrition/member_nutrition.ctp:59
+#: Template/GymNutrition/print_nutrition.ctp:49
+msgid "Day name"
+msgstr "svátek"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18
+#: Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "Workout Log"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97
+#: Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "Záznam nenalezen"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54
+#: Template/GymAssignWorkout/workout_log.ctp:78
+#: Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:77
+msgid "Member Goal"
+msgstr "Členské Goal"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67
+#: Template/GymDailyWorkout/view_workout.ctp:36
+msgid "View Workouts"
+msgstr "Zobrazení Tréninky"
+
+#: Template/GymAttendance/attendance.ctp:14
+#: Template/GymAttendance/staff_attendance.ctp:17
+msgid "Member Attendance"
+msgstr "Členské Účast"
+
+#: Template/GymAttendance/attendance.ctp:35
+#: Template/GymAttendance/attendance.ctp:37
+#: Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:47 Template/Membership/add.ctp:132
+msgid "Select Class"
+msgstr "Select Class"
+
+#: Template/GymAttendance/attendance.ctp:42
+#: Template/GymAttendance/staff_attendance.ctp:31
+msgid "Take/View Attendance"
+msgstr "Vezměte / view Docházka"
+
+#: Template/GymAttendance/attendance.ctp:102
+#: Template/GymAttendance/staff_attendance.ctp:83
+msgid "Save Attendance"
+msgstr "Uložit Účast"
+
+#: Template/GymAttendance/attendance.ctp:108
+#: Template/GymNutrition/member_nutrition.ctp:89
+#: Template/GymNutrition/print_nutrition.ctp:79
+msgid "No record found."
+msgstr "Záznam nenalezen."
+
+#: Template/GymAttendance/staff_attendance.ctp:47
+msgid "Staff Attendance, Date"
+msgstr "Personál Docházka, datum"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:21
+#: Template/GymDailyWorkout/add_workout.ctp:88
+#: Template/GymDailyWorkout/view_workout.ctp:14
+#: Template/GymDailyWorkout/workout_list.ctp:37
+#: Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "Denní trénink"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24
+#: Template/GymDailyWorkout/add_workout.ctp:91
+#: Template/GymDailyWorkout/view_workout.ctp:17
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "Seznam cvičení"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:53
+msgid "Result Measurement"
+msgstr "měření výsledek"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:57
+msgid "Select Result Measurement"
+msgstr "Vybrat výsledek měření"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:68
+msgid "Result Date"
+msgstr "výsledek Datum"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:84
+msgid "Save Measurement"
+msgstr "Uložit měření"
+
+#: Template/GymDailyWorkout/add_workout.ctp:114
+msgid "Select Date"
+msgstr "Vybrat datum"
+
+#: Template/GymDailyWorkout/add_workout.ctp:132
+msgid "Select Record Date For Today Workout"
+msgstr "Vyberte Datum záznamu pro dnešní cvičení"
+
+#: Template/GymDailyWorkout/add_workout.ctp:137
+msgid "Note"
+msgstr "Poznámka"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57
+#: Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "Mobilní"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72
+#: Template/GymGroup/group_list.ctp:66 Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "Náhled"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "pohled měření"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "Nastavení e-mailu"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:37
+msgid "Host"
+msgstr "Hostitel"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "Port"
+
+#: Template/GymEmailSetting/index.ctp:57
+#: Template/MembershipPayment/generate_payment_invoice.ctp:87
+msgid "To"
+msgstr "Komu"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "Odeslat zkušební e-mail"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45
+#: Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "Skupinové jméno"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "Skupina Image"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "Save Group"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "Členové skupiny Total"
+
+#: Template/GymMember/add_member.ctp:72 Template/GymMember/member_list.ctp:48
+#: Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "Seznam členů"
+
+#: Template/GymMember/add_member.ctp:83 Template/GymMember/member_list.ctp:67
+#: Template/GymMember/member_list.ctp:115 Template/GymMember/view_member.ctp:56
+#: Template/MemberRegistration/index.ctp:106
+msgid "Member ID"
+msgstr "Členské ID"
+
+#: Template/GymMember/add_member.ctp:142 Template/GymMember/view_member.ctp:64
+#: Template/MemberRegistration/index.ctp:170
+msgid "Address"
+msgstr "Adresa"
+
+#: Template/GymMember/add_member.ctp:156
+#: Template/MemberRegistration/index.ctp:184
+msgid "state"
+msgstr "Stát"
+
+#: Template/GymMember/add_member.ctp:163
+#: Template/MemberRegistration/index.ctp:191
+msgid "Zip code"
+msgstr "PSČ"
+
+#: Template/GymMember/add_member.ctp:195
+msgid "Physical Information"
+msgstr "fyzická Informace"
+
+#: Template/GymMember/add_member.ctp:206
+msgid "Centimeter"
+msgstr "Centimetr"
+
+#: Template/GymMember/add_member.ctp:213 Template/GymMember/add_member.ctp:220
+#: Template/GymMember/add_member.ctp:227 Template/GymMember/add_member.ctp:234
+msgid "Inches"
+msgstr "palců"
+
+#: Template/GymMember/add_member.ctp:241
+msgid "Percentage"
+msgstr "Procentáž"
+
+#: Template/GymMember/add_member.ctp:271
+#: Template/MemberRegistration/index.ctp:248
+msgid "More Information"
+msgstr "Více informací"
+
+#: Template/GymMember/add_member.ctp:278 Template/GymMember/add_member.ctp:308
+#: Template/StaffMembers/staff_list.ctp:44
+msgid "Add Staff"
+msgstr "Přidat Staff"
+
+#: Template/GymMember/add_member.ctp:283
+#: Template/MemberRegistration/index.ctp:251
+msgid "Interested Area"
+msgstr "zájem o oblast"
+
+#: Template/GymMember/add_member.ctp:285
+#: Template/MemberRegistration/index.ctp:253
+msgid "Select Interest"
+msgstr "Vybrat Zájem"
+
+#: Template/GymMember/add_member.ctp:288 Template/GymMember/add_member.ctp:298
+#: Template/StaffMembers/add_staff.ctp:94
+#: Template/StaffMembers/add_staff.ctp:102
+msgid "Add/Remove"
+msgstr "Přidat / Odebrat"
+
+#: Template/GymMember/add_member.ctp:293
+#: Template/MemberRegistration/index.ctp:258
+msgid "Source"
+msgstr "Zdroj"
+
+#: Template/GymMember/add_member.ctp:295
+#: Template/MemberRegistration/index.ctp:260
+msgid "Select Source"
+msgstr "Vyberte zdroj"
+
+#: Template/GymMember/add_member.ctp:303
+msgid "Referred By"
+msgstr "položená"
+
+#: Template/GymMember/add_member.ctp:313
+msgid "Inquiry Date"
+msgstr "poptávka Datum"
+
+#: Template/GymMember/add_member.ctp:320
+msgid "Trial End Date"
+msgstr "Trial Datum ukončení"
+
+#: Template/GymMember/add_member.ctp:329 Template/GymMember/member_list.ctp:70
+#: Template/GymMember/member_list.ctp:118
+msgid "Member Type"
+msgstr "Typ členství"
+
+#: Template/GymMember/add_member.ctp:333
+msgid "Prospect"
+msgstr "Prospekt"
+
+#: Template/GymMember/add_member.ctp:334
+msgid "Alumni"
+msgstr "Absolventi"
+
+#: Template/GymMember/add_member.ctp:355
+msgid "Add Class"
+msgstr "Přidat třídu"
+
+#: Template/GymMember/add_member.ctp:364 Template/GymMember/member_list.ctp:71
+#: Template/GymMember/member_list.ctp:119
+msgid "Membership Status"
+msgstr "členství Status"
+
+#: Template/GymMember/add_member.ctp:367
+msgid "Continue"
+msgstr "Pokračovat"
+
+#: Template/GymMember/add_member.ctp:368
+msgid "Expired"
+msgstr "Vypršela platnost"
+
+#: Template/GymMember/add_member.ctp:369
+msgid "Dropped"
+msgstr "Upustil"
+
+#: Template/GymMember/add_member.ctp:375
+#: Template/MembershipPayment/generate_payment_invoice.ctp:83
+msgid "Membership Valid From"
+msgstr "Členství platné od"
+
+#: Template/GymMember/add_member.ctp:388
+msgid "First Payment Date"
+msgstr "První Datum platby"
+
+#: Template/GymMember/add_member.ctp:396
+#: Template/MemberRegistration/index.ctp:298
+msgid "Save Member"
+msgstr "Uložit člen"
+
+#: Template/GymMember/member_list.ctp:68 Template/GymMember/member_list.ctp:116
+msgid "Joining Date"
+msgstr "Datum připojení"
+
+#: Template/GymMember/member_list.ctp:69 Template/GymMember/member_list.ctp:117
+msgid "Expire Date"
+msgstr "Datum spotřeby"
+
+#: Template/GymMember/member_list.ctp:102
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: Template/GymMember/member_list.ctp:104
+msgid "Activated"
+msgstr "aktivované"
+
+#: Template/GymMember/view_attendance.ctp:15
+msgid "View Attendance"
+msgstr "pohled Účast"
+
+#: Template/GymMember/view_attendance.ctp:19
+msgid "Member List"
+msgstr "Seznam členů"
+
+#: Template/GymMember/view_attendance.ctp:39
+#: Template/Reports/attendance_report.ctp:45
+msgid "Go"
+msgstr "Přejít"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "pohled člen"
+
+#: Template/GymMember/view_member.ctp:60
+#: Template/GymProfile/view_profile.ctp:58
+msgid "Name"
+msgstr "Jméno"
+
+#: Template/GymMember/view_member.ctp:72
+msgid "Mobile No"
+msgstr "mobilní Žádný"
+
+#: Template/GymMember/view_member.ctp:76
+msgid "Date Of Birth"
+msgstr "Datum narození :"
+
+#: Template/GymMember/view_member.ctp:97
+msgid "Moreinfo"
+msgstr "Více informací"
+
+#: Template/GymMember/view_member.ctp:101
+msgid "MemberShip"
+msgstr "Členství"
+
+#: Template/GymMember/view_member.ctp:105
+msgid "Expiry Date"
+msgstr "Datum vypršení platnosti"
+
+#: Template/GymMember/view_member.ctp:109
+msgid "Classes"
+msgstr "Classes"
+
+#: Template/GymMember/view_member.ctp:113
+msgid "Interest Area"
+msgstr "Zájem Area"
+
+#: Template/GymMember/view_member.ctp:127
+msgid "Groups"
+msgstr "skupin"
+
+#: Template/GymMember/view_member.ctp:141
+msgid "Add Weight"
+msgstr "Přidejte Hmotnost"
+
+#: Template/GymMember/view_member.ctp:165
+msgid "Add Waist"
+msgstr "Přidat pasu"
+
+#: Template/GymMember/view_member.ctp:191
+msgid "Add Thigh"
+msgstr "Přidat Stehno"
+
+#: Template/GymMember/view_member.ctp:215
+msgid "Add Arms"
+msgstr "Přidat Arms"
+
+#: Template/GymMember/view_member.ctp:241
+msgid "Add Height"
+msgstr "Přidat Výška"
+
+#: Template/GymMember/view_member.ctp:265
+msgid "Add Chest"
+msgstr "Přidat Chest"
+
+#: Template/GymMember/view_member.ctp:291
+msgid "Add Fat"
+msgstr "Přidat tuku"
+
+#: Template/GymMember/view_member.ctp:315
+msgid "Add Photo"
+msgstr "Přidat foto"
+
+#: Template/GymMember/view_member.ctp:381
+#: Template/GymMember/view_member.ctp:409
+#: Template/GymSubscriptionHistory/index.ctp:40
+#: Template/GymSubscriptionHistory/index.ctp:68
+msgid "Membership Title"
+msgstr "členství Název"
+
+#: Template/GymMember/view_member.ctp:383
+#: Template/GymMember/view_member.ctp:411
+#: Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:70
+#: Template/MembershipPayment/payment_list.ctp:53
+#: Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "Dlužná částka"
+
+#: Template/GymMember/view_member.ctp:386
+#: Template/GymMember/view_member.ctp:414
+#: Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:73
+#: Template/MembershipPayment/payment_list.ctp:56
+#: Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "Stav platby"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "Napsat zprávu"
+
+#: Template/GymMessage/compose_message.ctp:25
+#: Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26
+#: Template/GymMessage/inbox.ctp:30 Template/GymMessage/sent.ctp:20
+#: Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "Skomponovat"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42
+#: Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "Doručená pošta"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44
+#: Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "Odeslané"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "zpráv Chcete-li"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "Žádný"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53
+#: Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "Předmět"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "zpráva Comment"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "Odeslat zprávu"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34
+#: Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "Zprávy Doručené"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "zpráva od"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "odeslané zprávy"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "Nastavení"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "Sync Mail"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "seznam MailChimp"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "Volba seznamu"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "seznam kampaň"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "Vybrat kampaň"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "poslat Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "Kampaň"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "MailChimp API klíč"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "Poštovní seznam"
+
+#: Template/GymNotice/add_notice.ctp:17 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "Přidat oznámení"
+
+#: Template/GymNotice/add_notice.ctp:21 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "oznámení Seznam"
+
+#: Template/GymNotice/add_notice.ctp:29 Template/GymNotice/notice_list.ctp:41
+#: Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "oznámení Název"
+
+#: Template/GymNotice/add_notice.ctp:38
+msgid "All"
+msgstr "Vše"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Comment"
+msgstr "Komentář"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:25
+msgid "Nutrition Schdule List"
+msgstr "Výživa Seznam Schdule"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:74
+msgid "Select Nutrition to add on selected days"
+msgstr "Vyberte Nutrition přidat na vybrané dny"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:79
+msgid "Break Fast"
+msgstr "Přestávka Fast"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:85
+msgid "Mid-Morning Snacks"
+msgstr "Dopolední občerstvení"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:91
+msgid "Lunch"
+msgstr "Oběd"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:96
+msgid "Afternoon Snacks"
+msgstr "odpolední občerstvení"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:101
+msgid "Dinner"
+msgstr "O večeři?"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:105
+msgid "+ Add Nutrition"
+msgstr "+ Přidat Výživa"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:122
+msgid "Step-2 Save"
+msgstr "KROK 2 Save"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:160
+#: Template/GymNutrition/member_nutrition.ctp:62
+#: Template/GymNutrition/print_nutrition.ctp:52
+msgid "Time"
+msgstr "Čas"
+
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "Výživa Seznam plánů"
+
+#: Template/GymNutrition/nutrition_list.ctp:52
+#: Template/GymNutrition/nutrition_list.ctp:75
+msgid "Member Photo"
+msgstr "Členské foto"
+
+#: Template/GymNutrition/nutrition_list.ctp:67
+msgid "View Nutrition"
+msgstr "pohled Nutrition"
+
+#: Template/GymProduct/add_product.ctp:8
+#: Template/GymProduct/product_list.ctp:42
+#: Template/GymStore/sell_product.ctp:55
+msgid "Add Product"
+msgstr "Přidat produkt"
+
+#: Template/GymProduct/add_product.ctp:9
+#: Template/GymProduct/product_list.ctp:36
+msgid "Products"
+msgstr "Produkty"
+
+#: Template/GymProduct/add_product.ctp:12
+#: Template/GymProduct/product_list.ctp:35
+msgid "Product List"
+msgstr "Seznam zboží"
+
+#: Template/GymProduct/add_product.ctp:20
+#: Template/GymProduct/product_list.ctp:52
+#: Template/GymProduct/product_list.ctp:75 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:58
+msgid "Product Name"
+msgstr "jméno výrobku"
+
+#: Template/GymProduct/add_product.ctp:26
+#: Template/GymProduct/product_list.ctp:53
+#: Template/GymProduct/product_list.ctp:76
+msgid "Product Price"
+msgstr "produkt Cena"
+
+#: Template/GymProduct/add_product.ctp:35
+#: Template/GymProduct/product_list.ctp:54
+#: Template/GymProduct/product_list.ctp:77 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:60
+msgid "Product Quantity"
+msgstr "Počet produkt"
+
+#: Template/GymProfile/view_profile.ctp:45
+msgid "Account Settings"
+msgstr "Nastavení účtu"
+
+#: Template/GymProfile/view_profile.ctp:70
+msgid "Current Password"
+msgstr "Současné heslo"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "New Password"
+msgstr "Nové heslo"
+
+#: Template/GymProfile/view_profile.ctp:81 Template/Installer/index.ctp:500
+msgid "Confirm Password"
+msgstr "Potvrďte heslo"
+
+#: Template/GymProfile/view_profile.ctp:100
+msgid "Other Information"
+msgstr "Jiná informace"
+
+#: Template/GymReservation/add_reservation.ctp:15
+#: Template/GymReservation/reservation_list.ctp:48
+msgid "Add Reservation"
+msgstr "Přidat Rezervace"
+
+#: Template/GymReservation/add_reservation.ctp:16
+msgid "Schedule"
+msgstr "Harmonogram"
+
+#: Template/GymReservation/add_reservation.ctp:19
+#: Template/GymReservation/reservation_list.ctp:41
+msgid "Reservation List"
+msgstr "Seznam rezervace"
+
+#: Template/GymReservation/add_reservation.ctp:28
+#: Template/GymReservation/reservation_list.ctp:58
+#: Template/GymReservation/reservation_list.ctp:86
+msgid "Event Name"
+msgstr "Název události"
+
+#: Template/GymReservation/add_reservation.ctp:35
+#: Template/GymReservation/reservation_list.ctp:59
+#: Template/GymReservation/reservation_list.ctp:87
+msgid "Event Date"
+msgstr "Datum události"
+
+#: Template/GymReservation/add_reservation.ctp:42
+msgid "Event Place"
+msgstr "Místo konání"
+
+#: Template/GymReservation/add_reservation.ctp:44
+msgid "Select Event Places"
+msgstr "Vyberte Místa událostí"
+
+#: Template/GymReservation/add_reservation.ctp:47
+msgid "Add or Remove"
+msgstr "Přidat nebo odebrat"
+
+#: Template/GymReservation/reservation_list.ctp:60
+#: Template/GymReservation/reservation_list.ctp:88
+msgid "Place"
+msgstr "Místo"
+
+#: Template/GymStore/sell_product.ctp:19 Template/GymStore/sell_record.ctp:26
+msgid "Sell Product"
+msgstr "Prodáváme zboží"
+
+#: Template/GymStore/sell_product.ctp:23 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "Prodáváme Records"
+
+#: Template/GymStore/sell_product.ctp:48
+msgid "Select Product"
+msgstr "Vyberte produkt"
+
+#: Template/GymStore/sell_product.ctp:60
+msgid "Quantity"
+msgstr "Množství"
+
+#: Template/Installer/index.ctp:2 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "Gym Master - Průvodce instalací GYM Vedení"
+
+#: Template/Installer/index.ctp:8 Template/Installer/index.ctp:10
+msgid "Database Setup"
+msgstr "Nastavení databáze"
+
+#: Template/Installer/index.ctp:13
+msgid "Database Name"
+msgstr "Název databáze"
+
+#: Template/Installer/index.ctp:21
+msgid "Database Username"
+msgstr "databáze Uživatel"
+
+#: Template/Installer/index.ctp:29
+msgid "Database Password"
+msgstr "databáze hesel"
+
+#: Template/Installer/index.ctp:45 Template/Installer/index.ctp:475
+msgid "Fields are required."
+msgstr "Pole jsou povinná."
+
+#: Template/Installer/index.ctp:48 Template/Installer/index.ctp:50
+msgid "System Setting"
+msgstr "Nastavení systému"
+
+#: Template/Installer/index.ctp:53
+msgid "System Name"
+msgstr "Name System"
+
+#: Template/Installer/index.ctp:478 Template/Installer/index.ctp:480
+msgid "Login Details"
+msgstr "přihlašovací údaje"
+
+#: Template/Installer/index.ctp:508
+msgid "Finish"
+msgstr "Dokončit"
+
+#: Template/Installer/index.ctp:510
+msgid "Please Note :"
+msgstr "Upozornění:"
+
+#: Template/Installer/index.ctp:513
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1. To může trvat několik minut, aby se set-up databáze."
+
+#: Template/Installer/index.ctp:516
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2. Nepoužívejte strana poté, co se na kliknutí na tlačítko nainstalovat obnovit stránky."
+
+#: Template/Installer/index.ctp:519
+msgid ""
+"3. You will be acknowledge with success message once after installation "
+"finishes."
+msgstr "3. Budete mít na vědomí s úspěchem zprávy ihned po dokončení instalace."
+
+#: Template/Installer/index.ctp:522
+msgid "4. Click on install to complete the installation."
+msgstr "4. Klepněte na instalaci k dokončení instalace."
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "Blahopřání"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "Instalace byla úspěšně dokončena"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "Cvak!"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "Zde přesměrovat na \\ tlogin stránce."
+
+#: Template/MemberRegistration/index.ctp:96 Template/Users/login.ctp:29
+msgid "Member Registration"
+msgstr "Členské Registrace"
+
+#: Template/MemberRegistration/index.ctp:272
+msgid "Select Joining Date"
+msgstr "Vyberte Spojovací Datum"
+
+#: Template/MemberRegistration/index.ctp:301
+msgid "Go Back"
+msgstr "Vrátit se"
+
+#: Template/Membership/add.ctp:59 Template/Membership/edit_membership.ctp:11
+#: Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:33
+msgid "Membership List"
+msgstr "Seznam členů"
+
+#: Template/Membership/add.ctp:78 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "členství Kategorie"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:35
+#: Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:96
+msgid "Membership Period"
+msgstr "členství Období"
+
+#: Template/Membership/add.ctp:91
+msgid "No. of Days"
+msgstr "Počet dní"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "členství Limit"
+
+#: Template/Membership/add.ctp:100
+msgid "Limited"
+msgstr "Omezený"
+
+#: Template/Membership/add.ctp:101
+msgid "Unlimited"
+msgstr "Neomezený"
+
+#: Template/Membership/add.ctp:122 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "členství Částka"
+
+#: Template/Membership/add.ctp:140
+msgid "Installment Plan"
+msgstr "splátky"
+
+#: Template/Membership/add.ctp:146 Template/Membership/edit_membership.ctp:56
+msgid "Select Instalment Plan"
+msgstr "Vyberte splátky plán"
+
+#: Template/Membership/add.ctp:151
+msgid "Add Installment Plan"
+msgstr "Přidat splátky"
+
+#: Template/Membership/add.ctp:157 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "registrační poplatek"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "členství Popis"
+
+#: Template/Membership/add.ctp:174 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "členství Image"
+
+#: Template/Membership/add.ctp:188
+msgid "Save Membership"
+msgstr "Uložit Členství"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Instalment Amount"
+msgstr "Výše splátky"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Instalment Period"
+msgstr "splátky Období"
+
+#: Template/Membership/edit_membership.ctp:62
+msgid "Add Instalment Plan"
+msgstr "Přidat splátky plán"
+
+#: Template/Membership/membership_list.ctp:56
+#: Template/Membership/membership_list.ctp:97
+msgid "Instalment Plan"
+msgstr "splátky Plan"
+
+#: Template/Membership/membership_list.ctp:57
+#: Template/Membership/membership_list.ctp:98
+msgid "SignUp Fee"
+msgstr "registrační poplatek"
+
+#: Template/Membership/membership_list.ctp:84
+msgid "Activities"
+msgstr "Aktivity"
+
+#: Template/Membership/view_activity.ctp:30
+msgid "View Activity"
+msgstr "pohled Aktivita"
+
+#: Template/Membership/view_activity.ctp:44
+msgid "Select Activity"
+msgstr "Vybrat Aktivita"
+
+#: Template/MembershipPayment/add_expense.ctp:13
+#: Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "Přidat Expense"
+
+#: Template/MembershipPayment/add_expense.ctp:17
+#: Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "Seznam Expense"
+
+#: Template/MembershipPayment/add_expense.ctp:26
+#: Template/MembershipPayment/expense_list.ctp:39
+msgid "Supplier Name"
+msgstr "Jméno dodavatele"
+
+#: Template/MembershipPayment/add_expense.ctp:36
+#: Template/MembershipPayment/add_income.ctp:47
+msgid "Paid"
+msgstr "nezaplaceno"
+
+#: Template/MembershipPayment/add_expense.ctp:36
+#: Template/MembershipPayment/add_income.ctp:47
+msgid "Part Paid"
+msgstr "část Placený"
+
+#: Template/MembershipPayment/add_expense.ctp:36
+#: Template/MembershipPayment/add_income.ctp:47
+msgid "Unpaid"
+msgstr "nezaplaceno"
+
+#: Template/MembershipPayment/add_expense.ctp:53
+#: Template/MembershipPayment/add_expense.ctp:75
+msgid "Expense Entry"
+msgstr "Náklady Entry"
+
+#: Template/MembershipPayment/add_expense.ctp:55
+#: Template/MembershipPayment/add_expense.ctp:77
+msgid "Expense Amount"
+msgstr "náklad Částka"
+
+#: Template/MembershipPayment/add_expense.ctp:58
+#: Template/MembershipPayment/add_expense.ctp:80
+msgid "Expense Entry Label"
+msgstr "Náklady na vstup Label"
+
+#: Template/MembershipPayment/add_expense.ctp:95
+msgid "Add Expense Entry"
+msgstr "Přidat Expense Entry"
+
+#: Template/MembershipPayment/add_expense.ctp:100
+msgid "Create Expense Entry"
+msgstr "Vytvořit Expense Entry"
+
+#: Template/MembershipPayment/add_income.ctp:18
+#: Template/MembershipPayment/add_income.ctp:22
+#: Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "Seznam příjmy"
+
+#: Template/MembershipPayment/add_income.ctp:29
+msgid "income"
+msgstr "Příjem"
+
+#: Template/MembershipPayment/add_income.ctp:37
+msgid "Income label"
+msgstr "štítek příjem"
+
+#: Template/MembershipPayment/add_income.ctp:64
+#: Template/MembershipPayment/add_income.ctp:86
+msgid "Income Entry"
+msgstr "Vstup příjem"
+
+#: Template/MembershipPayment/add_income.ctp:66
+#: Template/MembershipPayment/add_income.ctp:88
+msgid "Income Amount"
+msgstr "Výše příjmů"
+
+#: Template/MembershipPayment/add_income.ctp:69
+#: Template/MembershipPayment/add_income.ctp:91
+msgid "Income Entry Label"
+msgstr "Vstup příjem Label"
+
+#: Template/MembershipPayment/add_income.ctp:106
+msgid "Add Income Entry"
+msgstr "Přidat záznam příjmu"
+
+#: Template/MembershipPayment/add_income.ctp:111
+msgid "Create Income Entry"
+msgstr "Vytvoření položky příjmů"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:41
+#: Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "Vygenerovat fakturu"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:45
+msgid "Membership Payment List"
+msgstr "Členství Seznam platby"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:74
+msgid "Total Amount"
+msgstr "Celková částka"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:94
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "Přidat příjem"
+
+#: Template/MembershipPayment/payment_list.ctp:49
+#: Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "Název"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "Zaplatit"
+
+#: Template/MembershipPayment/print_invoice.ctp:147
+msgid "Discount :"
+msgstr "Sleva"
+
+#: Template/Reports/attendance_report.ctp:14
+#: Template/Reports/membership_report.ctp:12
+#: Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/payment_report.ctp:12
+msgid "Attendance Report"
+msgstr "Účast Zpráva"
+
+#: Template/Reports/attendance_report.ctp:15
+#: Template/Reports/membership_report.ctp:9
+#: Template/Reports/membership_status_report.ctp:9
+#: Template/Reports/payment_report.ctp:9
+msgid "Reports"
+msgstr "Reporty"
+
+#: Template/Reports/attendance_report.ctp:18
+#: Template/Reports/membership_report.ctp:24
+#: Template/Reports/membership_status_report.ctp:12
+msgid "Membership Report"
+msgstr "členství Zpráva"
+
+#: Template/Reports/attendance_report.ctp:20
+#: Template/Reports/membership_report.ctp:14
+#: Template/Reports/membership_status_report.ctp:8
+#: Template/Reports/payment_report.ctp:14
+msgid "Membership Status Report"
+msgstr "Členství Status Report"
+
+#: Template/Reports/attendance_report.ctp:22
+#: Template/Reports/membership_report.ctp:16
+#: Template/Reports/membership_status_report.ctp:16
+#: Template/Reports/payment_report.ctp:16
+msgid "Payment Report"
+msgstr "platba Zpráva"
+
+#: Template/Reports/attendance_report.ctp:30
+msgid "Strat Date"
+msgstr "Strat Datum"
+
+#: Template/Reports/attendance_report.ctp:90
+#: Template/Reports/membership_report.ctp:55
+#: Template/Reports/membership_status_report.ctp:35
+#: Template/Reports/payment_report.ctp:60
+msgid "There is not enough data to generate report."
+msgstr "Není k dispozici dostatek údajů pro generování zprávy."
+
+#: Template/Reports/membership_report.ctp:8
+#: Template/Reports/payment_report.ctp:8
+msgid "Membership report"
+msgstr "zpráva členství"
+
+#: Template/Reports/membership_status_report.ctp:24
+msgid "Membership by status"
+msgstr "Členství podle stavu"
+
+#: Template/Reports/payment_report.ctp:24
+msgid "Fee Payment Report By Month"
+msgstr "Poplatek Platba Zpráva podle měsíce"
+
+#: Template/StaffMembers/add_staff.ctp:40
+#: Template/StaffMembers/staff_list.ctp:37
+msgid "Staff List"
+msgstr "Seznam personál"
+
+#: Template/StaffMembers/add_staff.ctp:89
+msgid "Assign Role"
+msgstr "přiřazení role"
+
+#: Template/StaffMembers/add_staff.ctp:91
+msgid "Select Role"
+msgstr "Vybrat Role"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Specialization"
+msgstr "Specializace"
+
+#: Template/StaffMembers/add_staff.ctp:172
+msgid "Save Staff"
+msgstr "Uložit Zaměstnanci"
+
+#: Template/StaffMembers/staff_list.ctp:55
+#: Template/StaffMembers/staff_list.ctp:85
+msgid "Staff Member Name"
+msgstr "Zaměstnanci Jméno člena"
+
+#: Template/StaffMembers/staff_list.ctp:56
+#: Template/StaffMembers/staff_list.ctp:86
+msgid "Role"
+msgstr "hlavní postavy"
+
+#: Template/StaffMembers/staff_list.ctp:57
+#: Template/StaffMembers/staff_list.ctp:87
+msgid "Staff Member Email"
+msgstr "Zaměstnanec Email"
+
+#: Template/Users/login.ctp:20
+msgid "Logging you in"
+msgstr "Přihlášení vás"
+
+#: Template/Users/login.ctp:28
+msgid "Login"
+msgstr "Přihlášení"
+
+#~ msgid "Member Manangement"
+#~ msgstr "Členské Manangement"
+
+#~ msgid " Enable"
+#~ msgstr " Povolit"
+

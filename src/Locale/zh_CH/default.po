@@ -1,0 +1,2715 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gym Master\n"
+"POT-Creation-Date: 2016-12-07 12:02+0530\n"
+"PO-Revision-Date: 2016-12-07 12:02+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.6\n"
+"X-Poedit-Basepath: ../..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Controller/ActivityController.php:38 Template/Activity/activity_list.ctp:42 Template/Membership/view_activity.ctp:50
+msgid "Add Activity"
+msgstr "添加活动"
+
+#: Controller/ActivityController.php:69 Controller/GymDailyWorkoutController.php:90 Controller/GymDailyWorkoutController.php:191
+#: Controller/GymDailyWorkoutController.php:263 Controller/GymMemberController.php:127 Controller/GymMemberController.php:262
+#: Controller/MembershipPaymentController.php:199 Controller/MembershipPaymentController.php:321
+msgid "Success! Record Saved Successfully."
+msgstr "成功！记录保存成功。"
+
+#: Controller/ActivityController.php:80 Controller/GymGroupController.php:74 Controller/GymReservationController.php:75
+msgid "Success! Record Deleted Successfully"
+msgstr "成功！记录中删除成功"
+
+#: Controller/ActivityController.php:88
+msgid "Edit Activity"
+msgstr "编辑活动"
+
+#: Controller/ActivityController.php:131 Controller/GymAccountantController.php:80 Controller/GymDailyWorkoutController.php:214
+#: Controller/GymDailyWorkoutController.php:351 Controller/MembershipPaymentController.php:155 Controller/MembershipPaymentController.php:244
+#: Controller/MembershipPaymentController.php:347 Controller/StaffMembersController.php:92
+msgid "Success! Record Updated Successfully."
+msgstr "成功！记录更新成功。"
+
+#: Controller/AdminProfileController.php:52
+msgid "Success! Record Saved Successfully.Please login again to see changes."
+msgstr "成功！再次记录保存Successfully.Please登录查看更改。"
+
+#: Controller/ClassScheduleController.php:41 Template/ClassSchedule/class_list.ctp:51
+msgid "Add Class Schedule"
+msgstr "添加类时间表"
+
+#: Controller/ClassScheduleController.php:77 Controller/GymReservationController.php:31 Controller/GymReservationController.php:63
+#: Controller/MembershipController.php:61
+msgid "Success! Record Saved Successfully"
+msgstr "成功！记录保存成功"
+
+#: Controller/ClassScheduleController.php:80 Controller/MembershipController.php:139
+msgid "Error! There was an error while updating,Please try again later."
+msgstr "错误！有更新时发生错误，请稍后重试。"
+
+#: Controller/ClassScheduleController.php:89
+msgid "Edit Class Schedule"
+msgstr "编辑课程表"
+
+#: Controller/ClassScheduleController.php:137 Controller/GymGroupController.php:61 Controller/MembershipController.php:136
+msgid "Success! Record Updated Successfully"
+msgstr "成功！记录更新成功"
+
+#: Controller/ClassScheduleController.php:147 Controller/StaffMembersController.php:115
+msgid "Success! Staff Member Deleted Successfully."
+msgstr "成功！工作人员成功删除。"
+
+#: Controller/Component/GYMFunctionComponent.php:259 Template/GymMember/view_member.ctp:140
+msgid "Weight Report"
+msgstr "重量报告"
+
+#: Controller/Component/GYMFunctionComponent.php:260 Controller/Component/GYMFunctionComponent.php:266 Controller/Component/GYMFunctionComponent.php:272
+#: Controller/Component/GYMFunctionComponent.php:278 Controller/Component/GYMFunctionComponent.php:284 Controller/Component/GYMFunctionComponent.php:290
+#: Controller/Component/GYMFunctionComponent.php:296 Template/GymMember/view_attendance.ctp:51
+msgid "Day"
+msgstr "天數"
+
+#: Controller/Component/GYMFunctionComponent.php:265 Template/GymMember/view_member.ctp:190
+msgid "Thigh Report"
+msgstr "大腿报告"
+
+#: Controller/Component/GYMFunctionComponent.php:271 Template/GymMember/view_member.ctp:240
+msgid "Height Report"
+msgstr "身高报告"
+
+#: Controller/Component/GYMFunctionComponent.php:277 Template/GymMember/view_member.ctp:264
+msgid "Chest Report"
+msgstr "胸部报告"
+
+#: Controller/Component/GYMFunctionComponent.php:283 Template/GymMember/view_member.ctp:164
+msgid "Waist Report"
+msgstr "腰报告"
+
+#: Controller/Component/GYMFunctionComponent.php:289 Template/GymMember/view_member.ctp:214
+msgid "Arms Report"
+msgstr "武器的报告"
+
+#: Controller/Component/GYMFunctionComponent.php:295 Template/GymMember/view_member.ctp:290
+msgid "Fat Report"
+msgstr "厚厚的报告"
+
+#: Controller/Component/GYMFunctionComponent.php:378
+msgid "Not Paid"
+msgstr "未支付"
+
+#: Controller/Component/GYMFunctionComponent.php:380
+msgid "Partially Paid"
+msgstr "部分支付"
+
+#: Controller/Component/GYMFunctionComponent.php:579
+msgid "Membership Reminder Alert!"
+msgstr "会员提醒警报！"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "January"
+msgstr "一月"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "February"
+msgstr "二月"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "March"
+msgstr "三月"
+
+#: Controller/Component/GYMFunctionComponent.php:615
+msgid "April"
+msgstr "四月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "May"
+msgstr "五月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "June"
+msgstr "六月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "July"
+msgstr "七月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "August"
+msgstr "八月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "September"
+msgstr "九月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "October"
+msgstr "十月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "November"
+msgstr "十一月"
+
+#: Controller/Component/GYMFunctionComponent.php:616
+msgid "December"
+msgstr "十二月"
+
+#: Controller/Component/GYMFunctionComponent.php:617
+msgid "You are not authorized to access that location."
+msgstr "您无权访问该位置。"
+
+#: Controller/DashboardController.php:106 Controller/ReportsController.php:57 Template/Dashboard/dashboard.ctp:212 Template/GymAttendance/attendance.ctp:61
+#: Template/GymMember/add_member.ctp:350 Template/GymNotice/add_notice.ctp:44 Template/GymNotice/notice_list.ctp:44 Template/GymNotice/notice_list.ctp:73
+#: Template/MemberRegistration/index.ctp:153 Template/Reports/attendance_report.ctp:58
+msgid "Class"
+msgstr "职业"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133 Controller/ReportsController.php:57 Template/GymAttendance/attendance.ctp:68
+#: Template/GymAttendance/staff_attendance.ctp:53
+msgid "Present"
+msgstr "现状"
+
+#: Controller/DashboardController.php:106 Controller/DashboardController.php:133 Controller/ReportsController.php:57 Template/GymAttendance/attendance.ctp:70
+#: Template/GymAttendance/staff_attendance.ctp:55
+msgid "Absent"
+msgstr "不存在"
+
+#: Controller/DashboardController.php:133 Template/Cell/GymRenderMenu/admin_menu.ctp:84 Template/Dashboard/dashboard.ctp:69
+#: Template/Dashboard/dashboard.ctp:266 Template/Dashboard/member_dashboard.ctp:67 Template/Dashboard/staff_acc_dashboard.ctp:67
+#: Template/Element/sidebar.ctp:66 Template/GymAccessright/access_right.ctp:24 Template/GymAccessright/access_right.ctp:31
+#: Template/GymMember/view_member.ctp:117 Template/GymNotice/add_notice.ctp:38 Template/StaffMembers/add_staff.ctp:37 Template/StaffMembers/staff_list.ctp:38
+msgid "Staff Member"
+msgstr "IBM量子计算机研究项目组成员"
+
+#: Controller/GeneralSettingController.php:56 Controller/GeneralSettingController.php:77
+msgid "Success! Settings Saved Successfully."
+msgstr "成功！设置保存成功。"
+
+#: Controller/GymAccessrightController.php:247
+msgid "Success! Settings Saved successfully."
+msgstr "成功！设置保存成功。"
+
+#: Controller/GymAccountantController.php:23 Template/GymAccountant/accountant_list.ctp:43
+msgid "Add Accountant"
+msgstr "添加会计师"
+
+#: Controller/GymAccountantController.php:39 Controller/GymNoticeController.php:62 Controller/GymProductController.php:25 Controller/GymStoreController.php:35
+#: Controller/StaffMembersController.php:44
+msgid "Success! Record Successfully Saved."
+msgstr "成功！记录保存成功。"
+
+#: Controller/GymAccountantController.php:60
+msgid "Edit Accountant"
+msgstr "编辑会计师"
+
+#: Controller/GymAccountantController.php:103 Controller/MembershipPaymentController.php:359
+msgid "Success! Accountant Deleted Successfully."
+msgstr "成功！会计师成功删除。"
+
+#: Controller/GymAjaxController.php:25
+msgid "Add/Remove Category"
+msgstr "添加/删除分类"
+
+#: Controller/GymAjaxController.php:30
+msgid "enter category name"
+msgstr "输入类别名称"
+
+#: Controller/GymAjaxController.php:33 Controller/GymAjaxController.php:121 Template/Activity/add_activity.ctp:41 Template/Membership/add.ctp:83
+#: Template/Membership/edit_membership.ctp:31
+msgid "Add Category"
+msgstr "添加类别"
+
+#: Controller/GymAjaxController.php:42 Controller/GymAjaxController.php:214 Controller/GymAjaxController.php:295
+msgid "Category"
+msgstr "类"
+
+#: Controller/GymAjaxController.php:43 Controller/GymAjaxController.php:131 Controller/GymAjaxController.php:215 Controller/GymAjaxController.php:296
+#: Controller/GymAjaxController.php:376 Controller/GymAjaxController.php:454 Controller/GymAjaxController.php:551 Controller/GymAjaxController.php:886
+#: Controller/GymAjaxController.php:992 Template/Activity/activity_list.ctp:55 Template/Activity/activity_list.ctp:79 Template/ClassSchedule/add_class.ctp:117
+#: Template/ClassSchedule/class_list.ctp:66 Template/ClassSchedule/class_list.ctp:94 Template/GymAccountant/accountant_list.ctp:57
+#: Template/GymAccountant/accountant_list.ctp:87 Template/GymAssignWorkout/workout_log.ctp:55 Template/GymAssignWorkout/workout_log.ctp:79
+#: Template/GymDailyWorkout/workout_list.ctp:59 Template/GymDailyWorkout/workout_list.ctp:85 Template/GymGroup/group_list.ctp:47
+#: Template/GymGroup/group_list.ctp:78 Template/GymMember/member_list.ctp:72 Template/GymMember/member_list.ctp:120 Template/GymNotice/notice_list.ctp:45
+#: Template/GymNotice/notice_list.ctp:74 Template/GymNutrition/nutrition_list.ctp:55 Template/GymNutrition/nutrition_list.ctp:78
+#: Template/GymProduct/product_list.ctp:55 Template/GymProduct/product_list.ctp:78 Template/GymReservation/reservation_list.ctp:63
+#: Template/GymReservation/reservation_list.ctp:91 Template/GymStore/sell_record.ctp:38 Template/GymStore/sell_record.ctp:61
+#: Template/Membership/membership_list.ctp:58 Template/Membership/membership_list.ctp:99 Template/Membership/view_activity.ctp:63
+#: Template/Membership/view_activity.ctp:87 Template/MembershipPayment/expense_list.ctp:42 Template/MembershipPayment/expense_list.ctp:70
+#: Template/MembershipPayment/income_list.ctp:42 Template/MembershipPayment/income_list.ctp:70 Template/MembershipPayment/payment_list.ctp:57
+#: Template/MembershipPayment/payment_list.ctp:102 Template/StaffMembers/staff_list.ctp:59 Template/StaffMembers/staff_list.ctp:89
+msgid "Action"
+msgstr "行动"
+
+#: Controller/GymAjaxController.php:53 Controller/GymAjaxController.php:79 Controller/GymAjaxController.php:141 Controller/GymAjaxController.php:168
+#: Controller/GymAjaxController.php:227 Controller/GymAjaxController.php:253 Controller/GymAjaxController.php:308 Controller/GymAjaxController.php:336
+#: Controller/GymAjaxController.php:388 Controller/GymAjaxController.php:414 Controller/GymAjaxController.php:466 Controller/GymAjaxController.php:492
+#: Controller/GymAjaxController.php:563 Controller/GymAjaxController.php:590 Controller/GymAjaxController.php:1004 Controller/GymAjaxController.php:1032
+#: Template/ClassSchedule/view_schedule.ctp:39 Template/GymMessage/view_message.ctp:47 Template/GymNotice/notice_list.ctp:61
+#: Template/GymProduct/product_list.ctp:68 Template/GymStore/sell_record.ctp:51 Template/MembershipPayment/add_expense.ctp:62
+#: Template/MembershipPayment/add_expense.ctp:84 Template/MembershipPayment/add_income.ctp:73 Template/MembershipPayment/add_income.ctp:95
+msgid "Delete"
+msgstr "删除"
+
+#: Controller/GymAjaxController.php:63 Controller/GymAjaxController.php:151 Controller/GymAjaxController.php:238 Controller/GymAjaxController.php:319
+#: Controller/GymAjaxController.php:399 Controller/GymAjaxController.php:477 Controller/GymAjaxController.php:574 Controller/GymAjaxController.php:917
+#: Controller/GymAjaxController.php:1015 Controller/GymAjaxController.php:1080 Controller/GymAjaxController.php:1132 Controller/GymAjaxController.php:1284
+#: Controller/GymAjaxController.php:1420 Controller/GymAjaxController.php:1466
+msgid "Close"
+msgstr "关闭"
+
+#: Controller/GymAjaxController.php:104
+msgid "Add/Remove Instalment Plan"
+msgstr "添加/删除分期计划"
+
+#: Controller/GymAjaxController.php:109
+msgid "Enter Duration Number"
+msgstr "输入时间数"
+
+#: Controller/GymAjaxController.php:113
+msgid "Select Duration"
+msgstr "选择期限"
+
+#: Controller/GymAjaxController.php:114 Template/ClassSchedule/add_class.ctp:117
+msgid "Days"
+msgstr "天数"
+
+#: Controller/GymAjaxController.php:115
+msgid "Week"
+msgstr "周"
+
+#: Controller/GymAjaxController.php:116 Template/Dashboard/dashboard.ctp:160 Template/Reports/payment_report.ctp:33
+msgid "Month"
+msgstr "月"
+
+#: Controller/GymAjaxController.php:117
+msgid "Year"
+msgstr "年"
+
+#: Controller/GymAjaxController.php:130
+msgid "Plan"
+msgstr "计划"
+
+#: Controller/GymAjaxController.php:197
+msgid "Add/Remove Role"
+msgstr "添加/删除角色"
+
+#: Controller/GymAjaxController.php:202
+msgid "Enter Role"
+msgstr "进入角色"
+
+#: Controller/GymAjaxController.php:205 Controller/GymAjaxController.php:286
+msgid "Add Role"
+msgstr "添加角色"
+
+#: Controller/GymAjaxController.php:230 Controller/GymAjaxController.php:311 Controller/GymAjaxController.php:1007
+msgid "No roles added"
+msgstr "无添加的角色"
+
+#: Controller/GymAjaxController.php:278
+msgid "Add/Remove Specialization"
+msgstr "添加/删除专业化"
+
+#: Controller/GymAjaxController.php:283
+msgid "Enter Specialization"
+msgstr "进入专业化"
+
+#: Controller/GymAjaxController.php:358
+msgid "Add/Remove Interest"
+msgstr "添加/删除兴趣"
+
+#: Controller/GymAjaxController.php:363
+msgid "Enter Interest"
+msgstr "输入利息"
+
+#: Controller/GymAjaxController.php:366
+msgid "Add Interest"
+msgstr "添加兴趣"
+
+#: Controller/GymAjaxController.php:375
+msgid "Interest"
+msgstr "Interest"
+
+#: Controller/GymAjaxController.php:391 Controller/GymAjaxController.php:469 Controller/GymAjaxController.php:566
+msgid "No record added yet"
+msgstr "没有记录尚未加入"
+
+#: Controller/GymAjaxController.php:436
+msgid "Add/Remove Source"
+msgstr "添加/删除源代码"
+
+#: Controller/GymAjaxController.php:441
+msgid "Enter Source"
+msgstr "输入源"
+
+#: Controller/GymAjaxController.php:444
+msgid "Add Source"
+msgstr "添加源"
+
+#: Controller/GymAjaxController.php:453
+msgid "Source List"
+msgstr "来源列表"
+
+#: Controller/GymAjaxController.php:533
+msgid "Add/Remove Levels"
+msgstr "添加/删除级别"
+
+#: Controller/GymAjaxController.php:538
+msgid "Enter Level"
+msgstr "输入电平"
+
+#: Controller/GymAjaxController.php:541 Controller/GymAjaxController.php:726 Template/GymAssignWorkout/assign_workout.ctp:78
+msgid "Add Level"
+msgstr "添加级别"
+
+#: Controller/GymAjaxController.php:550
+msgid "Levels"
+msgstr "关卡"
+
+#: Controller/GymAjaxController.php:673 Controller/GymAjaxController.php:750 Template/Activity/activity_list.ctp:36 Template/Activity/add_activity.ctp:21
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:96 Template/Element/sidebar.ctp:78 Template/GymAccessright/access_right.ctp:151
+#: Template/GymAssignWorkout/assign_workout.ctp:175 Template/GymAssignWorkout/member_assiged_workout.ctp:63 Template/GymAssignWorkout/print_workout.ctp:60
+msgid "Activity"
+msgstr "活动"
+
+#: Controller/GymAjaxController.php:674 Controller/GymAjaxController.php:686 Controller/GymAjaxController.php:751
+#: Template/GymAssignWorkout/assign_workout.ctp:176 Template/GymAssignWorkout/member_assiged_workout.ctp:64 Template/GymAssignWorkout/print_workout.ctp:61
+msgid "Sets"
+msgstr "sets"
+
+#: Controller/GymAjaxController.php:675 Controller/GymAjaxController.php:687 Controller/GymAjaxController.php:752
+#: Template/GymAssignWorkout/assign_workout.ctp:177 Template/GymAssignWorkout/member_assiged_workout.ctp:65 Template/GymAssignWorkout/print_workout.ctp:62
+msgid "Reps"
+msgstr "reps"
+
+#: Controller/GymAjaxController.php:676 Controller/GymAjaxController.php:753 Template/GymAssignWorkout/assign_workout.ctp:178
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:66 Template/GymAssignWorkout/print_workout.ctp:63
+msgid "KG"
+msgstr " 公斤"
+
+#: Controller/GymAjaxController.php:677 Controller/GymAjaxController.php:754 Template/GymAssignWorkout/assign_workout.ctp:179
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:67 Template/GymAssignWorkout/print_workout.ctp:64
+msgid "Rest Time"
+msgstr "休息时间"
+
+#: Controller/GymAjaxController.php:688
+msgid "Kg"
+msgstr " 公斤"
+
+#: Controller/GymAjaxController.php:689
+msgid "Min"
+msgstr "最低"
+
+#: Controller/GymAjaxController.php:693
+msgid "Your Workout"
+msgstr "你的锻炼"
+
+#: Controller/GymAjaxController.php:705
+msgid "No Workout assigned for today.You can add data from below."
+msgstr "没有分配给today.You锻炼可以从下面添加数据。"
+
+#: Controller/GymAjaxController.php:710 Template/GymAssignWorkout/assign_workout.ctp:71
+msgid "Level"
+msgstr "等级 "
+
+#: Controller/GymAjaxController.php:713 Template/GymAssignWorkout/assign_workout.ctp:74
+msgid "Select Level"
+msgstr "选择级别"
+
+#: Controller/GymAjaxController.php:736
+msgid "Category List"
+msgstr "Category List"
+
+#: Controller/GymAjaxController.php:874
+msgid "Edit/Delete Measurement"
+msgstr "编辑/删除测量"
+
+#: Controller/GymAjaxController.php:882
+msgid "Image"
+msgstr "图片"
+
+#: Controller/GymAjaxController.php:883
+msgid "Measurement"
+msgstr "测量"
+
+#: Controller/GymAjaxController.php:884 Template/GymDailyWorkout/add_measurment.ctp:62
+msgid "Result"
+msgstr "结果"
+
+#: Controller/GymAjaxController.php:885
+msgid "Record Date"
+msgstr "记录日期"
+
+#: Controller/GymAjaxController.php:908
+msgid "No Data Found."
+msgstr "没有找到数据。"
+
+#: Controller/GymAjaxController.php:974
+msgid "Add/Remove Event Place"
+msgstr "添加/删除事件地方"
+
+#: Controller/GymAjaxController.php:979
+msgid "Enter Place Name"
+msgstr "输入地名"
+
+#: Controller/GymAjaxController.php:982
+msgid "Add Place"
+msgstr "添加地区"
+
+#: Controller/GymAjaxController.php:991
+msgid "Place Name"
+msgstr "地名"
+
+#: Controller/GymAjaxController.php:1059
+msgid "Group Members"
+msgstr "小组成员"
+
+#: Controller/GymAjaxController.php:1074
+msgid "No Members Assigned Yet."
+msgstr "有会员加入分配。"
+
+#: Controller/GymAjaxController.php:1093 Controller/GymAjaxController.php:1127
+msgid "Add Payment"
+msgstr "添加付款"
+
+#: Controller/GymAjaxController.php:1101 Template/MembershipPayment/payment_list.ctp:52 Template/MembershipPayment/payment_list.ctp:97
+msgid "Paid Amount"
+msgstr "已付金额"
+
+#: Controller/GymAjaxController.php:1110
+msgid "Payment By"
+msgstr "付款"
+
+#: Controller/GymAjaxController.php:1116
+msgid "Paypal"
+msgstr "6、PayPal"
+
+#: Controller/GymAjaxController.php:1119
+msgid "Cash"
+msgstr "现金"
+
+#: Controller/GymAjaxController.php:1120
+msgid "Cheque"
+msgstr "支票"
+
+#: Controller/GymAjaxController.php:1121
+msgid "Bank Transfer"
+msgstr "银行转帐"
+
+#: Controller/GymAjaxController.php:1166 Controller/GymAjaxController.php:1315
+msgid "Invoice"
+msgstr "发货单"
+
+#: Controller/GymAjaxController.php:1179 Controller/GymAjaxController.php:1328 Template/MembershipPayment/print_invoice.ctp:26
+msgid "Issue Date"
+msgstr "发布日期"
+
+#: Controller/GymAjaxController.php:1180 Controller/GymAjaxController.php:1329 Template/GymAttendance/attendance.ctp:77
+#: Template/GymAttendance/attendance.ctp:80 Template/GymAttendance/staff_attendance.ctp:62 Template/GymAttendance/staff_attendance.ctp:65
+#: Template/GymMember/member_list.ctp:73 Template/GymMember/member_list.ctp:121 Template/GymMember/view_member.ctp:122
+#: Template/MembershipPayment/add_expense.ctp:33 Template/MembershipPayment/add_income.ctp:44 Template/MembershipPayment/print_invoice.ctp:27
+msgid "Status"
+msgstr "状态"
+
+#: Controller/GymAjaxController.php:1193 Controller/GymAjaxController.php:1342 Template/MembershipPayment/print_invoice.ctp:37
+msgid "Payment To"
+msgstr "付款到"
+
+#: Controller/GymAjaxController.php:1196 Controller/GymAjaxController.php:1345 Template/MembershipPayment/print_invoice.ctp:40
+msgid "Bill To"
+msgstr "账单寄到"
+
+#: Controller/GymAjaxController.php:1227 Template/Cell/GymRenderMenu/admin_menu.ctp:51 Template/Element/sidebar.ctp:33
+#: Template/GymAccessright/access_right.ctp:61
+msgid "Membership Type"
+msgstr "会员类型"
+
+#: Controller/GymAjaxController.php:1228
+msgid "Sign Up Fee"
+msgstr "注册费"
+
+#: Controller/GymAjaxController.php:1229
+msgid "Membership Fee"
+msgstr "会员费"
+
+#: Controller/GymAjaxController.php:1230
+msgid "Total"
+msgstr "总计"
+
+#: Controller/GymAjaxController.php:1244 Template/MembershipPayment/print_invoice.ctp:143
+msgid "Subtotal :"
+msgstr "小计"
+
+#: Controller/GymAjaxController.php:1248
+msgid "Payment Made :"
+msgstr "付款方式制造："
+
+#: Controller/GymAjaxController.php:1252
+msgid "Due Amount  :"
+msgstr "到期金额 ："
+
+#: Controller/GymAjaxController.php:1260
+msgid "Payment History"
+msgstr "付款历史"
+
+#: Controller/GymAjaxController.php:1264 Controller/GymAjaxController.php:1383 Template/GymAttendance/attendance.ctp:31
+#: Template/GymAttendance/attendance.ctp:62 Template/GymAttendance/staff_attendance.ctp:26 Template/GymDailyWorkout/view_workout.ctp:31
+#: Template/GymMember/view_attendance.ctp:50 Template/GymMessage/inbox.ctp:55 Template/GymMessage/sent.ctp:44 Template/GymStore/sell_product.ctp:39
+#: Template/MembershipPayment/add_expense.ctp:42 Template/MembershipPayment/add_income.ctp:53 Template/MembershipPayment/expense_list.ctp:41
+#: Template/MembershipPayment/expense_list.ctp:69 Template/MembershipPayment/income_list.ctp:41 Template/MembershipPayment/income_list.ctp:69
+#: Template/MembershipPayment/print_invoice.ctp:79
+msgid "Date"
+msgstr "完成日期"
+
+#: Controller/GymAjaxController.php:1265 Template/GymMember/view_member.ctp:382 Template/GymMember/view_member.ctp:410
+#: Template/GymSubscriptionHistory/index.ctp:41 Template/GymSubscriptionHistory/index.ctp:69 Template/Membership/add.ctp:142
+#: Template/MembershipPayment/expense_list.ctp:40 Template/MembershipPayment/expense_list.ctp:68 Template/MembershipPayment/income_list.ctp:40
+#: Template/MembershipPayment/income_list.ctp:68 Template/MembershipPayment/payment_list.ctp:51 Template/MembershipPayment/payment_list.ctp:96
+msgid "Amount"
+msgstr "金额"
+
+#: Controller/GymAjaxController.php:1266
+msgid "Method"
+msgstr "方法"
+
+#: Controller/GymAjaxController.php:1378 Template/MembershipPayment/print_invoice.ctp:74
+msgid "Invoice Entries"
+msgstr "发票条目"
+
+#: Controller/GymAjaxController.php:1384 Template/MembershipPayment/print_invoice.ctp:80
+msgid "Entry"
+msgstr "分录"
+
+#: Controller/GymAjaxController.php:1385 Template/MembershipPayment/print_invoice.ctp:81
+msgid "Price"
+msgstr "价格"
+
+#: Controller/GymAjaxController.php:1386 Template/AdminProfile/edit_profile.ctp:62 Template/GymAccountant/add_accountant.ctp:114
+#: Template/GymEmailSetting/index.ctp:34 Template/GymMember/add_member.ctp:248 Template/GymMember/view_member.ctp:84 Template/GymProfile/view_profile.ctp:64
+#: Template/Installer/index.ctp:483 Template/MemberRegistration/index.ctp:225 Template/MembershipPayment/print_invoice.ctp:82
+#: Template/StaffMembers/add_staff.ctp:149 Template/Users/login.ctp:26
+msgid "Username"
+msgstr "用户名"
+
+#: Controller/GymAjaxController.php:1409 Template/MembershipPayment/print_invoice.ctp:165
+msgid "Grand Total :"
+msgstr "总数"
+
+#: Controller/GymAjaxController.php:1418 Template/GymAssignWorkout/member_assiged_workout.ctp:55 Template/GymNutrition/member_nutrition.ctp:54
+msgid "Print"
+msgstr "打印"
+
+#: Controller/GymAjaxController.php:1435
+msgid "Notice Detail"
+msgstr "通知详细"
+
+#: Controller/GymAjaxController.php:1440
+msgid "Notice Title "
+msgstr "公告标题"
+
+#: Controller/GymAjaxController.php:1445 Template/GymNotice/notice_list.ctp:42 Template/GymNotice/notice_list.ctp:71
+msgid "Notice Comment"
+msgstr "公告点评"
+
+#: Controller/GymAjaxController.php:1450 Template/GymNotice/add_notice.ctp:35 Template/GymNotice/notice_list.ctp:43 Template/GymNotice/notice_list.ctp:72
+msgid "Notice For"
+msgstr "安装注意事项"
+
+#: Controller/GymAjaxController.php:1455 Template/GymAssignWorkout/assign_workout.ctp:88 Template/GymDailyWorkout/add_workout.ctp:120
+#: Template/GymMember/view_attendance.ctp:30 Template/GymNotice/add_notice.ctp:53 Template/GymNutrition/addnutrition_schedule.ctp:46
+msgid "Start Date"
+msgstr "起始日期"
+
+#: Controller/GymAjaxController.php:1460
+msgid "End Date "
+msgstr "结束日期"
+
+#: Controller/GymAssignWorkoutController.php:40 Template/Cell/GymRenderMenu/admin_menu.ctp:105 Template/Element/sidebar.ctp:87
+#: Template/GymAssignWorkout/assign_workout.ctp:46 Template/GymAssignWorkout/member_assiged_workout.ctp:19
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:25 Template/GymAssignWorkout/workout_log.ctp:36 Template/GymAssignWorkout/workout_log.ctp:42
+#: Template/GymNutrition/member_nutrition.ctp:25
+msgid "Assign Workout"
+msgstr "分配锻炼"
+
+#: Controller/GymAssignWorkoutController.php:101 Controller/GymAssignWorkoutController.php:272
+msgid "success! Record Saved Successfully."
+msgstr "成功！记录保存成功。"
+
+#: Controller/GymAssignWorkoutController.php:103
+msgid "Error! Workout days data couldn't saved.Please try again."
+msgstr "错误！训练日数据不能saved.Please再试一次。"
+
+#: Controller/GymAssignWorkoutController.php:108 Controller/GymAssignWorkoutController.php:278
+msgid "Error! Record couldn't saved.Please try again."
+msgstr "错误！记录不能saved.Please再试一次。"
+
+#: Controller/GymAssignWorkoutController.php:196 Template/GymDailyWorkout/view_workout.ctp:13
+msgid "View Workout"
+msgstr "查看锻炼"
+
+#: Controller/GymAssignWorkoutController.php:275
+msgid "Error! Workout days daya couldn't saved.Please try again."
+msgstr "错误！训练日达亚不能saved.Please再试一次。"
+
+#: Controller/GymAssignWorkoutController.php:299 Controller/GymMemberController.php:296 Controller/MembershipPaymentController.php:256
+msgid "Success! Record Deleted Successfully."
+msgstr "成功！记录成功删除。"
+
+#: Controller/GymAttendanceController.php:78 Controller/GymAttendanceController.php:142
+msgid "Success! Attendance Saved Successfully."
+msgstr "成功！考勤成功保存。"
+
+#: Controller/GymAttendanceController.php:146
+msgid "Error! Please Select Member/Staff-Member."
+msgstr "错误！请选择会员/职员会员。"
+
+#: Controller/GymDailyWorkoutController.php:42 Template/GymDailyWorkout/add_measurment.ctp:26 Template/GymDailyWorkout/workout_list.ctp:43
+msgid "Add Workout"
+msgstr "添加锻炼"
+
+#: Controller/GymDailyWorkoutController.php:234 Template/GymDailyWorkout/add_workout.ctp:93 Template/GymDailyWorkout/view_workout.ctp:19
+#: Template/GymDailyWorkout/workout_list.ctp:45
+msgid "Add Measurement"
+msgstr "添加测量"
+
+#: Controller/GymDailyWorkoutController.php:328
+msgid "Edit Measurement"
+msgstr "编辑测量"
+
+#: Controller/GymEmailSettingController.php:56
+msgid "Test Email"
+msgstr "测试电子邮件"
+
+#: Controller/GymGroupController.php:23 Template/GymMember/add_member.ctp:135
+msgid "Add Group"
+msgstr "添加组"
+
+#: Controller/GymGroupController.php:35
+msgid "Success! Group Added Successfully."
+msgstr "成功！集团成功添加。"
+
+#: Controller/GymGroupController.php:42
+msgid "Edit Group"
+msgstr "编辑组"
+
+#: Controller/GymMemberController.php:56 Template/GymAssignWorkout/assign_workout.ctp:67 Template/GymDailyWorkout/add_workout.ctp:110
+#: Template/GymMember/member_list.ctp:55 Template/GymNutrition/addnutrition_schedule.ctp:42
+msgid "Add Member"
+msgstr "添加成员"
+
+#: Controller/GymMemberController.php:178
+msgid "Edit Member"
+msgstr "编辑会员"
+
+#: Controller/GymMemberController.php:388
+msgid "Success! Member activated successfully."
+msgstr "成功！会员成功激活。"
+
+#: Controller/GymMessageController.php:145
+msgid "Success! Message Sent Successfully."
+msgstr "成功！邮件成功发送。"
+
+#: Controller/GymMessageController.php:147
+msgid "Error! Message Couldn't be Sent, Please Try Again."
+msgstr "错误！消息无法发送，请重试。"
+
+#: Controller/GymMessageController.php:195
+msgid "Success! Message Deleted Successfully."
+msgstr "成功！留言成功删除。"
+
+#: Controller/GymNewsletterController.php:36
+msgid "Success! Api Key Saved successfully."
+msgstr "成功！ API密钥保存成功。"
+
+#: Controller/GymNewsletterController.php:44
+msgid "Success! Api Key Updated successfully."
+msgstr "成功！ API密钥更新成功。"
+
+#: Controller/GymNewsletterController.php:92
+msgid "Success! Mail Synchronize Successfully Done."
+msgstr "成功！邮件同步成功完成。"
+
+#: Controller/GymNewsletterController.php:128
+msgid "Campaign Tests Not Sent!"
+msgstr "运动试验未发送！"
+
+#: Controller/GymNewsletterController.php:130
+msgid "Campaign Tests Sent!"
+msgstr "运动测试已发送！"
+
+#: Controller/GymNoticeController.php:65 Controller/GymProductController.php:28 Controller/GymStoreController.php:39
+msgid "Error! Record Not Saved.Please Try Again."
+msgstr "错误：选项不能保存，请再试一次。"
+
+#: Controller/GymNoticeController.php:91 Controller/GymProductController.php:43 Controller/GymStoreController.php:61
+msgid "Success! Record Successfully Updated."
+msgstr "成功！记录更新成功。"
+
+#: Controller/GymNoticeController.php:94 Controller/GymProductController.php:46 Controller/GymStoreController.php:64
+msgid "Error! Record Not Updated.Please Try Again."
+msgstr "错误！记录未Updated.Please再试。"
+
+#: Controller/GymNoticeController.php:105 Controller/GymStoreController.php:75
+msgid "Success! Record Deleted Successfully Updated."
+msgstr "成功！记录中删除成功更新。"
+
+#: Controller/GymNutritionController.php:38 Template/GymNutrition/nutrition_list.ctp:42
+msgid "Add Nutrition Schedule"
+msgstr "补充营养计划"
+
+#: Controller/GymNutritionController.php:75 Controller/GymNutritionController.php:215
+msgid "Success"
+msgstr "成功"
+
+#: Controller/GymNutritionController.php:79 Controller/GymNutritionController.php:219
+msgid "Error! Nutrition data couldn't saved.Please try again."
+msgstr "错误！营养数据不能saved.Please再试一次。"
+
+#: Controller/GymNutritionController.php:83 Controller/GymNutritionController.php:223
+msgid "Error! Nutrition Schedule couldn't saved.Please try again."
+msgstr "错误！营养计划不能saved.Please再试一次。"
+
+#: Controller/GymNutritionController.php:170
+msgid "View Nutrition Schedule"
+msgstr "查看营养计划"
+
+#: Controller/GymProfileController.php:26
+msgid "Error! New password and confirm password does not matched.Please try again."
+msgstr "错误！新密码和确认密码不matched.Please再试一次。"
+
+#: Controller/GymProfileController.php:33 Controller/GymProfileController.php:57
+msgid "Success! Password Updated Successfully"
+msgstr "成功！密码更新成功"
+
+#: Controller/GymProfileController.php:37
+msgid "Error! Current password is wrong.Please try again."
+msgstr "错误！当前密码wrong.Please再试一次。"
+
+#: Controller/GymProfileController.php:61
+msgid "Error! Email-id already exists.Please try again."
+msgstr "错误！电子邮件-ID已经存在。请重试。"
+
+#: Controller/MemberRegistrationController.php:98
+msgid "Registration completed successfully. Please Check email"
+msgstr "注册成功完成。请检查电子邮件"
+
+#: Controller/MembershipController.php:23 Template/Activity/add_activity.ctp:71 Template/GymMember/add_member.ctp:345
+#: Template/Membership/edit_membership.ctp:7
+msgid "Add Membership"
+msgstr "加入会员"
+
+#: Controller/MembershipController.php:64
+msgid "Error! There was an error while saving,Please try again later."
+msgstr "错误！有一个错误，同时节省，请稍后重试。"
+
+#: Controller/MembershipController.php:91
+msgid "Edit Membership"
+msgstr "编辑成员资格"
+
+#: Controller/MembershipController.php:183
+msgid "Success! Activity Successfully Assigned."
+msgstr "成功！活动成功分配。"
+
+#: Controller/MembershipController.php:193
+msgid "Success! Activity Unassigned Successfully."
+msgstr "成功！活动未分配的成功。"
+
+#: Controller/MembershipPaymentController.php:63 Controller/MembershipPaymentController.php:113
+msgid "Success! Payment Added Successfully."
+msgstr "成功！付款成功添加。"
+
+#: Controller/MembershipPaymentController.php:166
+msgid "Success! Payment Record Deleted Successfully."
+msgstr "成功！付款记录成功删除。"
+
+#: Controller/MembershipPaymentController.php:385 Controller/MembershipPaymentController.php:406
+msgid "Success! Payment Successfully Completed."
+msgstr "成功！付款成功完成。"
+
+#: Controller/MembershipPaymentController.php:409
+msgid "Paypal Payment IPN save failed to DB."
+msgstr "贝宝付款IPN保存失败为DB。"
+
+#: Controller/StaffMembersController.php:22 Template/Activity/add_activity.ctp:60
+msgid "Add Staff Member"
+msgstr "添加科员"
+
+#: Controller/StaffMembersController.php:65
+msgid "Edit Staff Member"
+msgstr "编辑科员"
+
+#: Controller/UsersController.php:48
+msgid "Sorry, Your account is expired."
+msgstr "对不起，您的帐户已过期。"
+
+#: Controller/UsersController.php:58
+msgid "Error! Your account not activated yet!"
+msgstr "错误！ 您的帐户尚未启用！"
+
+#: Controller/UsersController.php:98
+msgid "Invalid username or password, try again"
+msgstr "无效的用户名或密码，请重试"
+
+#: View/Helper/GymHelper.php:233
+msgid "Not Taken"
+msgstr "未参加"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261 Template/Cell/GymRenderMenu/admin_menu.ctp:80 Template/Element/sidebar.ctp:62
+msgid "Members"
+msgstr "会员数"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261
+msgid "Staff Members"
+msgstr "工作人员人数"
+
+#: View/Helper/GymHelper.php:259 View/Helper/GymHelper.php:261
+msgid "Accountants"
+msgstr "会计师"
+
+#: View/Helper/GymHelper.php:261
+msgid "Administrator"
+msgstr "管理员"
+
+#: View/Helper/GymHelper.php:476
+msgid "No data available in table"
+msgstr "无表可用数据"
+
+#: View/Helper/GymHelper.php:477
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr "显示_START_到_TOTAL_项_END_"
+
+#: View/Helper/GymHelper.php:478
+msgid "Showing 0 to 0 of 0 entries"
+msgstr "显示0至0 0项"
+
+#: View/Helper/GymHelper.php:479
+msgid "(filtered from _MAX_ total entries)"
+msgstr "（从_MAX_总条目过滤）"
+
+#: View/Helper/GymHelper.php:482
+msgid "Show _MENU_ entries"
+msgstr "显示_MENU_项"
+
+#: View/Helper/GymHelper.php:483
+msgid "Loading..."
+msgstr "加载中..."
+
+#: View/Helper/GymHelper.php:484
+msgid "Processing..."
+msgstr "处理中..."
+
+#: View/Helper/GymHelper.php:485
+msgid "Search"
+msgstr "搜索"
+
+#: View/Helper/GymHelper.php:486
+msgid "No matching records found"
+msgstr "没有找到匹配的记录"
+
+#: View/Helper/GymHelper.php:488
+msgid "First"
+msgstr "名"
+
+#: View/Helper/GymHelper.php:489
+msgid "Last"
+msgstr "姓"
+
+#: View/Helper/GymHelper.php:490
+msgid "Next"
+msgstr "下一个"
+
+#: View/Helper/GymHelper.php:491
+msgid "Previous"
+msgstr "以前的"
+
+#: View/Helper/GymHelper.php:494
+msgid "activate to sort column ascending"
+msgstr "激活排序列升序"
+
+#: View/Helper/GymHelper.php:495
+msgid "activate to sort column descending"
+msgstr "激活排序列降序"
+
+#: Template/Activity/activity_list.ctp:35 Template/Activity/add_activity.ctp:24
+msgid "Activity List"
+msgstr "活动列表"
+
+#: Template/Activity/activity_list.ctp:52 Template/Activity/activity_list.ctp:76 Template/Membership/view_activity.ctp:60
+#: Template/Membership/view_activity.ctp:84
+msgid "Activity Name"
+msgstr "活动名称"
+
+#: Template/Activity/activity_list.ctp:53 Template/Activity/activity_list.ctp:77 Template/Membership/view_activity.ctp:61
+#: Template/Membership/view_activity.ctp:85
+msgid "Activity Category"
+msgstr "活动类别"
+
+#: Template/Activity/activity_list.ctp:54 Template/Activity/activity_list.ctp:78 Template/Membership/view_activity.ctp:62
+#: Template/Membership/view_activity.ctp:86
+msgid "Activity Trainer"
+msgstr "活动训练"
+
+#: Template/Activity/add_activity.ctp:34 Template/Activity/add_activity.ctp:37 Template/Membership/add.ctp:80 Template/Membership/edit_membership.ctp:26
+msgid "Select Category"
+msgstr "选择类别"
+
+#: Template/Activity/add_activity.ctp:45
+msgid "Activity Title"
+msgstr "活动名称"
+
+#: Template/Activity/add_activity.ctp:53
+msgid "Assign to Staff Member"
+msgstr "分配给工作人员"
+
+#: Template/Activity/add_activity.ctp:56 Template/ClassSchedule/add_class.ctp:41 Template/ClassSchedule/add_class.ctp:43
+#: Template/ClassSchedule/add_class.ctp:58 Template/GymMember/add_member.ctp:273 Template/GymMember/add_member.ctp:275 Template/GymMember/add_member.ctp:305
+msgid "Select Staff Member"
+msgstr "选择科员"
+
+#: Template/Activity/add_activity.ctp:64 Template/GymMember/add_member.ctp:342 Template/MemberRegistration/index.ctp:267
+#: Template/MembershipPayment/generate_payment_invoice.ctp:70
+msgid "Select Membership"
+msgstr "选择会员"
+
+#: Template/Activity/add_activity.ctp:75
+msgid "Save Activity"
+msgstr "保存活动"
+
+#: Template/AdminProfile/edit_profile.ctp:25
+msgid "Profile Setting"
+msgstr "个人资料设置"
+
+#: Template/AdminProfile/edit_profile.ctp:26
+msgid "Admin"
+msgstr "管理"
+
+#: Template/AdminProfile/edit_profile.ctp:34 Template/GymAccountant/add_accountant.ctp:32 Template/GymMember/add_member.ctp:80
+#: Template/MemberRegistration/index.ctp:103 Template/StaffMembers/add_staff.ctp:48
+msgid "Personal Information"
+msgstr "個人資料"
+
+#: Template/AdminProfile/edit_profile.ctp:39 Template/GymAccountant/add_accountant.ctp:34 Template/GymMember/add_member.ctp:91
+#: Template/MemberRegistration/index.ctp:114 Template/StaffMembers/add_staff.ctp:50
+msgid "First Name"
+msgstr "名字"
+
+#: Template/AdminProfile/edit_profile.ctp:46 Template/GymAccountant/add_accountant.ctp:48 Template/GymMember/add_member.ctp:105
+#: Template/MemberRegistration/index.ctp:128 Template/StaffMembers/add_staff.ctp:64
+msgid "Last Name"
+msgstr "姓氏"
+
+#: Template/AdminProfile/edit_profile.ctp:53 Template/GeneralSetting/save_setting.ctp:159 Template/GymAccountant/add_accountant.ctp:105
+#: Template/GymDailyWorkout/workout_list.ctp:58 Template/GymDailyWorkout/workout_list.ctp:84 Template/GymMember/add_member.ctp:187
+#: Template/GymMember/view_member.ctp:68 Template/GymProfile/view_profile.ctp:140 Template/Installer/index.ctp:393 Template/MemberRegistration/index.ctp:215
+#: Template/StaffMembers/add_staff.ctp:140
+msgid "Email"
+msgstr "电子邮件"
+
+#: Template/AdminProfile/edit_profile.ctp:60 Template/GymAccountant/add_accountant.ctp:112 Template/GymMember/add_member.ctp:246
+#: Template/MemberRegistration/index.ctp:222 Template/StaffMembers/add_staff.ctp:147
+msgid "Login Information"
+msgstr "登录信息"
+
+#: Template/AdminProfile/edit_profile.ctp:69 Template/GymAccountant/add_accountant.ctp:121 Template/GymEmailSetting/index.ctp:40
+#: Template/GymMember/add_member.ctp:255 Template/Installer/index.ctp:491 Template/MemberRegistration/index.ctp:232 Template/StaffMembers/add_staff.ctp:156
+#: Template/Users/login.ctp:27
+msgid "Password"
+msgstr "密码"
+
+#: Template/AdminProfile/edit_profile.ctp:76 Template/GymAccountant/add_accountant.ctp:128 Template/GymDailyWorkout/add_measurment.ctp:74
+#: Template/GymMember/add_member.ctp:262 Template/MemberRegistration/index.ctp:239 Template/StaffMembers/add_staff.ctp:163
+msgid "Display Image"
+msgstr "显示图像"
+
+#: Template/AdminProfile/edit_profile.ctp:86
+msgid "Save Details"
+msgstr "保存详细"
+
+#: Template/Cell/GymRenderMenu/acc_menu.ctp:17 Template/Cell/GymRenderMenu/admin_menu.ctp:46 Template/Cell/GymRenderMenu/member_menu.ctp:33
+#: Template/Cell/GymRenderMenu/staff_menu.ctp:17 Template/Element/sidebar.ctp:28
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:56 Template/Dashboard/dashboard.ctp:82 Template/Dashboard/member_dashboard.ctp:80
+#: Template/Dashboard/staff_acc_dashboard.ctp:80 Template/Element/sidebar.ctp:38 Template/GymAccessright/access_right.ctp:91
+#: Template/GymGroup/add_group.ctp:18 Template/GymGroup/group_list.ctp:28 Template/GymGroup/group_list.ctp:34 Template/GymMember/add_member.ctp:130
+#: Template/MemberRegistration/index.ctp:160
+msgid "Group"
+msgstr "群组"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:61 Template/Element/sidebar.ctp:43
+msgid "Class & Nutrition Schedule"
+msgstr "类营养计划"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:66 Template/ClassSchedule/add_class.ctp:22 Template/ClassSchedule/class_list.ctp:40
+#: Template/ClassSchedule/view_schedule.ctp:10 Template/Element/sidebar.ctp:48 Template/GymAccessright/access_right.ctp:181
+msgid "Class Schedule"
+msgstr "课程表"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:70 Template/Element/sidebar.ctp:52 Template/GymAccessright/access_right.ctp:601
+#: Template/GymNutrition/addnutrition_schedule.ctp:22 Template/GymNutrition/member_nutrition.ctp:19 Template/GymNutrition/nutrition_list.ctp:35
+#: Template/GymNutrition/nutrition_list.ctp:36
+msgid "Nutrition Schedule"
+msgstr "营养计划"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:76 Template/Element/sidebar.ctp:58
+msgid "Member Management"
+msgstr "会员管理"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:89 Template/Element/sidebar.ctp:71 Template/GymAccessright/access_right.ctp:25
+#: Template/GymAccessright/access_right.ctp:301 Template/GymAccountant/accountant_list.ctp:37 Template/GymAccountant/add_accountant.ctp:21
+#: Template/GymNotice/add_notice.ctp:38
+msgid "Accountant"
+msgstr "会计"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:101 Template/Element/sidebar.ctp:83 Template/GymDailyWorkout/add_workout.ctp:129
+msgid "Workout"
+msgstr "方案1"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:109 Template/Element/sidebar.ctp:91
+msgid "Daily Workout"
+msgstr "日常锻炼"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:116 Template/Element/sidebar.ctp:98
+msgid "Store & Products"
+msgstr "商店和产品"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:120 Template/Element/sidebar.ctp:102 Template/GymAccessright/access_right.ctp:420
+#: Template/GymStore/sell_product.ctp:45
+msgid "Product"
+msgstr "产品"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:124 Template/Element/sidebar.ctp:106 Template/GymAccessright/access_right.ctp:450
+#: Template/GymStore/sell_product.ctp:20 Template/GymStore/sell_record.ctp:23
+msgid "Store"
+msgstr "商店"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:131 Template/Element/sidebar.ctp:113 Template/GymAccessright/access_right.ctp:631
+#: Template/GymReservation/reservation_list.ctp:42
+msgid "Reservation"
+msgstr "保留"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:136 Template/Element/sidebar.ctp:118 Template/GymAttendance/attendance.ctp:15
+#: Template/GymAttendance/staff_attendance.ctp:14 Template/GymMember/view_attendance.ctp:52
+msgid "Attendance"
+msgstr "不知道怎么译，先放在这里"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:141 Template/Dashboard/dashboard.ctp:168 Template/Dashboard/dashboard.ctp:183 Template/Element/sidebar.ctp:123
+#: Template/MembershipPayment/generate_payment_invoice.ctp:42 Template/MembershipPayment/payment_list.ctp:32
+msgid "Payment"
+msgstr "付款"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:146 Template/Element/sidebar.ctp:128
+msgid "Membership Payment"
+msgstr "会员费"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:151 Template/Element/sidebar.ctp:133 Template/GymAccessright/access_right.ctp:361
+#: Template/MembershipPayment/add_income.ctp:19 Template/MembershipPayment/income_list.ctp:27
+msgid "Income"
+msgstr "收入合计"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:156 Template/Element/sidebar.ctp:138
+msgid "Expenses"
+msgstr "支出"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:164 Template/Dashboard/dashboard.ctp:95 Template/Dashboard/member_dashboard.ctp:93
+#: Template/Dashboard/staff_acc_dashboard.ctp:93 Template/Element/sidebar.ctp:146 Template/GymAccessright/access_right.ctp:510
+#: Template/GymMessage/compose_message.ctp:14 Template/GymMessage/inbox.ctp:10 Template/GymMessage/sent.ctp:9 Template/GymMessage/view_message.ctp:9
+msgid "Message"
+msgstr "内容"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:169 Template/Element/sidebar.ctp:151 Template/GymAccessright/access_right.ctp:480
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Newsletter"
+msgstr "通讯"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:174 Template/Element/sidebar.ctp:156 Template/GymAccessright/access_right.ctp:540
+#: Template/GymNotice/add_notice.ctp:18 Template/GymNotice/notice_list.ctp:25
+msgid "Notice"
+msgstr "注意"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:179 Template/Element/sidebar.ctp:161 Template/GymAccessright/access_right.ctp:570
+msgid "Report"
+msgstr "报告"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:184
+msgid "Email Settings"
+msgstr "电子邮件设置"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:189 Template/Element/sidebar.ctp:166 Template/GeneralSetting/save_setting.ctp:15
+msgid "General Settings"
+msgstr "常规设置"
+
+#: Template/Cell/GymRenderMenu/admin_menu.ctp:194 Template/Element/sidebar.ctp:171 Template/GymAccessright/access_right.ctp:14
+msgid "Access Right"
+msgstr "访问权限"
+
+#: Template/ClassSchedule/add_class.ctp:25 Template/ClassSchedule/class_list.ctp:39 Template/ClassSchedule/view_schedule.ctp:13
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Class List"
+msgstr "班级列表"
+
+#: Template/ClassSchedule/add_class.ctp:34 Template/ClassSchedule/class_list.ctp:61 Template/ClassSchedule/class_list.ctp:89
+msgid "Class Name"
+msgstr "类名"
+
+#: Template/ClassSchedule/add_class.ctp:49 Template/ClassSchedule/add_class.ctp:64
+msgid "Add"
+msgstr "添加"
+
+#: Template/ClassSchedule/add_class.ctp:56
+msgid "Select Assistant Staff Member"
+msgstr "选择助理职员"
+
+#: Template/ClassSchedule/add_class.ctp:70 Template/ClassSchedule/class_list.ctp:65 Template/ClassSchedule/class_list.ctp:93
+msgid "Location"
+msgstr "位置"
+
+#: Template/ClassSchedule/add_class.ctp:77 Template/GymAssignWorkout/assign_workout.ctp:108 Template/GymNutrition/addnutrition_schedule.ctp:66
+msgid "Select Days"
+msgstr "选择天"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Sunday"
+msgstr "周日"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Monday"
+msgstr "周一"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Tuesday"
+msgstr "周二"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Wednesday"
+msgstr "周三"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Thursday"
+msgstr "周四"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Friday"
+msgstr "周五"
+
+#: Template/ClassSchedule/add_class.ctp:79
+msgid "Saturday"
+msgstr "周六"
+
+#: Template/ClassSchedule/add_class.ctp:89 Template/ClassSchedule/add_class.ctp:117 Template/GymReservation/add_reservation.ctp:56
+#: Template/GymReservation/reservation_list.ctp:61 Template/GymReservation/reservation_list.ctp:89
+msgid "Start Time"
+msgstr "开始时间"
+
+#: Template/ClassSchedule/add_class.ctp:91 Template/ClassSchedule/add_class.ctp:104 Template/GymReservation/add_reservation.ctp:58
+#: Template/GymReservation/add_reservation.ctp:71
+msgid "Select Time"
+msgstr "选择时间"
+
+#: Template/ClassSchedule/add_class.ctp:102 Template/ClassSchedule/add_class.ctp:117 Template/GymReservation/add_reservation.ctp:69
+msgid "End Time"
+msgstr "结束时刻"
+
+#: Template/ClassSchedule/add_class.ctp:113
+msgid "Add Time"
+msgstr "添加时间"
+
+#: Template/ClassSchedule/add_class.ctp:142 Template/GymReservation/add_reservation.ctp:82
+msgid "Save Class"
+msgstr "保存班级"
+
+#: Template/ClassSchedule/class_list.ctp:46 Template/ClassSchedule/view_schedule.ctp:9
+msgid "Class Schedules"
+msgstr "课程表"
+
+#: Template/ClassSchedule/class_list.ctp:62 Template/ClassSchedule/class_list.ctp:90
+msgid "Staff Name"
+msgstr "员工姓名："
+
+#: Template/ClassSchedule/class_list.ctp:63 Template/ClassSchedule/class_list.ctp:91
+msgid "Starting Time"
+msgstr "开始时间"
+
+#: Template/ClassSchedule/class_list.ctp:64 Template/ClassSchedule/class_list.ctp:92 Template/GymReservation/reservation_list.ctp:62
+#: Template/GymReservation/reservation_list.ctp:90
+msgid "Ending Time"
+msgstr "结束时间"
+
+#: Template/ClassSchedule/view_schedule.ctp:35 Template/GymNotice/notice_list.ctp:60 Template/GymProduct/product_list.ctp:67
+#: Template/GymStore/sell_record.ctp:50
+msgid "Edit"
+msgstr "编辑"
+
+#: Template/Dashboard/dashboard.ctp:57 Template/Dashboard/member_dashboard.ctp:55 Template/Dashboard/staff_acc_dashboard.ctp:55
+#: Template/GymAccessright/access_right.ctp:23 Template/GymAccessright/access_right.ctp:121 Template/GymDailyWorkout/add_measurment.ctp:43
+#: Template/GymMember/add_member.ctp:69 Template/GymMember/add_member.ctp:332 Template/GymMember/member_list.ctp:49 Template/GymMember/view_attendance.ctp:16
+#: Template/GymMember/view_member.ctp:33 Template/GymNotice/add_notice.ctp:38 Template/GymStore/sell_product.ctp:31
+#: Template/MembershipPayment/add_income.ctp:31 Template/MembershipPayment/generate_payment_invoice.ctp:56
+msgid "Member"
+msgstr "成"
+
+#: Template/Dashboard/dashboard.ctp:105 Template/Dashboard/member_dashboard.ctp:103 Template/Dashboard/staff_acc_dashboard.ctp:103
+#: Template/GymMember/add_member.ctp:340 Template/MemberRegistration/index.ctp:265 Template/Membership/add.ctp:56 Template/Membership/edit_membership.ctp:8
+#: Template/Membership/membership_list.ctp:37 Template/Membership/membership_list.ctp:43 Template/Membership/view_activity.ctp:29
+#: Template/MembershipPayment/generate_payment_invoice.ctp:68
+msgid "Membership"
+msgstr "会员"
+
+#: Template/Dashboard/dashboard.ctp:123 Template/Dashboard/member_dashboard.ctp:121 Template/Dashboard/staff_acc_dashboard.ctp:121
+#: Template/GymGroup/add_group.ctp:21 Template/GymGroup/group_list.ctp:27
+msgid "Group List"
+msgstr "组列表"
+
+#: Template/Dashboard/dashboard.ctp:151
+msgid "Payment by month"
+msgstr "付款按月"
+
+#: Template/Dashboard/dashboard.ctp:189 Template/Dashboard/dashboard.ctp:244 Template/Dashboard/dashboard.ctp:295 Template/Dashboard/member_dashboard.ctp:158
+#: Template/Dashboard/member_dashboard.ctp:182 Template/Dashboard/member_dashboard.ctp:206 Template/Dashboard/member_dashboard.ctp:230
+#: Template/Dashboard/member_dashboard.ctp:254 Template/Dashboard/member_dashboard.ctp:278 Template/Dashboard/member_dashboard.ctp:302
+#: Template/GymMember/view_member.ctp:149 Template/GymMember/view_member.ctp:173 Template/GymMember/view_member.ctp:199 Template/GymMember/view_member.ctp:223
+#: Template/GymMember/view_member.ctp:249 Template/GymMember/view_member.ctp:273 Template/GymMember/view_member.ctp:299
+msgid "There is not enough data to generate report"
+msgstr "没有足够的数据来生成报告"
+
+#: Template/Dashboard/dashboard.ctp:206 Template/Dashboard/dashboard.ctp:237 Template/Reports/attendance_report.ctp:52
+msgid "Member Attendance Report"
+msgstr "成员出席报告"
+
+#: Template/Dashboard/dashboard.ctp:220 Template/Reports/attendance_report.ctp:64 Template/Reports/membership_report.ctp:35
+msgid "No of Member"
+msgstr "没有会员"
+
+#: Template/Dashboard/dashboard.ctp:260
+msgid "Staff Attendance Report"
+msgstr "员工考勤报表"
+
+#: Template/Dashboard/dashboard.ctp:274
+msgid "Number of Staff Members"
+msgstr "工作人员人数"
+
+#: Template/Dashboard/dashboard.ctp:289 Template/GymAttendance/attendance.ctp:21 Template/GymAttendance/staff_attendance.ctp:13
+msgid "Staff Attendance"
+msgstr "员工考勤"
+
+#: Template/Dashboard/member_dashboard.ctp:149
+msgid "Weight Progress Report"
+msgstr "重量进展报告"
+
+#: Template/Dashboard/member_dashboard.ctp:173
+msgid "Waist  Progress Report"
+msgstr "腰进展报告"
+
+#: Template/Dashboard/member_dashboard.ctp:197
+msgid "Thigh Progress Report"
+msgstr "大腿进展报告"
+
+#: Template/Dashboard/member_dashboard.ctp:221
+msgid "Arms Progress Report"
+msgstr "武器进展报告"
+
+#: Template/Dashboard/member_dashboard.ctp:245
+msgid "Height Progress Report"
+msgstr "身高进展报告"
+
+#: Template/Dashboard/member_dashboard.ctp:269
+msgid "Chest Progress Report"
+msgstr "胸部进度报告"
+
+#: Template/Dashboard/member_dashboard.ctp:293
+msgid "Fat Progress Report"
+msgstr "脂肪进展报告"
+
+#: Template/Element/footer.ctp:10
+msgid "Version"
+msgstr "版"
+
+#: Template/Element/topbar.ctp:36
+msgid "Member since"
+msgstr "加入时间"
+
+#: Template/Element/topbar.ctp:43 Template/Element/topbar.ctp:49
+msgid "Profile"
+msgstr "简介"
+
+#: Template/Element/topbar.ctp:53
+msgid "Sign out"
+msgstr "退"
+
+#: Template/GeneralSetting/save_setting.ctp:16
+msgid "Settings"
+msgstr "设置"
+
+#: Template/GeneralSetting/save_setting.ctp:27
+msgid "System Settings"
+msgstr "系统设置"
+
+#: Template/GeneralSetting/save_setting.ctp:29
+msgid "Gym Name"
+msgstr "健身房名称"
+
+#: Template/GeneralSetting/save_setting.ctp:36
+msgid "Starting Year"
+msgstr "开局之年"
+
+#: Template/GeneralSetting/save_setting.ctp:43
+msgid "Gym Address"
+msgstr "健身房地址"
+
+#: Template/GeneralSetting/save_setting.ctp:50
+msgid "Office Phone Number"
+msgstr "办公室电话号码"
+
+#: Template/GeneralSetting/save_setting.ctp:57 Template/Installer/index.ctp:61
+msgid "Country"
+msgstr "国家"
+
+#: Template/GeneralSetting/save_setting.ctp:74
+msgid "System Language"
+msgstr "系统语言"
+
+#: Template/GeneralSetting/save_setting.ctp:108
+msgid "Set Language to RTL"
+msgstr "将语言设置为RTL"
+
+#: Template/GeneralSetting/save_setting.ctp:110 Template/GeneralSetting/save_setting.ctp:335 Template/GeneralSetting/save_setting.ctp:342
+#: Template/GeneralSetting/save_setting.ctp:352 Template/GeneralSetting/save_setting.ctp:382 Template/GeneralSetting/save_setting.ctp:418
+msgid "Enable"
+msgstr "启用"
+
+#: Template/GeneralSetting/save_setting.ctp:115
+msgid "Date Picker Language"
+msgstr "日期选取器语言"
+
+#: Template/GeneralSetting/save_setting.ctp:166 Template/Installer/index.ctp:401
+msgid "Date Formate"
+msgstr "甲酸日期"
+
+#: Template/GeneralSetting/save_setting.ctp:178 Template/Installer/index.ctp:412
+msgid "Calendar Language"
+msgstr "日历语言"
+
+#: Template/GeneralSetting/save_setting.ctp:251
+msgid "Gym Logo"
+msgstr "健身房徽标"
+
+#: Template/GeneralSetting/save_setting.ctp:267
+msgid "Cover Image"
+msgstr "封面图片"
+
+#: Template/GeneralSetting/save_setting.ctp:278
+msgid "Measurement Units"
+msgstr "测量单元"
+
+#: Template/GeneralSetting/save_setting.ctp:280 Template/GymMember/add_member.ctp:197
+msgid "Weight"
+msgstr "重量"
+
+#: Template/GeneralSetting/save_setting.ctp:287 Template/GymMember/add_member.ctp:204
+msgid "Height"
+msgstr "高"
+
+#: Template/GeneralSetting/save_setting.ctp:294 Template/GymMember/add_member.ctp:211
+msgid "Chest"
+msgstr "箱子胸箱子"
+
+#: Template/GeneralSetting/save_setting.ctp:301 Template/GymMember/add_member.ctp:218
+msgid "Waist"
+msgstr "腰"
+
+#: Template/GeneralSetting/save_setting.ctp:308 Template/GymMember/add_member.ctp:225
+msgid "Thing"
+msgstr "的事"
+
+#: Template/GeneralSetting/save_setting.ctp:315 Template/GymMember/add_member.ctp:232
+msgid "Arms"
+msgstr "手臂的自发分离。"
+
+#: Template/GeneralSetting/save_setting.ctp:322 Template/GymMember/add_member.ctp:239
+msgid "Fat"
+msgstr "脂肪"
+
+#: Template/GeneralSetting/save_setting.ctp:330
+msgid "Member Privacy Setting"
+msgstr "会员隐私设置"
+
+#: Template/GeneralSetting/save_setting.ctp:332
+msgid "Member can view other member's details"
+msgstr "会员可以查看其他会员的详细信息"
+
+#: Template/GeneralSetting/save_setting.ctp:339
+msgid "Staff Member can view own trainee member's details"
+msgstr "工作人员可以查看自己的见习成员的详细信息"
+
+#: Template/GeneralSetting/save_setting.ctp:348
+msgid "Paypal Setting"
+msgstr "贝宝设置"
+
+#: Template/GeneralSetting/save_setting.ctp:350
+msgid "Enable Sandbox"
+msgstr "启用沙盒"
+
+#: Template/GeneralSetting/save_setting.ctp:357
+msgid "Paypal Email Id"
+msgstr "贝宝电子邮件ID"
+
+#: Template/GeneralSetting/save_setting.ctp:364
+msgid "Select Currency"
+msgstr "选择货币"
+
+#: Template/GeneralSetting/save_setting.ctp:378
+msgid "Membership Alert Message Setting"
+msgstr "会员警报消息设置"
+
+#: Template/GeneralSetting/save_setting.ctp:380
+msgid "Enable Alert Mail"
+msgstr "启用邮件提醒"
+
+#: Template/GeneralSetting/save_setting.ctp:387
+msgid "Reminder Before Days"
+msgstr "提醒前几天"
+
+#: Template/GeneralSetting/save_setting.ctp:395
+msgid "Reminder Message"
+msgstr "提示信息"
+
+#: Template/GeneralSetting/save_setting.ctp:402
+msgid "ShortCodes For Notification Mail Message"
+msgstr "简通知邮件"
+
+#: Template/GeneralSetting/save_setting.ctp:404 Template/GymAssignWorkout/workout_log.ctp:53 Template/GymAssignWorkout/workout_log.ctp:77
+#: Template/GymAttendance/attendance.ctp:79 Template/GymAttendance/staff_attendance.ctp:64 Template/GymDailyWorkout/workout_list.ctp:56
+#: Template/GymDailyWorkout/workout_list.ctp:82 Template/GymMember/member_list.ctp:66 Template/GymMember/member_list.ctp:114
+#: Template/GymNutrition/nutrition_list.ctp:53 Template/GymNutrition/nutrition_list.ctp:76 Template/GymStore/sell_record.ctp:36
+#: Template/GymStore/sell_record.ctp:59 Template/MembershipPayment/expense_list.ctp:67 Template/MembershipPayment/income_list.ctp:39
+#: Template/MembershipPayment/income_list.ctp:67 Template/MembershipPayment/payment_list.ctp:50 Template/MembershipPayment/payment_list.ctp:95
+msgid "Member Name"
+msgstr "成员名字"
+
+#: Template/GeneralSetting/save_setting.ctp:405 Template/Membership/add.ctp:71 Template/Membership/edit_membership.ctp:21
+#: Template/Membership/membership_list.ctp:54 Template/Membership/membership_list.ctp:95 Template/Reports/membership_report.ctp:29
+msgid "Membership Name"
+msgstr "会员名称"
+
+#: Template/GeneralSetting/save_setting.ctp:406 Template/GymMember/view_member.ctp:384 Template/GymMember/view_member.ctp:412
+#: Template/GymSubscriptionHistory/index.ctp:43 Template/GymSubscriptionHistory/index.ctp:71 Template/MembershipPayment/payment_list.ctp:54
+#: Template/MembershipPayment/payment_list.ctp:99
+msgid "Membership Start Date"
+msgstr "籍开始日期"
+
+#: Template/GeneralSetting/save_setting.ctp:407 Template/GymMember/view_member.ctp:385 Template/GymMember/view_member.ctp:413
+#: Template/GymSubscriptionHistory/index.ctp:44 Template/GymSubscriptionHistory/index.ctp:72 Template/MembershipPayment/payment_list.ctp:55
+#: Template/MembershipPayment/payment_list.ctp:100
+msgid "Membership End Date"
+msgstr "会员资格终止日期"
+
+#: Template/GeneralSetting/save_setting.ctp:414
+msgid "Message Setting"
+msgstr "留言设置"
+
+#: Template/GeneralSetting/save_setting.ctp:416
+msgid "Member can Message To other's"
+msgstr "可以在会员信息给其他的"
+
+#: Template/GeneralSetting/save_setting.ctp:423
+msgid "Header & Footer Text"
+msgstr "页眉和页脚文本"
+
+#: Template/GeneralSetting/save_setting.ctp:425
+msgid "Left Header Text"
+msgstr "左头文本"
+
+#: Template/GeneralSetting/save_setting.ctp:432
+msgid "Footer Text"
+msgstr "页脚文本"
+
+#: Template/GeneralSetting/save_setting.ctp:440
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: Template/GymAccessright/access_right.ctp:13
+msgid "Access Right Settings"
+msgstr "访问权限设置"
+
+#: Template/GymAccessright/access_right.ctp:22
+msgid "Menu"
+msgstr "菜单"
+
+#: Template/GymAccessright/access_right.ctp:211
+msgid "Attendence"
+msgstr "勤"
+
+#: Template/GymAccessright/access_right.ctp:241
+msgid "Assigned Workouts"
+msgstr "分配锻炼"
+
+#: Template/GymAccessright/access_right.ctp:271
+msgid "Workouts"
+msgstr "训练模式"
+
+#: Template/GymAccessright/access_right.ctp:331 Template/Reports/payment_report.ctp:41
+msgid "Fee Payment"
+msgstr "费用支付"
+
+#: Template/GymAccessright/access_right.ctp:390 Template/MembershipPayment/add_expense.ctp:14 Template/MembershipPayment/expense_list.ctp:27
+msgid "Expense"
+msgstr "支出"
+
+#: Template/GymAccessright/access_right.ctp:661
+msgid "Account"
+msgstr "账户"
+
+#: Template/GymAccessright/access_right.ctp:692 Template/GymMember/view_member.ctp:376 Template/GymSubscriptionHistory/index.ctp:30
+#: Template/GymSubscriptionHistory/index.ctp:31
+msgid "Subscription History"
+msgstr "订阅历史记录"
+
+#: Template/GymAccessright/access_right.ctp:722 Template/GymDailyWorkout/add_workout.ctp:143 Template/GymEmailSetting/index.ctp:46
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNotice/add_notice.ctp:74 Template/GymNutrition/addnutrition_schedule.ctp:122
+#: Template/GymProduct/add_product.ctp:41 Template/GymProfile/view_profile.ctp:89 Template/GymProfile/view_profile.ctp:147
+#: Template/GymStore/sell_product.ctp:66
+msgid "Save"
+msgstr "保存"
+
+#: Template/GymAccountant/accountant_list.ctp:36 Template/GymAccountant/add_accountant.ctp:24
+msgid "Accountant List"
+msgstr "会计师名单"
+
+#: Template/GymAccountant/accountant_list.ctp:53 Template/GymAccountant/accountant_list.ctp:83 Template/GymAssignWorkout/workout_log.ctp:52
+#: Template/GymAssignWorkout/workout_log.ctp:76 Template/GymAttendance/attendance.ctp:78 Template/GymAttendance/staff_attendance.ctp:63
+#: Template/GymDailyWorkout/workout_list.ctp:55 Template/GymDailyWorkout/workout_list.ctp:81 Template/GymGroup/group_list.ctp:44
+#: Template/GymGroup/group_list.ctp:75 Template/GymMember/member_list.ctp:65 Template/GymMember/member_list.ctp:113 Template/GymMember/view_member.ctp:314
+#: Template/Membership/membership_list.ctp:53 Template/Membership/membership_list.ctp:94 Template/StaffMembers/staff_list.ctp:54
+#: Template/StaffMembers/staff_list.ctp:84
+msgid "Photo"
+msgstr "照片"
+
+#: Template/GymAccountant/accountant_list.ctp:54 Template/GymAccountant/accountant_list.ctp:84
+msgid "Accountant Name"
+msgstr "会计师名称"
+
+#: Template/GymAccountant/accountant_list.ctp:55 Template/GymAccountant/accountant_list.ctp:85
+msgid "Accountant Email"
+msgstr "会计师电子邮件"
+
+#: Template/GymAccountant/accountant_list.ctp:56 Template/GymAccountant/accountant_list.ctp:86 Template/GymProfile/view_profile.ctp:128
+#: Template/StaffMembers/staff_list.ctp:58 Template/StaffMembers/staff_list.ctp:88
+msgid "Mobile No."
+msgstr "手机号码。"
+
+#: Template/GymAccountant/add_accountant.ctp:41 Template/GymMember/add_member.ctp:98 Template/MemberRegistration/index.ctp:121
+#: Template/StaffMembers/add_staff.ctp:57
+msgid "Middle Name"
+msgstr "中间名                                                                                                                                                           ："
+
+#: Template/GymAccountant/add_accountant.ctp:55 Template/GymMember/add_member.ctp:112 Template/GymMember/view_member.ctp:80
+#: Template/MemberRegistration/index.ctp:135 Template/StaffMembers/add_staff.ctp:71
+msgid "Gender"
+msgstr "性别"
+
+#: Template/GymAccountant/add_accountant.ctp:58 Template/GymMember/add_member.ctp:115 Template/StaffMembers/add_staff.ctp:74
+msgid "Male"
+msgstr "男性"
+
+#: Template/GymAccountant/add_accountant.ctp:59 Template/GymMember/add_member.ctp:116 Template/StaffMembers/add_staff.ctp:75
+msgid "Female"
+msgstr "女性"
+
+#: Template/GymAccountant/add_accountant.ctp:66 Template/GymMember/add_member.ctp:123 Template/GymProfile/view_profile.ctp:107
+#: Template/MemberRegistration/index.ctp:146 Template/StaffMembers/add_staff.ctp:82
+msgid "Date of birth"
+msgstr "出生日期"
+
+#: Template/GymAccountant/add_accountant.ctp:72 Template/GymMember/add_member.ctp:140 Template/MemberRegistration/index.ctp:167
+#: Template/StaffMembers/add_staff.ctp:107
+msgid "Contact Information"
+msgstr "联系信息"
+
+#: Template/GymAccountant/add_accountant.ctp:74 Template/GymProfile/view_profile.ctp:114 Template/StaffMembers/add_staff.ctp:109
+msgid "Home Town Address"
+msgstr "家乡地址"
+
+#: Template/GymAccountant/add_accountant.ctp:81 Template/GymMember/add_member.ctp:149 Template/GymProfile/view_profile.ctp:122
+#: Template/MemberRegistration/index.ctp:177 Template/StaffMembers/add_staff.ctp:116
+msgid "City"
+msgstr "城市"
+
+#: Template/GymAccountant/add_accountant.ctp:88 Template/GymMember/add_member.ctp:170 Template/MemberRegistration/index.ctp:198
+#: Template/StaffMembers/add_staff.ctp:123
+msgid "Mobile Number"
+msgstr "手機號碼"
+
+#: Template/GymAccountant/add_accountant.ctp:98 Template/GymMember/add_member.ctp:180 Template/GymProfile/view_profile.ctp:134
+#: Template/MemberRegistration/index.ctp:208 Template/StaffMembers/add_staff.ctp:133
+msgid "Phone"
+msgstr "电话"
+
+#: Template/GymAccountant/add_accountant.ctp:137
+msgid "Save Accountant"
+msgstr "保存会计师"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:49
+msgid "Workout Logs"
+msgstr "锻炼日志"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:59 Template/GymDailyWorkout/add_measurment.ctp:46 Template/GymDailyWorkout/add_workout.ctp:103
+#: Template/GymDailyWorkout/add_workout.ctp:106 Template/GymNutrition/addnutrition_schedule.ctp:35 Template/GymNutrition/addnutrition_schedule.ctp:38
+#: Template/GymStore/sell_product.ctp:34 Template/MembershipPayment/add_income.ctp:33 Template/MembershipPayment/add_income.ctp:48
+#: Template/MembershipPayment/generate_payment_invoice.ctp:63
+msgid "Select Member"
+msgstr "选择成员"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:82 Template/GymMessage/inbox.ctp:54 Template/GymMessage/sent.ctp:43
+#: Template/GymNutrition/addnutrition_schedule.ctp:161 Template/GymNutrition/member_nutrition.ctp:63 Template/GymNutrition/print_nutrition.ctp:53
+msgid "Description"
+msgstr "样品描述"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:96 Template/GymMember/view_attendance.ctp:34 Template/GymNotice/add_notice.ctp:60
+#: Template/GymNutrition/addnutrition_schedule.ctp:54 Template/Reports/attendance_report.ctp:38
+msgid "End Date"
+msgstr "结束日期"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:116
+msgid "Select workout activity to add on selected days"
+msgstr "选择锻炼活动添加所选天"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:122
+msgid "Step-1 Add Workout"
+msgstr "步骤1添加锻炼"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:137
+msgid "Step-2 Save Workout"
+msgstr "步骤2保存锻炼"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:137
+msgid "Save Workout"
+msgstr "保存锻炼"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:166 Template/GymAssignWorkout/member_assiged_workout.ctp:54 Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:151 Template/GymNutrition/member_nutrition.ctp:53 Template/GymNutrition/print_nutrition.ctp:44
+msgid "Start From"
+msgstr "从...开始"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:166 Template/GymAssignWorkout/member_assiged_workout.ctp:54 Template/GymAssignWorkout/print_workout.ctp:52
+#: Template/GymNutrition/addnutrition_schedule.ctp:151 Template/GymNutrition/member_nutrition.ctp:53 Template/GymNutrition/print_nutrition.ctp:44
+msgid "TO"
+msgstr "着"
+
+#: Template/GymAssignWorkout/assign_workout.ctp:172 Template/GymAssignWorkout/member_assiged_workout.ctp:60 Template/GymAssignWorkout/print_workout.ctp:57
+#: Template/GymNutrition/addnutrition_schedule.ctp:157 Template/GymNutrition/member_nutrition.ctp:59 Template/GymNutrition/print_nutrition.ctp:49
+msgid "Day name"
+msgstr "日名"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:18 Template/GymAssignWorkout/workout_log.ctp:35
+msgid "Workout Log"
+msgstr "锻炼日志"
+
+#: Template/GymAssignWorkout/member_assiged_workout.ctp:97 Template/GymAssignWorkout/print_workout.ctp:94
+msgid "No Record Found"
+msgstr "没有找到记录"
+
+#: Template/GymAssignWorkout/workout_log.ctp:54 Template/GymAssignWorkout/workout_log.ctp:78 Template/GymNutrition/nutrition_list.ctp:54
+#: Template/GymNutrition/nutrition_list.ctp:77
+msgid "Member Goal"
+msgstr "会员目标"
+
+#: Template/GymAssignWorkout/workout_log.ctp:67 Template/GymDailyWorkout/view_workout.ctp:36
+msgid "View Workouts"
+msgstr "查看锻炼"
+
+#: Template/GymAttendance/attendance.ctp:14 Template/GymAttendance/staff_attendance.ctp:17
+msgid "Member Attendance"
+msgstr "会员出席"
+
+#: Template/GymAttendance/attendance.ctp:35 Template/GymAttendance/attendance.ctp:37 Template/GymMessage/compose_message.ctp:62
+#: Template/GymNotice/add_notice.ctp:47 Template/Membership/add.ctp:132
+msgid "Select Class"
+msgstr "选择职业"
+
+#: Template/GymAttendance/attendance.ctp:42 Template/GymAttendance/staff_attendance.ctp:31
+msgid "Take/View Attendance"
+msgstr "就拿/查看考勤"
+
+#: Template/GymAttendance/attendance.ctp:102 Template/GymAttendance/staff_attendance.ctp:83
+msgid "Save Attendance"
+msgstr "保存考勤"
+
+#: Template/GymAttendance/attendance.ctp:108 Template/GymNutrition/member_nutrition.ctp:89 Template/GymNutrition/print_nutrition.ctp:79
+msgid "No record found."
+msgstr "没有找到记录。"
+
+#: Template/GymAttendance/staff_attendance.ctp:47
+msgid "Staff Attendance, Date"
+msgstr "员工考勤，日期"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:21 Template/GymDailyWorkout/add_workout.ctp:88 Template/GymDailyWorkout/view_workout.ctp:14
+#: Template/GymDailyWorkout/workout_list.ctp:37 Template/MembershipPayment/payment_list.ctp:33
+msgid "Workout Daily"
+msgstr "每日锻炼"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:24 Template/GymDailyWorkout/add_workout.ctp:91 Template/GymDailyWorkout/view_workout.ctp:17
+#: Template/GymDailyWorkout/workout_list.ctp:36
+msgid "Workout List"
+msgstr "锻炼列表"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:53
+msgid "Result Measurement"
+msgstr "测量结果"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:57
+msgid "Select Result Measurement"
+msgstr "选择测量结果"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:68
+msgid "Result Date"
+msgstr "结果日期"
+
+#: Template/GymDailyWorkout/add_measurment.ctp:84
+msgid "Save Measurement"
+msgstr "保存测量"
+
+#: Template/GymDailyWorkout/add_workout.ctp:114
+msgid "Select Date"
+msgstr "选择日期"
+
+#: Template/GymDailyWorkout/add_workout.ctp:132
+msgid "Select Record Date For Today Workout"
+msgstr "选择登记日为今天锻炼"
+
+#: Template/GymDailyWorkout/add_workout.ctp:137
+msgid "Note"
+msgstr "注意"
+
+#: Template/GymDailyWorkout/workout_list.ctp:57 Template/GymDailyWorkout/workout_list.ctp:83
+msgid "Mobile"
+msgstr "手机"
+
+#: Template/GymDailyWorkout/workout_list.ctp:72 Template/GymGroup/group_list.ctp:66 Template/GymNotice/notice_list.ctp:63
+msgid "View"
+msgstr "檢視"
+
+#: Template/GymDailyWorkout/workout_list.ctp:73
+msgid "View Measurement"
+msgstr "查看测量"
+
+#: Template/GymEmailSetting/index.ctp:13 Template/GymEmailSetting/index.ctp:14
+msgid "Email Setting"
+msgstr "电子邮件设置"
+
+#: Template/GymEmailSetting/index.ctp:22 Template/Installer/index.ctp:37
+msgid "Host"
+msgstr "主机"
+
+#: Template/GymEmailSetting/index.ctp:28
+msgid "Port"
+msgstr "端口"
+
+#: Template/GymEmailSetting/index.ctp:57 Template/MembershipPayment/generate_payment_invoice.ctp:87
+msgid "To"
+msgstr "至"
+
+#: Template/GymEmailSetting/index.ctp:63
+msgid "Send Test Mail"
+msgstr "发送测试邮件"
+
+#: Template/GymGroup/add_group.ctp:33 Template/GymGroup/group_list.ctp:45 Template/GymGroup/group_list.ctp:76
+msgid "Group Name"
+msgstr "组名称"
+
+#: Template/GymGroup/add_group.ctp:37
+msgid "Group Image"
+msgstr "集团图片"
+
+#: Template/GymGroup/add_group.ctp:45
+msgid "Save Group"
+msgstr "保存组"
+
+#: Template/GymGroup/group_list.ctp:46 Template/GymGroup/group_list.ctp:77
+msgid "Total Group Members"
+msgstr "道达尔集团成员"
+
+#: Template/GymMember/add_member.ctp:72 Template/GymMember/member_list.ctp:48 Template/GymMember/view_member.ctp:36
+msgid "Members List"
+msgstr "会员列表"
+
+#: Template/GymMember/add_member.ctp:83 Template/GymMember/member_list.ctp:67 Template/GymMember/member_list.ctp:115 Template/GymMember/view_member.ctp:56
+#: Template/MemberRegistration/index.ctp:106
+msgid "Member ID"
+msgstr "会员ID"
+
+#: Template/GymMember/add_member.ctp:142 Template/GymMember/view_member.ctp:64 Template/MemberRegistration/index.ctp:170
+msgid "Address"
+msgstr "地址"
+
+#: Template/GymMember/add_member.ctp:156 Template/MemberRegistration/index.ctp:184
+msgid "state"
+msgstr "州"
+
+#: Template/GymMember/add_member.ctp:163 Template/MemberRegistration/index.ctp:191
+msgid "Zip code"
+msgstr "邮政编码"
+
+#: Template/GymMember/add_member.ctp:195
+msgid "Physical Information"
+msgstr "物理信息"
+
+#: Template/GymMember/add_member.ctp:206
+msgid "Centimeter"
+msgstr "厘米,公分"
+
+#: Template/GymMember/add_member.ctp:213 Template/GymMember/add_member.ctp:220 Template/GymMember/add_member.ctp:227 Template/GymMember/add_member.ctp:234
+msgid "Inches"
+msgstr "6.5英寸"
+
+#: Template/GymMember/add_member.ctp:241
+msgid "Percentage"
+msgstr "百分比"
+
+#: Template/GymMember/add_member.ctp:271 Template/MemberRegistration/index.ctp:248
+msgid "More Information"
+msgstr "更多详情"
+
+#: Template/GymMember/add_member.ctp:278 Template/GymMember/add_member.ctp:308 Template/StaffMembers/staff_list.ctp:44
+msgid "Add Staff"
+msgstr "添加员工"
+
+#: Template/GymMember/add_member.ctp:283 Template/MemberRegistration/index.ctp:251
+msgid "Interested Area"
+msgstr "有兴趣的区"
+
+#: Template/GymMember/add_member.ctp:285 Template/MemberRegistration/index.ctp:253
+msgid "Select Interest"
+msgstr "选择兴趣"
+
+#: Template/GymMember/add_member.ctp:288 Template/GymMember/add_member.ctp:298 Template/StaffMembers/add_staff.ctp:94 Template/StaffMembers/add_staff.ctp:102
+msgid "Add/Remove"
+msgstr "添加/删除"
+
+#: Template/GymMember/add_member.ctp:293 Template/MemberRegistration/index.ctp:258
+msgid "Source"
+msgstr "来源"
+
+#: Template/GymMember/add_member.ctp:295 Template/MemberRegistration/index.ctp:260
+msgid "Select Source"
+msgstr "选择来源"
+
+#: Template/GymMember/add_member.ctp:303
+msgid "Referred By"
+msgstr "由......推荐"
+
+#: Template/GymMember/add_member.ctp:313
+msgid "Inquiry Date"
+msgstr "询盘日期"
+
+#: Template/GymMember/add_member.ctp:320
+msgid "Trial End Date"
+msgstr "试用期结束"
+
+#: Template/GymMember/add_member.ctp:329 Template/GymMember/member_list.ctp:70 Template/GymMember/member_list.ctp:118
+msgid "Member Type"
+msgstr "会员类型"
+
+#: Template/GymMember/add_member.ctp:333
+msgid "Prospect"
+msgstr "前景"
+
+#: Template/GymMember/add_member.ctp:334
+msgid "Alumni"
+msgstr "校友"
+
+#: Template/GymMember/add_member.ctp:355
+msgid "Add Class"
+msgstr "添加类"
+
+#: Template/GymMember/add_member.ctp:364 Template/GymMember/member_list.ctp:71 Template/GymMember/member_list.ctp:119
+msgid "Membership Status"
+msgstr "会员状态"
+
+#: Template/GymMember/add_member.ctp:367
+msgid "Continue"
+msgstr "继续"
+
+#: Template/GymMember/add_member.ctp:368
+msgid "Expired"
+msgstr "已过期"
+
+#: Template/GymMember/add_member.ctp:369
+msgid "Dropped"
+msgstr "•跌落。"
+
+#: Template/GymMember/add_member.ctp:375 Template/MembershipPayment/generate_payment_invoice.ctp:83
+msgid "Membership Valid From"
+msgstr "会员资格有效期自"
+
+#: Template/GymMember/add_member.ctp:388
+msgid "First Payment Date"
+msgstr "首付款日期"
+
+#: Template/GymMember/add_member.ctp:396 Template/MemberRegistration/index.ctp:298
+msgid "Save Member"
+msgstr "保存会员"
+
+#: Template/GymMember/member_list.ctp:68 Template/GymMember/member_list.ctp:116
+msgid "Joining Date"
+msgstr "入职日期"
+
+#: Template/GymMember/member_list.ctp:69 Template/GymMember/member_list.ctp:117
+msgid "Expire Date"
+msgstr "到期日期"
+
+#: Template/GymMember/member_list.ctp:102
+msgid "Activate"
+msgstr "启用"
+
+#: Template/GymMember/member_list.ctp:104
+msgid "Activated"
+msgstr "激活"
+
+#: Template/GymMember/view_attendance.ctp:15
+msgid "View Attendance"
+msgstr "查看考勤"
+
+#: Template/GymMember/view_attendance.ctp:19
+msgid "Member List"
+msgstr "会员列表"
+
+#: Template/GymMember/view_attendance.ctp:39 Template/Reports/attendance_report.ctp:45
+msgid "Go"
+msgstr "GO"
+
+#: Template/GymMember/view_member.ctp:32
+msgid "View Member"
+msgstr "查看会员"
+
+#: Template/GymMember/view_member.ctp:60 Template/GymProfile/view_profile.ctp:58
+msgid "Name"
+msgstr "名称"
+
+#: Template/GymMember/view_member.ctp:72
+msgid "Mobile No"
+msgstr "手机号码"
+
+#: Template/GymMember/view_member.ctp:76
+msgid "Date Of Birth"
+msgstr "生日：                                                                                                                                                        "
+
+#: Template/GymMember/view_member.ctp:97
+msgid "Moreinfo"
+msgstr "更多资讯"
+
+#: Template/GymMember/view_member.ctp:101
+msgid "MemberShip"
+msgstr "会"
+
+#: Template/GymMember/view_member.ctp:105
+msgid "Expiry Date"
+msgstr "截止日期"
+
+#: Template/GymMember/view_member.ctp:109
+msgid "Classes"
+msgstr "课程"
+
+#: Template/GymMember/view_member.ctp:113
+msgid "Interest Area"
+msgstr "感兴趣的领域"
+
+#: Template/GymMember/view_member.ctp:127
+msgid "Groups"
+msgstr "组"
+
+#: Template/GymMember/view_member.ctp:141
+msgid "Add Weight"
+msgstr "增加重量"
+
+#: Template/GymMember/view_member.ctp:165
+msgid "Add Waist"
+msgstr "添加腰围"
+
+#: Template/GymMember/view_member.ctp:191
+msgid "Add Thigh"
+msgstr "添加大腿"
+
+#: Template/GymMember/view_member.ctp:215
+msgid "Add Arms"
+msgstr "添加武器"
+
+#: Template/GymMember/view_member.ctp:241
+msgid "Add Height"
+msgstr "添加高"
+
+#: Template/GymMember/view_member.ctp:265
+msgid "Add Chest"
+msgstr "添加胸"
+
+#: Template/GymMember/view_member.ctp:291
+msgid "Add Fat"
+msgstr "添加脂肪"
+
+#: Template/GymMember/view_member.ctp:315
+msgid "Add Photo"
+msgstr "添加照片"
+
+#: Template/GymMember/view_member.ctp:381 Template/GymMember/view_member.ctp:409 Template/GymSubscriptionHistory/index.ctp:40
+#: Template/GymSubscriptionHistory/index.ctp:68
+msgid "Membership Title"
+msgstr "会员名称"
+
+#: Template/GymMember/view_member.ctp:383 Template/GymMember/view_member.ctp:411 Template/GymSubscriptionHistory/index.ctp:42
+#: Template/GymSubscriptionHistory/index.ctp:70 Template/MembershipPayment/payment_list.ctp:53 Template/MembershipPayment/payment_list.ctp:98
+msgid "Due Amount"
+msgstr "到期金额"
+
+#: Template/GymMember/view_member.ctp:386 Template/GymMember/view_member.ctp:414 Template/GymSubscriptionHistory/index.ctp:45
+#: Template/GymSubscriptionHistory/index.ctp:73 Template/MembershipPayment/payment_list.ctp:56 Template/MembershipPayment/payment_list.ctp:101
+msgid "Payment Status"
+msgstr "支付状态"
+
+#: Template/GymMessage/compose_message.ctp:13
+msgid "Compose Message"
+msgstr "撰写消息"
+
+#: Template/GymMessage/compose_message.ctp:25 Template/GymMessage/compose_message.ctp:28 Template/GymMessage/inbox.ctp:26 Template/GymMessage/inbox.ctp:30
+#: Template/GymMessage/sent.ctp:20 Template/GymMessage/view_message.ctp:20
+msgid "Compose"
+msgstr "写信"
+
+#: Template/GymMessage/compose_message.ctp:36 Template/GymMessage/inbox.ctp:42 Template/GymMessage/sent.ctp:31 Template/GymMessage/view_message.ctp:29
+msgid "Inbox"
+msgstr "收件箱"
+
+#: Template/GymMessage/compose_message.ctp:38 Template/GymMessage/inbox.ctp:44 Template/GymMessage/sent.ctp:33 Template/GymMessage/view_message.ctp:31
+msgid "Sent"
+msgstr "发送"
+
+#: Template/GymMessage/compose_message.ctp:52 Template/GymMessage/sent.ctp:41
+msgid "Message To"
+msgstr "消息，"
+
+#: Template/GymMessage/compose_message.ctp:64
+msgid "None"
+msgstr "跳过"
+
+#: Template/GymMessage/compose_message.ctp:69 Template/GymMessage/inbox.ctp:53 Template/GymMessage/sent.ctp:42 Template/GymMessage/view_message.ctp:37
+msgid "Subject"
+msgstr "主题"
+
+#: Template/GymMessage/compose_message.ctp:75
+msgid "Message Comment"
+msgstr "信息说明"
+
+#: Template/GymMessage/compose_message.ctp:93
+msgid "Send Message"
+msgstr "发送信息"
+
+#: Template/GymMessage/inbox.ctp:9 Template/GymMessage/inbox.ctp:34 Template/GymMessage/view_message.ctp:8
+msgid "Inbox Messages"
+msgstr "收件箱邮件"
+
+#: Template/GymMessage/inbox.ctp:52
+msgid "Message From"
+msgstr "从留言"
+
+#: Template/GymMessage/sent.ctp:8 Template/GymMessage/sent.ctp:23
+msgid "Sent Messages"
+msgstr "已发送的消息"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Setting"
+msgstr "设置"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Sync Mail"
+msgstr "同步邮件"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "MailChimp list"
+msgstr "MailChimp列表"
+
+#: Template/GymNewsletter/campaign.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Select list"
+msgstr "选择列表"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Campaign list"
+msgstr "活动列表"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Select Campaign"
+msgstr "选择营销活动"
+
+#: Template/GymNewsletter/campaign.ctp:1
+msgid "Send Capmaign"
+msgstr "发送Capmaign"
+
+#: Template/GymNewsletter/setting.ctp:1 Template/GymNewsletter/sync_mail.ctp:1
+msgid "Campaign"
+msgstr "行銷活動"
+
+#: Template/GymNewsletter/setting.ctp:1
+msgid "MailChimp API key"
+msgstr "MailChimp API密钥"
+
+#: Template/GymNewsletter/sync_mail.ctp:1
+msgid "Mailing list"
+msgstr "邮件列表"
+
+#: Template/GymNotice/add_notice.ctp:17 Template/GymNotice/notice_list.ctp:31
+msgid "Add Notice"
+msgstr "添加通知"
+
+#: Template/GymNotice/add_notice.ctp:21 Template/GymNotice/notice_list.ctp:24
+msgid "Notice List"
+msgstr "名单的通知"
+
+#: Template/GymNotice/add_notice.ctp:29 Template/GymNotice/notice_list.ctp:41 Template/GymNotice/notice_list.ctp:70
+msgid "Notice Title"
+msgstr "公告标题"
+
+#: Template/GymNotice/add_notice.ctp:38
+msgid "All"
+msgstr "所有"
+
+#: Template/GymNotice/add_notice.ctp:67
+msgid "Comment"
+msgstr "备注"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:25
+msgid "Nutrition Schdule List"
+msgstr "营养Schdule名单"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:74
+msgid "Select Nutrition to add on selected days"
+msgstr "选择营养对选定日加"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:79
+msgid "Break Fast"
+msgstr "- 早餐"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:85
+msgid "Mid-Morning Snacks"
+msgstr "中秋节上午加餐"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:91
+msgid "Lunch"
+msgstr "午饭"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:96
+msgid "Afternoon Snacks"
+msgstr "下午加餐"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:101
+msgid "Dinner"
+msgstr "晚餐"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:105
+msgid "+ Add Nutrition"
+msgstr "+添加营养"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:122
+msgid "Step-2 Save"
+msgstr "步骤2保存"
+
+#: Template/GymNutrition/addnutrition_schedule.ctp:160 Template/GymNutrition/member_nutrition.ctp:62 Template/GymNutrition/print_nutrition.ctp:52
+msgid "Time"
+msgstr "时间"
+
+#: Template/GymNutrition/member_nutrition.ctp:18
+msgid "Nutrition Schedule List"
+msgstr "营养计划表"
+
+#: Template/GymNutrition/nutrition_list.ctp:52 Template/GymNutrition/nutrition_list.ctp:75
+msgid "Member Photo"
+msgstr "会员照片"
+
+#: Template/GymNutrition/nutrition_list.ctp:67
+msgid "View Nutrition"
+msgstr "查看营养"
+
+#: Template/GymProduct/add_product.ctp:8 Template/GymProduct/product_list.ctp:42 Template/GymStore/sell_product.ctp:55
+msgid "Add Product"
+msgstr "添加产品"
+
+#: Template/GymProduct/add_product.ctp:9 Template/GymProduct/product_list.ctp:36
+msgid "Products"
+msgstr "产品介绍"
+
+#: Template/GymProduct/add_product.ctp:12 Template/GymProduct/product_list.ctp:35
+msgid "Product List"
+msgstr "产品列表"
+
+#: Template/GymProduct/add_product.ctp:20 Template/GymProduct/product_list.ctp:52 Template/GymProduct/product_list.ctp:75 Template/GymStore/sell_record.ctp:35
+#: Template/GymStore/sell_record.ctp:58
+msgid "Product Name"
+msgstr "产品名稱："
+
+#: Template/GymProduct/add_product.ctp:26 Template/GymProduct/product_list.ctp:53 Template/GymProduct/product_list.ctp:76
+msgid "Product Price"
+msgstr "产品价格"
+
+#: Template/GymProduct/add_product.ctp:35 Template/GymProduct/product_list.ctp:54 Template/GymProduct/product_list.ctp:77 Template/GymStore/sell_record.ctp:37
+#: Template/GymStore/sell_record.ctp:60
+msgid "Product Quantity"
+msgstr "产品数量"
+
+#: Template/GymProfile/view_profile.ctp:45
+msgid "Account Settings"
+msgstr "帐户设置"
+
+#: Template/GymProfile/view_profile.ctp:70
+msgid "Current Password"
+msgstr "246 =当前密码:"
+
+#: Template/GymProfile/view_profile.ctp:76
+msgid "New Password"
+msgstr "新密码"
+
+#: Template/GymProfile/view_profile.ctp:81 Template/Installer/index.ctp:500
+msgid "Confirm Password"
+msgstr "确认密码"
+
+#: Template/GymProfile/view_profile.ctp:100
+msgid "Other Information"
+msgstr "其它信息"
+
+#: Template/GymReservation/add_reservation.ctp:15 Template/GymReservation/reservation_list.ctp:48
+msgid "Add Reservation"
+msgstr "添加预订"
+
+#: Template/GymReservation/add_reservation.ctp:16
+msgid "Schedule"
+msgstr "计划序列"
+
+#: Template/GymReservation/add_reservation.ctp:19 Template/GymReservation/reservation_list.ctp:41
+msgid "Reservation List"
+msgstr "预订名单"
+
+#: Template/GymReservation/add_reservation.ctp:28 Template/GymReservation/reservation_list.ctp:58 Template/GymReservation/reservation_list.ctp:86
+msgid "Event Name"
+msgstr "事件名称"
+
+#: Template/GymReservation/add_reservation.ctp:35 Template/GymReservation/reservation_list.ctp:59 Template/GymReservation/reservation_list.ctp:87
+msgid "Event Date"
+msgstr "活动日期；；2011年6月17日"
+
+#: Template/GymReservation/add_reservation.ctp:42
+msgid "Event Place"
+msgstr "事件地方"
+
+#: Template/GymReservation/add_reservation.ctp:44
+msgid "Select Event Places"
+msgstr "选择事件的地方"
+
+#: Template/GymReservation/add_reservation.ctp:47
+msgid "Add or Remove"
+msgstr "添加或删除"
+
+#: Template/GymReservation/reservation_list.ctp:60 Template/GymReservation/reservation_list.ctp:88
+msgid "Place"
+msgstr "地点"
+
+#: Template/GymStore/sell_product.ctp:19 Template/GymStore/sell_record.ctp:26
+msgid "Sell Product"
+msgstr "销售产品"
+
+#: Template/GymStore/sell_product.ctp:23 Template/GymStore/sell_record.ctp:22
+msgid "Sell Records"
+msgstr "销售记录"
+
+#: Template/GymStore/sell_product.ctp:48
+msgid "Select Product"
+msgstr "选择产品"
+
+#: Template/GymStore/sell_product.ctp:60
+msgid "Quantity"
+msgstr "数量"
+
+#: Template/Installer/index.ctp:2 Template/Installer/success.ctp:2
+msgid "Gym Master - GYM Management Installation Wizard"
+msgstr "体操老师 -  GYM管理安装向导"
+
+#: Template/Installer/index.ctp:8 Template/Installer/index.ctp:10
+msgid "Database Setup"
+msgstr "数据库设置"
+
+#: Template/Installer/index.ctp:13
+msgid "Database Name"
+msgstr "数据库名称"
+
+#: Template/Installer/index.ctp:21
+msgid "Database Username"
+msgstr "数据库用户名"
+
+#: Template/Installer/index.ctp:29
+msgid "Database Password"
+msgstr "数据库密码"
+
+#: Template/Installer/index.ctp:45 Template/Installer/index.ctp:475
+msgid "Fields are required."
+msgstr "为必填项。"
+
+#: Template/Installer/index.ctp:48 Template/Installer/index.ctp:50
+msgid "System Setting"
+msgstr "系统设置"
+
+#: Template/Installer/index.ctp:53
+msgid "System Name"
+msgstr "系统名称"
+
+#: Template/Installer/index.ctp:478 Template/Installer/index.ctp:480
+msgid "Login Details"
+msgstr "登录信息"
+
+#: Template/Installer/index.ctp:508
+msgid "Finish"
+msgstr "完成"
+
+#: Template/Installer/index.ctp:510
+msgid "Please Note :"
+msgstr "注意咯！"
+
+#: Template/Installer/index.ctp:513
+msgid "1. It may take couple of minutes to set-up database."
+msgstr "1.这可能需要几分钟的时间来建立数据库。"
+
+#: Template/Installer/index.ctp:516
+msgid "2. Do not refresh page after to you click on install button."
+msgstr "2.你点击安装按钮后不要刷新页面。"
+
+#: Template/Installer/index.ctp:519
+msgid "3. You will be acknowledge with success message once after installation finishes."
+msgstr "3.您将与在安装完成后成功的消息一旦确认。"
+
+#: Template/Installer/index.ctp:522
+msgid "4. Click on install to complete the installation."
+msgstr "4.单击安装完成安装。"
+
+#: Template/Installer/success.ctp:7
+msgid "Congratulation"
+msgstr "祝贺"
+
+#: Template/Installer/success.ctp:8
+msgid "Installation Completed Successfully"
+msgstr "安装成功完成"
+
+#: Template/Installer/success.ctp:9
+msgid "Click"
+msgstr "点击"
+
+#: Template/Installer/success.ctp:9
+msgid "here to redirect on \tlogin page."
+msgstr "这里\\ tlogin页面重定向。"
+
+#: Template/MemberRegistration/index.ctp:96 Template/Users/login.ctp:29
+msgid "Member Registration"
+msgstr "会员注册"
+
+#: Template/MemberRegistration/index.ctp:272
+msgid "Select Joining Date"
+msgstr "选择加盟日期"
+
+#: Template/MemberRegistration/index.ctp:301
+msgid "Go Back"
+msgstr "后退"
+
+#: Template/Membership/add.ctp:59 Template/Membership/edit_membership.ctp:11 Template/Membership/membership_list.ctp:36
+#: Template/Membership/view_activity.ctp:33
+msgid "Membership List"
+msgstr "成员名单"
+
+#: Template/Membership/add.ctp:78 Template/Membership/edit_membership.ctp:25
+msgid "Membership Category"
+msgstr "会员类别"
+
+#: Template/Membership/add.ctp:88 Template/Membership/edit_membership.ctp:35 Template/Membership/membership_list.ctp:55
+#: Template/Membership/membership_list.ctp:96
+msgid "Membership Period"
+msgstr "会员期"
+
+#: Template/Membership/add.ctp:91
+msgid "No. of Days"
+msgstr "天数"
+
+#: Template/Membership/add.ctp:98 Template/Membership/edit_membership.ctp:39
+msgid "Membership Limit"
+msgstr "会员限制"
+
+#: Template/Membership/add.ctp:100
+msgid "Limited"
+msgstr "有限"
+
+#: Template/Membership/add.ctp:101
+msgid "Unlimited"
+msgstr "无限制"
+
+#: Template/Membership/add.ctp:122 Template/Membership/edit_membership.ctp:46
+msgid "Membership Amount"
+msgstr "会员数量"
+
+#: Template/Membership/add.ctp:140
+msgid "Installment Plan"
+msgstr "分期付款"
+
+#: Template/Membership/add.ctp:146 Template/Membership/edit_membership.ctp:56
+msgid "Select Instalment Plan"
+msgstr "选择分期计划"
+
+#: Template/Membership/add.ctp:151
+msgid "Add Installment Plan"
+msgstr "添加分期付款"
+
+#: Template/Membership/add.ctp:157 Template/Membership/edit_membership.ctp:67
+msgid "Signup Fee"
+msgstr "注册费"
+
+#: Template/Membership/add.ctp:167 Template/Membership/edit_membership.ctp:71
+msgid "Membership Description"
+msgstr "成员说明"
+
+#: Template/Membership/add.ctp:174 Template/Membership/edit_membership.ctp:76
+msgid "Membership Image"
+msgstr "会员图片"
+
+#: Template/Membership/add.ctp:188
+msgid "Save Membership"
+msgstr "保存会员"
+
+#: Template/Membership/edit_membership.ctp:51
+msgid "Instalment Amount"
+msgstr "分期金额"
+
+#: Template/Membership/edit_membership.ctp:55
+msgid "Instalment Period"
+msgstr "分期期限"
+
+#: Template/Membership/edit_membership.ctp:62
+msgid "Add Instalment Plan"
+msgstr "添加分期计划"
+
+#: Template/Membership/membership_list.ctp:56 Template/Membership/membership_list.ctp:97
+msgid "Instalment Plan"
+msgstr "分期计划"
+
+#: Template/Membership/membership_list.ctp:57 Template/Membership/membership_list.ctp:98
+msgid "SignUp Fee"
+msgstr "注册费"
+
+#: Template/Membership/membership_list.ctp:84
+msgid "Activities"
+msgstr "活动"
+
+#: Template/Membership/view_activity.ctp:30
+msgid "View Activity"
+msgstr "查看活动"
+
+#: Template/Membership/view_activity.ctp:44
+msgid "Select Activity"
+msgstr "选择活动"
+
+#: Template/MembershipPayment/add_expense.ctp:13 Template/MembershipPayment/expense_list.ctp:30
+msgid "Add Expense"
+msgstr "增加成本"
+
+#: Template/MembershipPayment/add_expense.ctp:17 Template/MembershipPayment/expense_list.ctp:26
+msgid "Expense List"
+msgstr "支出列表"
+
+#: Template/MembershipPayment/add_expense.ctp:26 Template/MembershipPayment/expense_list.ctp:39
+msgid "Supplier Name"
+msgstr "供应商名称"
+
+#: Template/MembershipPayment/add_expense.ctp:36 Template/MembershipPayment/add_income.ctp:47
+msgid "Paid"
+msgstr "已支付"
+
+#: Template/MembershipPayment/add_expense.ctp:36 Template/MembershipPayment/add_income.ctp:47
+msgid "Part Paid"
+msgstr "部分付费"
+
+#: Template/MembershipPayment/add_expense.ctp:36 Template/MembershipPayment/add_income.ctp:47
+msgid "Unpaid"
+msgstr "未支付"
+
+#: Template/MembershipPayment/add_expense.ctp:53 Template/MembershipPayment/add_expense.ctp:75
+msgid "Expense Entry"
+msgstr "支出记录"
+
+#: Template/MembershipPayment/add_expense.ctp:55 Template/MembershipPayment/add_expense.ctp:77
+msgid "Expense Amount"
+msgstr "支出金额"
+
+#: Template/MembershipPayment/add_expense.ctp:58 Template/MembershipPayment/add_expense.ctp:80
+msgid "Expense Entry Label"
+msgstr "费用作品标签"
+
+#: Template/MembershipPayment/add_expense.ctp:95
+msgid "Add Expense Entry"
+msgstr "添加项费用"
+
+#: Template/MembershipPayment/add_expense.ctp:100
+msgid "Create Expense Entry"
+msgstr "创建费用项"
+
+#: Template/MembershipPayment/add_income.ctp:18 Template/MembershipPayment/add_income.ctp:22 Template/MembershipPayment/income_list.ctp:26
+msgid "Income List"
+msgstr "收入列表"
+
+#: Template/MembershipPayment/add_income.ctp:29
+msgid "income"
+msgstr "收入"
+
+#: Template/MembershipPayment/add_income.ctp:37
+msgid "Income label"
+msgstr "收入标签"
+
+#: Template/MembershipPayment/add_income.ctp:64 Template/MembershipPayment/add_income.ctp:86
+msgid "Income Entry"
+msgstr "收入项"
+
+#: Template/MembershipPayment/add_income.ctp:66 Template/MembershipPayment/add_income.ctp:88
+msgid "Income Amount"
+msgstr "收入金额"
+
+#: Template/MembershipPayment/add_income.ctp:69 Template/MembershipPayment/add_income.ctp:91
+msgid "Income Entry Label"
+msgstr "收入作品标签"
+
+#: Template/MembershipPayment/add_income.ctp:106
+msgid "Add Income Entry"
+msgstr "添加收入项"
+
+#: Template/MembershipPayment/add_income.ctp:111
+msgid "Create Income Entry"
+msgstr "创建收入项"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:41 Template/MembershipPayment/payment_list.ctp:39
+msgid "Generate Payment Invoice"
+msgstr "生成付款发票"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:45
+msgid "Membership Payment List"
+msgstr "会员付款清单"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:74
+msgid "Total Amount"
+msgstr "总价"
+
+#: Template/MembershipPayment/generate_payment_invoice.ctp:94
+msgid "save_membership_payment"
+msgstr "save_membership_payment"
+
+#: Template/MembershipPayment/income_list.ctp:30
+msgid "Add Income"
+msgstr "添加收入"
+
+#: Template/MembershipPayment/payment_list.ctp:49 Template/MembershipPayment/payment_list.ctp:94
+msgid "Title"
+msgstr "标题"
+
+#: Template/MembershipPayment/payment_list.ctp:79
+msgid "Pay"
+msgstr "付款"
+
+#: Template/MembershipPayment/print_invoice.ctp:147
+msgid "Discount :"
+msgstr "折扣："
+
+#: Template/Reports/attendance_report.ctp:14 Template/Reports/membership_report.ctp:12 Template/Reports/membership_status_report.ctp:14
+#: Template/Reports/payment_report.ctp:12
+msgid "Attendance Report"
+msgstr "出席报告"
+
+#: Template/Reports/attendance_report.ctp:15 Template/Reports/membership_report.ctp:9 Template/Reports/membership_status_report.ctp:9
+#: Template/Reports/payment_report.ctp:9
+msgid "Reports"
+msgstr "报告"
+
+#: Template/Reports/attendance_report.ctp:18 Template/Reports/membership_report.ctp:24 Template/Reports/membership_status_report.ctp:12
+msgid "Membership Report"
+msgstr "成员报告"
+
+#: Template/Reports/attendance_report.ctp:20 Template/Reports/membership_report.ctp:14 Template/Reports/membership_status_report.ctp:8
+#: Template/Reports/payment_report.ctp:14
+msgid "Membership Status Report"
+msgstr "成员状况报告"
+
+#: Template/Reports/attendance_report.ctp:22 Template/Reports/membership_report.ctp:16 Template/Reports/membership_status_report.ctp:16
+#: Template/Reports/payment_report.ctp:16
+msgid "Payment Report"
+msgstr "支付报告"
+
+#: Template/Reports/attendance_report.ctp:30
+msgid "Strat Date"
+msgstr "STRAT日期"
+
+#: Template/Reports/attendance_report.ctp:90 Template/Reports/membership_report.ctp:55 Template/Reports/membership_status_report.ctp:35
+#: Template/Reports/payment_report.ctp:60
+msgid "There is not enough data to generate report."
+msgstr "没有足够的数据来生成报告。"
+
+#: Template/Reports/membership_report.ctp:8 Template/Reports/payment_report.ctp:8
+msgid "Membership report"
+msgstr "会员报告"
+
+#: Template/Reports/membership_status_report.ctp:24
+msgid "Membership by status"
+msgstr "籍由状态"
+
+#: Template/Reports/payment_report.ctp:24
+msgid "Fee Payment Report By Month"
+msgstr "费用支付报表按月"
+
+#: Template/StaffMembers/add_staff.ctp:40 Template/StaffMembers/staff_list.ctp:37
+msgid "Staff List"
+msgstr "职员名单"
+
+#: Template/StaffMembers/add_staff.ctp:89
+msgid "Assign Role"
+msgstr "分配角色"
+
+#: Template/StaffMembers/add_staff.ctp:91
+msgid "Select Role"
+msgstr "选择角色"
+
+#: Template/StaffMembers/add_staff.ctp:99
+msgid "Specialization"
+msgstr "专业化"
+
+#: Template/StaffMembers/add_staff.ctp:172
+msgid "Save Staff"
+msgstr "保存员工"
+
+#: Template/StaffMembers/staff_list.ctp:55 Template/StaffMembers/staff_list.ctp:85
+msgid "Staff Member Name"
+msgstr "科员名称"
+
+#: Template/StaffMembers/staff_list.ctp:56 Template/StaffMembers/staff_list.ctp:86
+msgid "Role"
+msgstr "角色"
+
+#: Template/StaffMembers/staff_list.ctp:57 Template/StaffMembers/staff_list.ctp:87
+msgid "Staff Member Email"
+msgstr "科员电子邮件"
+
+#: Template/Users/login.ctp:20
+msgid "Logging you in"
+msgstr "登陆..."
+
+#: Template/Users/login.ctp:28
+msgid "Login"
+msgstr "登"
+
+#~ msgid "Member Manangement"
+#~ msgstr "会员Manangement"
+
+#~ msgid " Enable"
+#~ msgstr "启用"
+
